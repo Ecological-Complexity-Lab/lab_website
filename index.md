@@ -7,8 +7,6 @@ We strive to uncover the complexity underlying ecological systems
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 Research stuff
