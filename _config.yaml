@@ -1,13 +1,13 @@
 # site properties and page defaults
 title: Ecological Complexity Lab
-subtitle: 
-description: We strive to uncover the complexity of ecological systems across scales.
+subtitle: test subtitle
+description: Our stuff
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@Ecological-Complexity-Lab.com
+  email: pilos@bgu.ac.il
   orcid: 0000-0003-0430-5568
   google-scholar: orkq9UIAAAAJ
   github: Ecological-Complexity-Lab
