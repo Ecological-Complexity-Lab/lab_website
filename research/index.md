@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We strive to characterize the complexity of ecological systems and understand its nature and consequences. Our research combines modeling, simulations, data analysis and ecological/evolutionary theory in a variety of systems and across levels: from the molecular (genes), to individuals, to species assemblages to meta-communities. We collaborate with super-smart people in Israel and internationally. Lying on the interface between biology and network science, our work is by definition multidisciplinary. This provides excellent opportunities for students to work on interesting and challenging topics while gaining a broad set of skills to conduct research both in academia and outside. We believe in making honest, open science in a way that is engaging, collaborative and emphasizes good working-relations.
 
 {% include section.html %}
 
