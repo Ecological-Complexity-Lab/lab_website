@@ -13,7 +13,7 @@ We strive to characterize the complexity of ecological systems and understand it
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="EMLN" style="rich" %}
 
 {% include section.html %}
 
