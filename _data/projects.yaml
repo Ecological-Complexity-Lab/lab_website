@@ -1,12 +1,13 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: EMLN website
+  subtitle: 
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://ecological-complexity-lab.github.io/emln_package/index.html
+  description: Practical guidelines and the EMLN R package for handling ecological multilayer networks
+  repo: https://github.com/Ecological-Complexity-Lab/emln
   tags:
-    - resource
+    - multilayer
+    - website
 
 - title: Cool Package
   subtitle: a subtitle
