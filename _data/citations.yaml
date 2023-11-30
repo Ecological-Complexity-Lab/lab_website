@@ -1,174 +1,478 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.32942/X28G7K
+  title: Local and regional processes drive distance decay in structure in a spatial
+    multilayer plant-pollinator network
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Agustin Vitali
+  - Maya Goldstein
+  - Matan Markfeld
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2023-11-21'
+  link: https://doi.org/gs7gsx
+  orcid: 0000-0003-0430-5568
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.32942/X2161C
+  title: Scale-dependent signatures of microbial co-occurrence revealed via multilayer
+    network analysis
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Geut Galai
+  - Dafna Arbel
+  - Keren Klass
+  - Ido Grinshpan
+  - Itzhak Mizrahi
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2023-11-01'
+  link: https://doi.org/gs7gsz
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.14225
+  title: Practical guidelines and the <scp>EMLN</scp> R package for handling ecological
+    multilayer networks
+  authors:
+  - Noa Frydman
+  - Shirly Freilikhman
+  - Itamar Talpaz
+  - Shai Pilosof
+  publisher: Methods in Ecology and Evolution
+  date: '2023-10-18'
+  link: https://doi.org/gs7gs2
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-41906-2
+  title: Ecological network analysis reveals cancer-dependent chaperone-client interaction
+    structure and robustness
+  authors:
+  - Geut Galai
+  - Xie He
+  - Barak Rotblat
+  - Shai Pilosof
+  publisher: Nature Communications
+  date: '2023-10-07'
+  link: https://doi.org/gs7gs3
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32942/X2PG6X
+  title: Practical guidelines and the EMLN R package for handling ecological multilayer
+    networks
+  authors:
+  - Noa Frydman
+  - Shirly Freilikhman
+  - Itamar Talpaz
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2023-07-25'
+  link: https://doi.org/gs7gs4
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tim.2023.01.007
+  title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
+  authors:
+  - Shai Pilosof
+  publisher: Trends in Microbiology
+  date: '2023-07-01'
+  link: https://doi.org/gs7gs5
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2023.0132
+  title: Invasive species modulate the structure and stability of a multilayer mutualistic
+    network
+  authors:
+  - Agustin Vitali
+  - "Sof\xEDa Ruiz-Suarez"
+  - "Diego P. V\xE1zquez"
+  - Matthias Schleuning
+  - "Mariano A. Rodr\xEDguez-Cabal"
+  - Yamila Sasal
+  - Shai Pilosof
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2023-06-28'
+  link: https://doi.org/gs7gs6
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32942/X2WS3R
+  title: Conceptualizing microbe-plasmid communities as complex adaptive systems
+  authors:
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2023-02-19'
+  link: https://doi.org/gs7gs7
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.25.521894
+  title: Invasive species modulate the structure and stability of a multilayer mutualistic
+    network
+  authors:
+  - Agustin Vitali
+  - "Sof\xEDa Ruiz-Suarez"
+  - "Diego P. V\xE1zquez"
+  - Matthias Schleuning
+  - "Mariano A. Rodr\xEDguez-Cabal"
+  - Yamila Sasal
+  - Shai Pilosof
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-25'
+  link: https://doi.org/gs7gs8
+  orcid: 0000-0003-0430-5568
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.11.24.517852
+  title: Ecological network analysis reveals cancer-dependent chaperone-client interaction
+    structure and robustness in the mitochondria
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Geut Galai
+  - Barak Rotblat
+  - Shai Pilosof
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-11-25'
+  link: https://doi.org/gs7gs9
+  orcid: 0000-0003-0430-5568
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2022.09.08.507140
+  title: Multilayer Networks of Plasmid Genetic Similarity Reveal Potential Pathways
+    of Gene Transmission
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Julie Teresa Shapiro
+  - Alvah Zorea
+  - Aya Brown Kav
+  - Vicente J. Ontiveros
+  - Itzak Mizrahi
+  - Shai Pilosof
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-09-11'
+  link: https://doi.org/gs7gtb
+  orcid: 0000-0003-0430-5568
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1371/journal.pcbi.1009319
+  title: The interplay between vaccination and social distancing strategies affects
+    COVID19 population-level outcomes
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Sharon Guerstein
+  - Victoria Romeo-Aznar
+  - "Ma\u2019ayan Dekel"
+  - Oren Miron
+  - Nadav Davidovitch
+  - Rami Puzis
+  - Shai Pilosof
+  publisher: PLOS Computational Biology
+  date: '2021-08-20'
+  link: https://doi.org/gs7gtc
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fevo.2021.633263
+  title: Frequency-Dependent Competition Between Strains Imparts Persistence to Perturbations
+    in a Model of Plasmodium falciparum Malaria Transmission
+  authors:
+  - Qixin He
+  - Shai Pilosof
+  - Kathryn E. Tiedje
+  - Karen P. Day
+  - Mercedes Pascual
+  publisher: Frontiers in Ecology and Evolution
+  date: '2021-05-26'
+  link: https://doi.org/gn5626
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.13569
+  title: Identifying flow modules in ecological networks using Infomap
+  authors:
+  - Carmel Farage
+  - Daniel Edler
+  - "Anna Ekl\xF6f"
+  - Martin Rosvall
+  - Shai Pilosof
+  publisher: Methods in Ecology and Evolution
+  date: '2021-02-24'
+  link: https://doi.org/gjhqt7
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-020-01312-z
+  title: The network structure and eco-evolutionary dynamics of CRISPR-induced immune
+    diversification
+  authors:
+  - Shai Pilosof
+  - "Sergio A. Alcal\xE1-Corona"
+  - Tong Wang
+  - Ted Kim
+  - Sergei Maslov
+  - Rachel Whitaker
+  - Mercedes Pascual
+  publisher: Nature Ecology &amp; Evolution
+  date: '2020-10-19'
+  link: https://doi.org/gkzj6c
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers12040825
+  title: Pan-Cancer Analysis of Mitochondria Chaperone-Client Co-Expression Reveals
+    Chaperone Functional Partitioning
+  authors:
+  - Geut Galai
+  - Hila Ben-David
+  - Liron Levin
+  - Martin F. Orth
+  - "Thomas G. P. Gr\xFCnewald"
+  - Shai Pilosof
+  - Shimon Bershtein
+  - Barak Rotblat
+  publisher: Cancers
+  date: '2020-03-30'
+  link: https://doi.org/gmrxfg
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3000336
+  title: Competition for hosts modulates vast antigenic diversity to generate persistent
+    strain structure in Plasmodium falciparum
+  authors:
+  - Shai Pilosof
+  - Qixin He
+  - Kathryn E. Tiedje
+  - "Shazia Ruybal-Pes\xE1ntez"
+  - Karen P. Day
+  - Mercedes Pascual
+  publisher: PLOS Biology
+  date: '2019-06-24'
+  link: https://doi.org/gs7gtd
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-04219-3
+  title: Networks of genetic similarity reveal non-neutral processes shape strain
+    structure in Plasmodium falciparum
+  authors:
+  - Qixin He
+  - Shai Pilosof
+  - Kathryn E. Tiedje
+  - "Shazia Ruybal-Pes\xE1ntez"
+  - Yael Artzy-Randrup
+  - Edward B. Baskerville
+  - Karen P. Day
+  - Mercedes Pascual
+  publisher: Nature Communications
+  date: '2018-05-08'
+  link: https://doi.org/gdjghd
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jtbi.2017.07.020
+  title: Asymmetric disease dynamics in multihost interconnected networks
+  authors:
+  - Shai Pilosof
+  - Gili Greenbaum
+  - Boris R. Krasnov
+  - Yuval R. Zelnik
+  publisher: Journal of Theoretical Biology
+  date: '2017-10-01'
+  link: https://doi.org/gbv8p2
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-017-0101
+  title: The multilayer nature of ecological networks
+  authors:
+  - Shai Pilosof
+  - Mason A. Porter
+  - Mercedes Pascual
+  - "Sonia K\xE9fi"
+  publisher: Nature Ecology &amp; Evolution
+  date: '2017-03-23'
+  link: https://doi.org/gbrzt4
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: Temporal dynamics of direct reciprocal and indirect effects in a host--parasite
+    network
+  publisher: Journal of Animal Ecology
+  date: '2017-03-25'
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.12134
+  title: "A trade\u2010off between quantity and quality of offspring in haematophagous\
+    \ ectoparasites: the effect of the level of specialization"
+  authors:
+  - Irina S. Khokhlova
+  - Shai Pilosof
+  - Laura J. Fielden
+  - A. Allan Degen
+  - Boris R. Krasnov
+  publisher: Journal of Animal Ecology
+  date: '2013-09-23'
+  link: https://doi.org/f5t93k
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1600-0706.2013.00646.x
+  title: "Co\u2010occurrence and phylogenetic distance in communities of mammalian\
+    \ ectoparasites: limiting similarity versus environmental filtering"
+  authors:
+  - Boris R. Krasnov
+  - Shai Pilosof
+  - Michal Stanko
+  - Serge Morand
+  - "Natalia P. Korallo\u2010Vinarskaya"
+  - Maxim V. Vinarski
+  - Robert Poulin
+  publisher: Oikos
+  date: '2013-06-21'
+  link: https://doi.org/f5mdh3
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s0031182013001376
+  title: 'Phylogenetic structure of host spectra in Palaearctic fleas: stability versus
+    spatial variation in widespread, generalist species'
+  authors:
+  - BORIS R. KRASNOV
+  - SHAI PILOSOF
+  - GEORGY I. SHENBROT
+  - IRINA S. KHOKHLOVA
+  - A. ALLAN DEGEN
+  publisher: Parasitology
+  date: '2013-09-04'
+  link: https://doi.org/f5t3n6
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mambio.2013.10.005
+  title: Effects of sewage-water contamination on the immune response of a desert
+    bat
+  authors:
+  - Shai Pilosof
+  - Carmi Korine
+  - Marianne S. Moore
+  - Boris R. Krasnov
+  publisher: Mammalian Biology
+  date: '2014-04-01'
+  link: https://doi.org/gn5r7v
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15659801.2013.865338
+  title: 'FOREWORD: Evolution of culture'
+  authors:
+  - Reut Berger-Tal
+  - Elsita Kiekebusch
+  - Iara Sandomirsky
+  - Shai Pilosof
+  publisher: Israel Journal of Ecology and Evolution
+  date: '2013-05-18'
+  link: https://doi.org/gs7gtf
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1890/13-0678.1
+  title: "Multiple effects of host\u2010species diversity on coexisting host\u2010\
+    specific and host\u2010opportunistic microbes"
+  authors:
+  - Hadar Kedem
+  - Carmit Cohen
+  - Irit Messika
+  - Monica Einav
+  - Shai Pilosof
+  - Hadas Hawlena
+  publisher: Ecology
+  date: '2014-05-01'
+  link: https://doi.org/f549rc
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.12101
+  title: Phylogeny determines the role of helminth parasites in intertidal food webs
+  authors:
+  - Robert Poulin
+  - Boris R. Krasnov
+  - Shai Pilosof
+  - David W. Thieltges
+  publisher: Journal of Animal Ecology
+  date: '2013-06-25'
+  link: https://doi.org/f5ftt7
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijpara.2013.05.001
+  title: Spatial variation in the phylogenetic structure of flea assemblages across
+    geographic ranges of small mammalian hosts in the Palearctic
+  authors:
+  - Boris R. Krasnov
+  - Shai Pilosof
+  - Georgy I. Shenbrot
+  - Irina S. Khokhlova
+  publisher: International Journal for Parasitology
+  date: '2013-08-01'
+  link: https://doi.org/f45ch5
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.12090
+  title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
+    parasite network"
+  authors:
+  - Shai Pilosof
+  - Miguel A. Fortuna
+  - Maxim V. Vinarski
+  - "Natalia P. Korallo\u2010Vinarskaya"
+  - Boris R. Krasnov
+  publisher: Journal of Animal Ecology
+  date: '2013-05-14'
+  link: https://doi.org/f47vn5
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0041487
+  title: Effects of Anthropogenic Disturbance and Climate on Patterns of Bat Fly Parasitism
+  authors:
+  - Shai Pilosof
+  - Carl W. Dick
+  - Carmi Korine
+  - Bruce D. Patterson
+  - Boris R. Krasnov
+  publisher: PLoS ONE
+  date: '2012-07-19'
+  link: https://doi.org/gs7gtg
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s0031182012001205
+  title: 'Host body microcosm and ectoparasite infracommunities: arthropod ectoparasites
+    are not spatially segregated'
+  authors:
+  - SHAI PILOSOF
+  - MARCELA LARESCHI
+  - BORIS R. KRASNOV
+  publisher: Parasitology
+  date: '2012-09-05'
+  link: https://doi.org/f4bx5z
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1644/09-mamm-a-370.1
+  title: Variability in urine concentration and fecal water content of bats in a tropical
+    deciduous forest
+  authors:
+  - Shai Pilosof
+  - L. Gerardo Herrera M.
+  publisher: Journal of Mammalogy
+  date: '2010-06-16'
+  link: https://doi.org/bn23j5
+  orcid: 0000-0003-0430-5568
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +488,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +504,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
