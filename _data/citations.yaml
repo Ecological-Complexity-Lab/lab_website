@@ -14,7 +14,7 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0002-m.jpg
   buttons:
   - type: website
     link: https://ecological-complexity-lab.github.io/emln_package/
