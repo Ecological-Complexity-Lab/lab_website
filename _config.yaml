@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: Ecological Complexity Lab
-subtitle: test subtitle
-description: Our stuff
+subtitle: Elucidating the complexity of ecological systems
+description: Elucidating the complexity of ecological systems
 header: images/background_microbes.jpg
-footer: images/background.jpg
+footer: images/background_microbes.jpg
 
 # site social media and other links
 links:
