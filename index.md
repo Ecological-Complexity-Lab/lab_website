@@ -70,6 +70,15 @@ Project stuff
 {% capture text %}
 
 {%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
   include feature.html
   image="images/group_photo.jpeg"
   link="team"
