@@ -1,7 +1,7 @@
 ---
 title: Software
 nav:
-  order: 2
+  order: 4
   tooltip: Software, datasets, and websites
 ---
 
