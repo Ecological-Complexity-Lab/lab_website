@@ -31,6 +31,8 @@ We characterize the complexity of ecological systems to understand its nature an
 
 {% endcapture %}
 
+{% include section.html %}
+
 {%
   include feature.html
   image="images/photo.jpg"
@@ -62,6 +64,8 @@ Project stuff
   style="bare"
   text=text
 %}
+
+{% include section.html %}
 
 {% capture text %}
 
