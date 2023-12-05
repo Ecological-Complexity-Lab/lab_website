@@ -14,7 +14,7 @@ We characterize the complexity of ecological systems to understand its nature an
 {%
   include button.html
   link="publications"
-  text="See our publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -23,7 +23,7 @@ We characterize the complexity of ecological systems to understand its nature an
 {%
   include button.html
   link="research"
-  text="See our research directions"
+  text="Research directions"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -31,15 +31,7 @@ We characterize the complexity of ecological systems to understand its nature an
 
 {% endcapture %}
 
-{% include section.html %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+####
 
 {% capture text %}
 
@@ -65,18 +57,11 @@ Project stuff
   text=text
 %}
 
-{% include section.html %}
+#######
 
 {% capture text %}
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+OOUR TEAM
 
 {%
   include feature.html
