@@ -79,6 +79,15 @@ People stuff
 
 {%
   include feature.html
+  image="images/group_photo.jpeg"
+  link="team"
+  title="Meet our team"
+  text="Our team is made up of people all around the globe"
+  flip=true
+%}
+
+{%
+  include feature.html
   image="images/photo.jpg"
   link="team"
   title="Our Team"
