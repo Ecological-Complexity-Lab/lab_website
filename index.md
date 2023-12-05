@@ -65,18 +65,6 @@ Project stuff
 
 {% capture text %}
 
-People stuff
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
 {%
   include feature.html
   image="images/group_photo.jpeg"
@@ -86,10 +74,4 @@ People stuff
   flip=true
 %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+{% endcapture %}
