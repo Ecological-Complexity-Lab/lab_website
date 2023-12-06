@@ -17,3 +17,24 @@ Microbes play a profound role in ecosystem functions, but mobile genetic element
 
 ## Disease ecology: Multihost-multiparasite interactions
 In nature, multiple parasite species spread across multiple host species, creating a web of direct and indirect effects on transmission dynamics. Considering multihost-multiparasite interactions in epidemiological models is a non-trivial task because of model complexities and the nonlinearity involved in predicting higher-level interactions from lower-level ones. Another challenge is to link the ecological interactions at the species level with disease transmission at the individual level. We study the structure of host-parasite networks and aim to develop epidemiological models that can explain their structure. 
+
+
+{% include section.html %}
+
+{% capture content %}
+  {%
+    include figure.html
+    image="images/EMLN.png"
+    width="200px"
+  %}
+{% endcapture %}
+​
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+​
+The study of networks has been a fundamental component of population and community ecology but ecological networks have been typically studied in isolation – that is, they involve a single type of interaction or represent a particular community that it is not connected to others. Recent advances in the field of multilayer networks in network science, together with an increase in the availability of adequate ecological data, now provide an exciting opportunity for ecologists to move beyond studies of isolated networks. In our research, we use ecological multilayer networks to investigate the variation across interconnected ecological networks such as those interconnected in space, time, or involving several interaction types. We also use this framework to study socio-ecological networks in which human activities are directly connected to ecological nodes. In addition, we develop methodology to facilitate and advance the analysis of ecological multilayer networks.
+​
+{% include float.html clear=true %}
