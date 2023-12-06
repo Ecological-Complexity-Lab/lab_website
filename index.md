@@ -80,7 +80,7 @@ Our team is composed if students, post-docs and research associates from multipl
   link="team"
   title="Meet our team"
   text="Our team is made up of people all around the globe"
-  flip=true
+  flip=false
 %}
 
 {% endcapture %}
