@@ -59,11 +59,21 @@ We develop tools for analysis of multilayer networks.
   text=text
 %}
 
-#######
 
 {% capture text %}
 
-OOUR TEAM
+Our team is composed if students, post-docs and research associates from multiple countries. We emphasize team work and social life :)
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
 
 {%
   include feature.html
