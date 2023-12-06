@@ -6,7 +6,7 @@
 All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
 {%
   include figure.html
-  image="images/main_group_photo.jpg"
+  image="images/main_group_photo.jpeg"
   link="team"
   width="400px"
 %}
