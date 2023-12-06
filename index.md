@@ -4,8 +4,6 @@
 # Ecology | Network Science | Data science | Out-of-the box thinking
 
 All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
-
-
 {%
   include figure.html
   image="images/main_group_photo.jpg"
@@ -17,12 +15,13 @@ All ecological systems are complex. How are they structured? How are they create
 
 {% capture text %}
 
-We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory. {%  include button.html
+We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory. 
+
+{%  include button.html
   link="publications"
   text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -33,7 +32,6 @@ We characterize the complexity of ecological systems to understand its nature an
   link="research"
   title="Research directions"
   flip=false
-  style="bare"
   text=text
 %}
 
