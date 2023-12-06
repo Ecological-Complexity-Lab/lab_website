@@ -1,7 +1,7 @@
 ---
 ---
 
-# Ecology | Network Science | Data science | Out-of-the box thinking
+# Ecology, Network Science & Data science
 
 All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
 {%
@@ -13,6 +13,7 @@ All ecological systems are complex. How are they structured? How are they create
 
 {% include section.html %}
 
+<!--
 {% capture text %}
 
 We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory. 
@@ -32,6 +33,7 @@ We characterize the complexity of ecological systems to understand its nature an
 %}
 
 {% endcapture %}
+-->
 
 {%
   include feature.html
@@ -39,10 +41,10 @@ We characterize the complexity of ecological systems to understand its nature an
   link="research"
   title="Research directions"
   flip=false
-  text="We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory. 2"
+  text="We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory."
 %}
 
-
+<!--
 {% capture text %}
 
 We develop tools for analysis of multilayer networks.
@@ -56,6 +58,7 @@ We develop tools for analysis of multilayer networks.
 %}
 
 {% endcapture %}
+-->
 
 {%
   include feature.html
@@ -63,9 +66,10 @@ We develop tools for analysis of multilayer networks.
   link="software"
   title="Our Projects"
   flip=true
+  text="We develop tools for analysis of multilayer networks."
 %}
 
-
+<!--
 {% capture text %}
 
 Our team is composed of students, post-docs and research associates from multiple countries. We emphasize team work and social life.
@@ -79,12 +83,13 @@ Our team is composed of students, post-docs and research associates from multipl
 %}
 
 {% endcapture %}
+-->
 
 {%
   include feature.html
   image="images/main_group_photo.jpeg"
   link="team"
   title="Meet our team"
-  text="Our team is made up of people all around the globe"
+  text="Our team is made up of smart and lovely people all around the globe. Want to join us?"
   flip=false
 %}
