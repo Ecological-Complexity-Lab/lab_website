@@ -24,6 +24,13 @@ We characterize the complexity of ecological systems to understand its nature an
   flip=true
 %}
 
+{%  include button.html
+  link="research"
+  text="Research directions"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+%}
+
 {% endcapture %}
 
 {%
@@ -43,10 +50,9 @@ We develop tools for analysis of multilayer networks.
 {%
   include button.html
   link="software"
-  text="Browse our software"
+  text="Software"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -57,8 +63,6 @@ We develop tools for analysis of multilayer networks.
   link="software"
   title="Our Projects"
   flip=true
-  style="bare"
-  text=text
 %}
 
 
@@ -72,7 +76,6 @@ Our team is composed if students, post-docs and research associates from multipl
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
