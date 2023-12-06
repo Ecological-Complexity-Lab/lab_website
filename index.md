@@ -1,7 +1,7 @@
 ---
 ---
 
-# Ecology | Network Science | Data science | Out-of-the boox thinking
+# Ecology | Network Science | Data science | Out-of-the box thinking
 
 All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
 
