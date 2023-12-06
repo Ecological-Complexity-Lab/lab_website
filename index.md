@@ -1,9 +1,17 @@
 ---
 ---
 
-# Welcome to our website
+# Ecology | Network Science | Data science | Out-of-the boox thinking
 
-We strive to uncover the complexity underlying ecological systems
+All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
+
+
+{%
+  include figure.html
+  image="images/main_group_photo.jpg"
+  link="team"
+  width="400px"
+%}
 
 {% include section.html %}
 
