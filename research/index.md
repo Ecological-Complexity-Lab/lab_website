@@ -49,12 +49,12 @@ The study of networks has been a fundamental component of population and communi
 
 {% include section.html %}
 
-## Disease ecology: Multihost-multiparasite interactions
+## Disease ecology
 
 {% capture content %}
   {%
     include figure.html
-    image="images/research_disease.png"
+    image="images/research_disease.jpg"
     width="200px"
   %}
 {% endcapture %}
@@ -65,4 +65,10 @@ The study of networks has been a fundamental component of population and communi
   flip=true
 %}
 ​
-In nature, multiple parasite species spread across multiple host species, creating a web of direct and indirect effects on transmission dynamics. Considering multihost-multiparasite interactions in epidemiological models is a non-trivial task because of model complexities and the nonlinearity involved in predicting higher-level interactions from lower-level ones. Another challenge is to link the ecological interactions at the species level with disease transmission at the individual level. We study the structure of host-parasite networks and aim to develop epidemiological models that can explain their structure. 
+In nature, multiple parasite species spread across multiple host species, creating a web of direct and indirect effects on transmission dynamics. Considering multihost-multiparasite interactions in epidemiological models is a non-trivial task because of model complexities and the nonlinearity involved in predicting higher-level interactions from lower-level ones. Another challenge is to link the ecological interactions at the species level with disease transmission at the individual level. We study the structure of host-parasite networks and aim to develop epidemiological models that can explain their structure. We also aim to understand how land use change affects the spread and risk of pathogens.
+
+
+{%
+  include tags.html
+  tags="NSF-BSF, host-parasite interactions"
+%}
