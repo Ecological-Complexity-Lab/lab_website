@@ -39,7 +39,7 @@ We characterize the complexity of ecological systems to understand its nature an
   link="research"
   title="Research directions"
   flip=false
-  text=text
+  text="We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory. 2"
 %}
 
 
@@ -68,7 +68,7 @@ We develop tools for analysis of multilayer networks.
 
 {% capture text %}
 
-Our team is composed if students, post-docs and research associates from multiple countries. We emphasize team work and social life.
+Our team is composed of students, post-docs and research associates from multiple countries. We emphasize team work and social life.
 
 {%
   include button.html
