@@ -27,11 +27,10 @@ We characterize the complexity of ecological systems to understand its nature an
   image="images/research.png"
   link="research"
   title="Research directions"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}
-
 
 
 {% capture text %}
