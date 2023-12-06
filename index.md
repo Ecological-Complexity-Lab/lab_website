@@ -36,8 +36,8 @@ We develop tools for analysis of multilayer networks.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="software"
+  text="Browse our software"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -48,7 +48,7 @@ We develop tools for analysis of multilayer networks.
 {%
   include feature.html
   image="images/main_projects.png"
-  link="projects"
+  link="software"
   title="Our Projects"
   flip=true
   style="bare"
@@ -58,7 +58,7 @@ We develop tools for analysis of multilayer networks.
 
 {% capture text %}
 
-Our team is composed if students, post-docs and research associates from multiple countries. We emphasize team work and social life :)
+Our team is composed if students, post-docs and research associates from multiple countries. We emphasize team work and social life.
 
 {%
   include button.html
