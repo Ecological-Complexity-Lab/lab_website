@@ -12,6 +12,16 @@ We strive to uncover the complexity underlying ecological systems
 We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory.
 
 {%
+  include feature.html
+  image="images/research.png"
+  link="research"
+  title="Research directions"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{%
   include button.html
   link="publications"
   text="Publications"
@@ -20,22 +30,13 @@ We characterize the complexity of ecological systems to understand its nature an
   style="bare"
 %}
 
-{%
-  include button.html
-  link="research"
-  text="Research directions"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
 {% endcapture %}
 
-####
 
 {% capture text %}
 
-Project stuff
+We develop tools for analysis of multilayer networks.
+
 {%
   include button.html
   link="projects"
