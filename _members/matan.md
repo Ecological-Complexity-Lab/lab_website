@@ -1,6 +1,6 @@
 ---
 name: Matan Markfeld
-image: images/team_shai.jpeg
+image: images/team_matan.jpeg
 description: PhD student
 role: phd
 links:
