@@ -1,10 +1,11 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Agustin Vitali
+image: images/team_tino.jpeg
+role: Postdoc
+group: current
 links:
-  github: john-doe
+  email: agustinvitali12@gmail.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a post-doctoral researcher at BGU from Argentina. I am interested in understanding the complex interaction between humans and nature. In particular, my research focuses on invasive species, ecosystem services, and community ecology. In my free time, I enjoy doing outdoor activities, such as hiking and climbing.
+
