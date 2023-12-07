@@ -13,15 +13,17 @@ Our lab is part of the Department of Life Sciences at Ben-Gurion Univetsity. We 
 {% include icon.html icon="fa-regular fa-phone" %} Office (+972)8-647-9226
 {% include icon.html icon="fa-solid fa-phone" %} Lab (+972)8-647-9223
 
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/SnZrSNTT3u1iKFMXA"
-%}
-
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/contact_map.png"
+  caption="The team at our annual Christmas party, 2025"
+  link="https://maps.app.goo.gl/SnZrSNTT3u1iKFMXA"
+  width="400px"
+%}
+
+<!--
 {% capture col1 %}
 
 {%
@@ -65,3 +67,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+-->
