@@ -7,20 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a diverse group of dedicated and passionate researchers excited to explore ecological systems. Our team comprises talented individuals across all academic levels and from multiple countries and backgrounds. Each of us brings a unique perspectives to our research. With interests spanning ecology & evolution, data science, and complex system modeling, our team excels in groundbreaking synergistic research. We also enjoy a rich tapestry of hobbies, including photography, music, outdoor activities, and arts, which enrich our collaborative environment.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. We want to push the frontier of data science and train the next generation of data scientists.
 
 {% include section.html %}
 
