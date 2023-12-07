@@ -18,15 +18,10 @@ We are a diverse group of dedicated and passionate researchers excited to explor
 {% include section.html background="images/background.jpg" dark=true %}
 
 We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. We want to push the frontier of data science and train the next generation of data scientists.
+{% include button.html link="join" text="Join the lab" icon="fa-solid fa-handshake" flip=true%}
 
 {% include section.html %}
 
-{% capture content %}
+# Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
