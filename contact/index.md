@@ -20,9 +20,7 @@ Our lab is part of the Department of Life Sciences at Ben-Gurion Univetsity. We 
 {%
   include figure.html
   image="images/contact_map.png"
-  caption="The team at our annual Christmas party, 2025"
   link="https://maps.app.goo.gl/SnZrSNTT3u1iKFMXA"
-  width="400px"
 %}
 
 <!--
