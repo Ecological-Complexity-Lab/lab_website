@@ -14,20 +14,24 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="pilos@bgu.ac.il"
+  link="pilos@bgu.ac.il"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="Office (+972)8-647-9226"
+%}
+{%
+  include button.html
+  type="phone"
+  text="Lab (+972)8-647-9223"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/SnZrSNTT3u1iKFMXA"
 %}
 
 {% include section.html %}
