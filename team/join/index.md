@@ -1,5 +1,8 @@
 ---
 title: Join
+nav:
+  order: 4
+  tooltip: Join us!
 ---
 
 # {% include icon.html icon="fa-regular fa-handshake" %}Join Us
