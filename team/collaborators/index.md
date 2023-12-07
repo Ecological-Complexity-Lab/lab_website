@@ -1,4 +1,4 @@
-{% include icon.html icon="fa-solid fa-users" %}Collaborators
+{% include icon.html icon="fa-solid fa-handshake" %}Collaborators
 
 We collaborate with super-smart people! Our collaborations are intended to...
 
