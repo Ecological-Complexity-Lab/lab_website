@@ -1,7 +1,7 @@
 ---
 name: Ying-Jie Wang
 image: images/team_YJ.png
-description: Lead Programmer
+description: Postdoc
 role: postdoc
 links:
   email: yingjie@post.bgu.ac.il
