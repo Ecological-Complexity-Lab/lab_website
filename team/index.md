@@ -13,7 +13,7 @@ We are a diverse group of dedicated and passionate researchers excited to explor
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$!alumni$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
