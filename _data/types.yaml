@@ -30,6 +30,10 @@ alumni:
   icon: fa-regular fa-thumbs-up
   description: Past member
 
+collaborator:
+  icon: fa-regular fa-handshake
+  description: Collaborator
+
 # general
 
 link:
