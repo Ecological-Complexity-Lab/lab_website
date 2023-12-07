@@ -26,9 +26,9 @@ labmanager:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+alumni:
+  icon: fa-regular fa-thumbs-up
+  description: Past member
 
 # general
 
