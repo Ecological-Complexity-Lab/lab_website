@@ -1,11 +1,10 @@
 ---
-name: Anna Eklöf
-image: images/collaborators_annaeklof.png
+name: Barak Rotblat
+image: images/collaborators_barak.png
 role: collaborator
-aliases:
-  - Eklof
 links:
-  website: https://annaeklof.wordpress.com/
+  home-page: https://barakrotblat.wixsite.com/rotblatlab
 ---
 
-Collaborating on food web ecology and theoretical ecology.
+Collaborating on cancer protein networks.
+
