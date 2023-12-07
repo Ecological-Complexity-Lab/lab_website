@@ -2,7 +2,7 @@
 title: Join
 ---
 
-# {% include icon.html icon="a-regular fa-handshake" %}Join Us
+# {% include icon.html icon="fa-regular fa-handshake" %}Join Us
 
 {% include section.html %}
 
