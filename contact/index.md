@@ -7,26 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the Department of Life Sciences at Ben-Gurion Univetsity. We are located at Be'er-Sheva, Israel.
 
-{%
-  include button.html
-  type="email"
-  text="pilos@bgu.ac.il"
-  link="pilos@bgu.ac.il"
-%}
-{%
-  include button.html
-  type="phone"
-  text="Office (+972)8-647-9226"
-%}
-{%
-  include button.html
-  type="phone"
-  text="Lab (+972)8-647-9223"
-%}
+{% include icon.html icon="fa-regular fa-envelope" %} pilos@bgu.ac.il
+{% include icon.html icon="fa-regular fa-phone" %} Office (+972)8-647-9226
+{% include icon.html icon="fa-solid fa-phone" %} Lab (+972)8-647-9223
+
 {%
   include button.html
   type="address"
