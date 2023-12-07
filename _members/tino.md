@@ -1,8 +1,8 @@
 ---
 name: Agustin Vitali
 image: images/team_tino.jpeg
-role: Postdoc
 description: Postdoc
+role: postdoc
 links:
   email: agustinvitali12@gmail.com
 ---
