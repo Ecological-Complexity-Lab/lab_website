@@ -1,6 +1,6 @@
 ---
 name: Maya Goldstein
-image: images/team_mayagoldstein.png
+image: images/team_mayagoldstein.jpeg
 description: BSc student
 role: alumni
 links:
