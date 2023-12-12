@@ -1,6 +1,6 @@
 ---
 name: Dr. Vicente J. Ontiveros
-image: images/team_vicente.jpeg
+image: images/alumni/team_vicente.jpeg
 description: Postdoc
 role: alumni
 ---
