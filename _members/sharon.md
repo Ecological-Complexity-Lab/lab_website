@@ -1,6 +1,6 @@
 ---
 name: Sharon Samuel
-image: images/team_sharon.jpeg
+image: images/alumni/team_sharon.jpeg
 description: MSc student
 role: alumni
 links:
