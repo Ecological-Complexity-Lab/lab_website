@@ -67,8 +67,10 @@
   date: '2023-10-07'
   link: https://doi.org/gs7gs3
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.nature.com/articles/s41467-023-41906-2/figures/1
 - id: doi:10.1016/j.tim.2023.01.007
   title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
   authors:
