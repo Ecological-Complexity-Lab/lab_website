@@ -1,5 +1,5 @@
 ---
-title: War efforts: contributing to national agriculture through volunteer work.
+title: "War efforts: contributing to national agriculture through volunteer work."
 author: shirlyf
 tags: community
 ---
