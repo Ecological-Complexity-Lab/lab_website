@@ -14,8 +14,8 @@
 - id: doi:10.1038/s41467-023-41906-2
   type: paper
   image: https://www.nature.com/articles/s41467-023-41906-2/figures/1
+- id: doi:10.32942/X2161C
+  image: images/publications/pic_scale_dependent_signatures.png
 - id: doi:10.1098/rspb.2023.0132
   type: paper
   image: https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
-
-  
