@@ -9,3 +9,5 @@
     - R
     - package
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
+- id: doi:10.32942/X28G7K
+  image: images/publications/pic_local_and_regional_processes.png
