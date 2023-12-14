@@ -1,6 +1,8 @@
 - title: EMLN website
   group: featured
   image: images/projects/emln_pic.png
+  width: 30
+  height: 20
   link: https://ecological-complexity-lab.github.io/emln_package/index.html
   description: Practical guidelines and the EMLN R package for handling ecological multilayer networks
   repo: https://github.com/Ecological-Complexity-Lab/emln
