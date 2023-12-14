@@ -11,3 +11,6 @@
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
 - id: doi:10.32942/X28G7K
   image: images/publications/pic_local_and_regional_processes.png
+- id: doi:10.1038/s41467-023-41906-2
+  type: paper
+  image: https://www.nature.com/articles/s41467-023-41906-2/figures/1
