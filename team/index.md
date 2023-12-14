@@ -34,4 +34,8 @@ Our collaboration with top scientists is pivotal to our lab's success, as they b
 
 # Alumni
 
+{% include list.html data="members" component="portrait" filters="role: alumni, description: Postdoc"%}
+{% include list.html data="members" component="portrait" filters="role: alumni, description: Phd student"%}
 {% include list.html data="members" component="portrait" filters="role: alumni, description: MSc student"%}
+{% include list.html data="members" component="portrait" filters="role: alumni, description: BSc student"%}
+{% include list.html data="members" component="portrait" filters="role: alumni, description: Lab manager"%}
