@@ -525,6 +525,15 @@
     
       
         <a
+          href="/lab_website/blog/"
+          data-tooltip="What we are up to"
+        >
+          Blog
+        </a>
+      
+    
+      
+        <a
           href="/lab_website/team/join/"
           data-tooltip="Join us!"
         >
