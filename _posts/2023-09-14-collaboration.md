@@ -11,7 +11,7 @@ Following EcoNet2023, Johannes Nauta (postdoctoral researcher, Dept. of Physics,
 {%
   include figure.html
   image="/images/blog/collaborationJohannes2.jpeg"
-  caption="Johannes Nauta spent a week at our lab."
+  caption="Johannes Nauta spent a week at our lab"
   height="300px"
 %}
  
