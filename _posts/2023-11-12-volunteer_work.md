@@ -14,4 +14,12 @@ We encounter challenges that call for collective action during these challenging
     <img src="../images/blog/volunteer_work_1.jpeg" style="width: 200px; margin: 10px;">
     <img src="../images/blog/volunteer_work_2.jpeg" style="width: 200px; margin: 10px;">
     <img src="../images/blog/volunteer_work_3.jpg" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_4.jpg" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_5.JPG" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_6.JPG" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_7.JPG" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_8.jpg" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_9.jpg" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_10.jpg" style="width: 200px; margin: 10px;">
+    <img src="../images/blog/volunteer_work_11.jpg" style="width: 200px; margin: 10px;">
 </div>
