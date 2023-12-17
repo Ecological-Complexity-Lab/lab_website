@@ -2,7 +2,7 @@
 title: Modeling microbiome dynamics. A productive week after EcoNet2023.
 author: shirlyf
 tags: 
-  - collaboration
+  - collaborations
   - students
 ---
 
