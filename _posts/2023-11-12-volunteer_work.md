@@ -9,8 +9,9 @@ We encounter challenges that call for collective action during these challenging
 {%
   include figure.html
   image="images/blog/volunteer_work_8.jpg"
-  width="100%"
+  height="300px"
 %}
+
  
 <div style="display: flex; justify-content: center;">
     <img src="../images/blog/volunteer_work_3.jpg" style="width: 200px; margin: 10px;">
