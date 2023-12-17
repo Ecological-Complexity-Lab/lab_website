@@ -15,9 +15,3 @@ Following EcoNet2023, Johannes Nauta (postdoctoral researcher, Dept. of Physics,
   height="300px"
 %}
  
-<div style="display: flex; justify-content: center;">
-    <img src="../images/blog/collaborationJohannes1.jpeg" style="width: 200px; margin: 10px;">
-    <img src="../images/blog/collaborationJohannes2.jpeg" style="width: 200px; margin: 10px;">
-    <img src="../images/blog/collaborationJohannes3.jpeg" style="width: 200px; margin: 10px;">
-</div>
-
