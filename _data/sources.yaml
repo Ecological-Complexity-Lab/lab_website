@@ -1,7 +1,7 @@
 - id: doi:10.1111/2041-210X.14225
   type: paper
   description: EMLN package and guidelines
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg # images/projects/emln_pic.jpg 
+  image: images/projects/emln_pic.jpg #https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg  
   buttons:
     - type: website
       link: https://ecological-complexity-lab.github.io/emln_package/
@@ -43,3 +43,11 @@
 - id: doi:10.1111/2041-210X.13569
   type: paper
   image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
+
+- id: doi:10.1038/s41559-020-01312-z
+  type: paper
+  image: images/publications/pic_the_network_structure_and_eco_evol_CRISPR.webp
+  
+- id: doi:10.3390/cancers12040825
+  type: paper
+  image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
