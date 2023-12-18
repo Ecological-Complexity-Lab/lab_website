@@ -60,6 +60,10 @@
   type: paper
   image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
 
+- id: doi:10.1016/j.jtbi.2017.07.020
+  type: paper
+  image: images/publications/pic_asymmetric_disease_dynamics.jpeg
 
-
-  
+- id: doi:10.1038/s41559-017-0101
+  type: paper
+  image: images/publications/pic_the_multilayer_nature_of_ecological_net.webp
