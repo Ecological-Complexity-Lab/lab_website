@@ -16,7 +16,7 @@
   file: sources.yaml
   type: paper
   description: EMLN package and guidelines
-  image: images/projects/emln_pic.jpg
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg
   buttons:
   - type: website
     link: https://ecological-complexity-lab.github.io/emln_package/
@@ -71,7 +71,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://www.nature.com/articles/s41467-023-41906-2/figures/1
+  image: images/publications/pic_ecological_network_analysis_reveals_cancer.png
 - id: doi:10.1016/j.tim.2023.01.007
   title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
   authors:
@@ -102,7 +102,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
+  image: images/publications/pic_invasive_species_modulate_the_structure.jpeg
 - id: doi:10.1038/s41396-023-01373-5
   title: Multilayer networks of plasmid genetic similarity reveal potential pathways
     of gene transmission
