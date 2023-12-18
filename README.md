@@ -1,5 +1,5 @@
+This is the repo for our new website!
 
-# Ecological-Complexity-Lab's Website
 
 Visit **[ecomplab.com](http://ecomplab.com)** 🚀
 
