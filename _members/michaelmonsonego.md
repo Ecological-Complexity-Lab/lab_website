@@ -1,5 +1,5 @@
 ---
-name: Carmel Farage
+name: Michael Monsonego
 image: images/alumni/team_michaelmonsonego.jpeg
 description: BSc student
 role: alumni
