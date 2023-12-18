@@ -1,7 +1,7 @@
 - id: doi:10.1111/2041-210X.14225
   type: paper
   description: EMLN package and guidelines
-  image: images/projects/emln_pic.jpg # https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg # images/projects/emln_pic.jpg 
   buttons:
     - type: website
       link: https://ecological-complexity-lab.github.io/emln_package/
@@ -18,7 +18,7 @@
   
 - id: doi:10.1038/s41467-023-41906-2
   type: paper
-  image: https://www.nature.com/articles/s41467-023-41906-2/figures/1
+  image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
   
 - id: doi:10.1016/j.tim.2023.01.007
   type: paper
@@ -26,4 +26,4 @@
   
 - id: doi:10.1098/rspb.2023.0132
   type: paper
-  image: https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
+  image: images/publications/pic_invasive_species_modulate_the_structure.jpeg # https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
