@@ -16,7 +16,7 @@
   file: sources.yaml
   type: paper
   description: EMLN package and guidelines
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg
+  image: images/projects/emln_pic.jpg
   buttons:
   - type: website
     link: https://ecological-complexity-lab.github.io/emln_package/
@@ -188,8 +188,10 @@
   date: '2020-10-19'
   link: https://doi.org/gkzj6c
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_the_network_structure_and_eco_evol_CRISPR.webp
 - id: doi:10.3390/cancers12040825
   title: Pan-Cancer Analysis of Mitochondria Chaperone-Client Co-Expression Reveals
     Chaperone Functional Partitioning
@@ -206,8 +208,10 @@
   date: '2020-03-30'
   link: https://doi.org/gmrxfg
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
 - id: doi:10.1371/journal.pbio.3000336
   title: Competition for hosts modulates vast antigenic diversity to generate persistent
     strain structure in Plasmodium falciparum
