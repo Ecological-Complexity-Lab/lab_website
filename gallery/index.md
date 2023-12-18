@@ -2,7 +2,7 @@
 title: gallery
 ---
 
-# My Photo Gallery
+# My Gallery
 
 Here is a gallery of my favorite photos:
 
