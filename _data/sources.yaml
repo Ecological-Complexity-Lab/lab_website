@@ -27,3 +27,19 @@
 - id: doi:10.1098/rspb.2023.0132
   type: paper
   image: images/publications/pic_invasive_species_modulate_the_structure.jpeg # https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
+
+- id: doi:10.1038/s41396-023-01373-5
+  type: paper
+  image: images/publications/pic_multilayer_networks_of_plasmid_genetics.png
+
+- id: doi:10.1371/journal.pcbi.1009319
+  type: paper
+  image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
+
+- id: doi:10.3389/fevo.2021.633263
+  type: paper
+  image: https://www.frontiersin.org/files/Articles/633263/fevo-09-633263-HTML-r2/image_m/fevo-09-633263-g001.jpg #images/publications/pic_frequency_dependent_competition_between_strains.jpeg
+
+- id: doi:10.1111/2041-210X.13569
+  type: paper
+  image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
