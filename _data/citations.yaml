@@ -226,8 +226,10 @@
   date: '2019-06-24'
   link: https://doi.org/gs7gtd
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.tiff
 - id: doi:10.1038/s41467-018-04219-3
   title: Networks of genetic similarity reveal non-neutral processes shape strain
     structure in Plasmodium falciparum
@@ -244,8 +246,10 @@
   date: '2018-05-08'
   link: https://doi.org/gdjghd
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
 - id: doi:10.1016/j.jtbi.2017.07.020
   title: Asymmetric disease dynamics in multihost interconnected networks
   authors:
