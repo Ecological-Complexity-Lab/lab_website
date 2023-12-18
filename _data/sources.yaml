@@ -51,3 +51,15 @@
 - id: doi:10.3390/cancers12040825
   type: paper
   image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
+
+- id: doi:10.1371/journal.pbio.3000336
+  type: paper
+  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.tiff
+
+- id: doi:10.1038/s41467-018-04219-3
+  type: paper
+  image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
+
+
+
+  
