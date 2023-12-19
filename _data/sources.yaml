@@ -103,3 +103,15 @@
 - id: doi:10.1111/1365-2656.12090
   type: paper
   image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
+
+- id: doi:10.1017/s0031182012001205
+  type: paper
+  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+
+- id: doi:10.1371/journal.pone.0041487
+  type: paper
+  image: images/publications/pic_effects_of_anthropogenic_disturbance.tif
+
+- id: doi:10.1644/09-mamm-a-370.1
+  type: paper
+  image: images/publications/pic_variability_in_urine_concentration.jpg
