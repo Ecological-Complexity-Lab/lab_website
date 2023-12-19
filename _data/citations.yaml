@@ -229,7 +229,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.tiff
+  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.jpeg
 - id: doi:10.1038/s41467-018-04219-3
   title: Networks of genetic similarity reveal non-neutral processes shape strain
     structure in Plasmodium falciparum
@@ -453,7 +453,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_effects_of_anthropogenic_disturbance.tif
+  image: images/publications/pic_effects_of_anthropogenic_disturbance.jpeg
 - id: doi:10.1017/s0031182012001205
   title: 'Host body microcosm and ectoparasite infracommunities: arthropod ectoparasites
     are not spatially segregated'
