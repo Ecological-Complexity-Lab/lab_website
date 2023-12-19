@@ -1,6 +1,6 @@
 ---
 name: Rami Puzis
-image: images/collaborators/collaborators_RamiPuzis.png
+image: images/collaborators/collaborators_RamiPuzis.jpeg
 role: collaborator
 links:
   home-page: https://faramirp.wixsite.com/puzis
