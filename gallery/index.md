@@ -13,74 +13,74 @@ A collection of nature-related photos.
 <div class="scrollable-gallery">
     <div class="thumbnails">
         
-        <!-- Repeat this block for each image in the set -->
-        
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-                <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 3">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 4">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-            <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-        </a>
-        <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-            <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-        </a>
+<!-- Repeat this block for each image in the set -->
+
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+        <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 3">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 4">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+</a>
 
         
     </div>
