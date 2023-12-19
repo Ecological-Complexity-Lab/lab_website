@@ -358,7 +358,7 @@
 
 </head>
 
-  <body>
+  <body><div>
     
 
 
@@ -460,11 +460,13 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="my-gallery">My Gallery</h1>
+    <!--
+# My Gallery
 
-<p>Here is a gallery of my favorite photos:</p>
+Here is a gallery of my favorite photos:
 
 
+<head>
     <title>My Photo Gallery</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
     <style>
@@ -474,8 +476,8 @@
             padding: 5px;
         }
     </style>
-
-
+</head>
+<body>
 
 <div class="gallery">
     <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="mygallery" data-title="My Image 1">
@@ -485,10 +487,67 @@
         <img src="path/to/thumbnail-image2.jpg" alt="Thumbnail 2">
     </a>
     <!-- More images -->
-</div>
+<p>&lt;/div&gt;</p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox-plus-jquery.min.js"></script>
 
+<p>&lt;/body&gt;</p>
+
+<p>–&gt;</p>
+
+<h1 id="my-photo-gallery">My Photo Gallery</h1>
+
+<p>This is my personal photo gallery showcasing various themes.</p>
+
+<h2 id="individual-photos">Individual Photos</h2>
+
+<p>Here are some of my favorite individual shots.</p>
+
+<!-- HTML for Individual Photos -->
+<div>
+    <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="individual" data-title="Image 1">
+        <img src="https://ecomplab.com/images/icon.png" alt="Image 1" style="width:100%;max-width:300px">
+    </a>
+    <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="individual" data-title="Image 2">
+        <img src="https://ecomplab.com/images/photo.jpg" alt="Image 2" style="width:100%;max-width:300px">
+    </a>
+    <!-- More individual images -->
+</div>
+
+<h2 id="nature-set">Nature Set</h2>
+
+<p>A collection of nature-related photos.</p>
+
+<!-- HTML for Nature Set -->
+<div>
+    <a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
+        <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
+    </a>
+    <a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
+        <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+    </a>
+    <!-- More nature images -->
+</div>
+
+<h2 id="cityscapes-set">Cityscapes Set</h2>
+
+<p>Explore various cityscapes through my lens.</p>
+
+<!-- HTML for Cityscapes Set -->
+<div>
+    <a href="path/to/city1.jpg" data-lightbox="cityscape-set" data-title="Cityscape 1">
+        <img src="path/to/city-thumbnail1.jpg" alt="Cityscape Thumbnail 1" style="width:100%;max-width:300px">
+    </a>
+    <a href="path/to/city2.jpg" data-lightbox="cityscape-set" data-title="Cityscape 2">
+        <img src="path/to/city-thumbnail2.jpg" alt="Cityscape Thumbnail 2" style="width:100%;max-width:300px">
+    </a>
+    <!-- More cityscape images -->
+</div>
+
+<!-- Lightbox2 JS and CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox-plus-jquery.min.js"></script>
   </section>
 
 
@@ -594,5 +653,5 @@
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
-  </body>
+  </div></body>
 </html>
