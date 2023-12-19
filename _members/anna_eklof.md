@@ -1,6 +1,6 @@
 ---
 name: Anna Eklöf
-image: images/collaborators_annaeklof.png
+image: images/collaborators/collaborators_annaeklof.png
 role: collaborator
 aliases:
   - Eklof
