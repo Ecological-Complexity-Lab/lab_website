@@ -301,8 +301,10 @@
   date: '2013-09-23'
   link: https://doi.org/f5t93k
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_tradeoff_between_quantity_and_quality.jpg
 - id: doi:10.1111/j.1600-0706.2013.00646.x
   title: "Co\u2010occurrence and phylogenetic distance in communities of mammalian\
     \ ectoparasites: limiting similarity versus environmental filtering"
@@ -333,8 +335,10 @@
   date: '2013-09-04'
   link: https://doi.org/f5t3n6
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
 - id: doi:10.1016/j.mambio.2013.10.005
   title: Effects of sewage-water contamination on the immune response of a desert
     bat
@@ -347,8 +351,10 @@
   date: '2014-04-01'
   link: https://doi.org/gn5r7v
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_effects_of_sewage_water_desert_bat.jpg
 - id: doi:10.1080/15659801.2013.865338
   title: 'FOREWORD: Evolution of culture'
   authors:
@@ -379,7 +385,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_multiple_effects_of_host_spec_diversity.jpg
+  image: https://esajournals.onlinelibrary.wiley.com/cms/asset/fef9467a-1eba-4403-ba9b-9a83f870ae05/ecy20149551173-fig-0001-m.jpg
 - id: doi:10.1111/1365-2656.12101
   title: Phylogeny determines the role of helminth parasites in intertidal food webs
   authors:
