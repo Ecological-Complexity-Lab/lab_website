@@ -320,8 +320,10 @@
   date: '2013-06-21'
   link: https://doi.org/f5mdh3
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_coocurrence_and_phylogenetic_distance.jpg
 - id: doi:10.1017/s0031182013001376
   title: 'Phylogenetic structure of host spectra in Palaearctic fleas: stability versus
     spatial variation in widespread, generalist species'
@@ -366,8 +368,10 @@
   date: '2013-05-18'
   link: https://doi.org/gs7gtf
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_evolution_of_culture.jpg
 - id: doi:10.1890/13-0678.1
   title: "Multiple effects of host\u2010species diversity on coexisting host\u2010\
     specific and host\u2010opportunistic microbes"
@@ -397,8 +401,10 @@
   date: '2013-06-25'
   link: https://doi.org/f5ftt7
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_phylogeny_determines_the_role_food_webs.jpg
 - id: doi:10.1016/j.ijpara.2013.05.001
   title: Spatial variation in the phylogenetic structure of flea assemblages across
     geographic ranges of small mammalian hosts in the Palearctic
@@ -411,8 +417,10 @@
   date: '2013-08-01'
   link: https://doi.org/f45ch5
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0020751913001434-fx1_lrg.jpg
 - id: doi:10.1111/1365-2656.12090
   title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
     parasite network"
@@ -426,8 +434,10 @@
   date: '2013-05-14'
   link: https://doi.org/f47vn5
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
 - id: doi:10.1371/journal.pone.0041487
   title: Effects of Anthropogenic Disturbance and Climate on Patterns of Bat Fly Parasitism
   authors:
