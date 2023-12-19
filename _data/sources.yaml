@@ -72,5 +72,14 @@
   type: paper
   image: https://esajournals.onlinelibrary.wiley.com/cms/asset/fef9467a-1eba-4403-ba9b-9a83f870ae05/ecy20149551173-fig-0001-m.jpg
 
-- id: doi:10.1890/13-0678.1
-  image: images/publications/pic_multiple_effects_of_host_spec_diversity.jpg
+- id: doi:10.1016/j.mambio.2013.10.005
+  type: paper
+  image: images/publications/pic_effects_of_sewage_water_desert_bat.jpg
+
+- id: doi:10.1111/1365-2656.12134
+  type: paper
+  image: images/publications/pic_tradeoff_between_quantity_and_quality.jpg
+
+- id: doi:10.1017/s0031182013001376
+  type: paper
+  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
