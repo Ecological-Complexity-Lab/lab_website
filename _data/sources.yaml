@@ -54,7 +54,7 @@
 
 - id: doi:10.1371/journal.pbio.3000336
   type: paper
-  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.tiff
+  image: images/publications/pic_comp_for_hosts_in_Plasmodium_falciparum.jpeg
 
 - id: doi:10.1038/s41467-018-04219-3
   type: paper
@@ -110,7 +110,7 @@
 
 - id: doi:10.1371/journal.pone.0041487
   type: paper
-  image: images/publications/pic_effects_of_anthropogenic_disturbance.tif
+  image: images/publications/pic_effects_of_anthropogenic_disturbance.jpeg
 
 - id: doi:10.1644/09-mamm-a-370.1
   type: paper
