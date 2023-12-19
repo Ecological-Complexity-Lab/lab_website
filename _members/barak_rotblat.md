@@ -1,6 +1,6 @@
 ---
 name: Barak Rotblat
-image: images/collaborators_barak.png
+image: images/collaborators/collaborators_BarakRotblat.png
 role: collaborator
 links:
   home-page: https://barakrotblat.wixsite.com/rotblatlab
