@@ -34,6 +34,47 @@ We encounter challenges that call for collective action during these challenging
     </div>
 </div>
 
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        
+<!-- Repeat this block for each image in the set -->
+
+<a href="https://ecomplab.com/images/blog/volunteer_work_3.jpg" data-lightbox="nature-set" data-title="Photo 1">
+        <img src="https://ecomplab.com/images/blog/volunteer_work_3.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_4.jpg" data-lightbox="nature-set" data-title="Photo 2">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_4.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_5.JPG" data-lightbox="nature-set" data-title="Photo 3">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_5.JPG" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_6.JPG" data-lightbox="nature-set" data-title="Photo 4">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_6.JPG" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_7.JPG" data-lightbox="nature-set" data-title="Photo 5">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_7.JPG" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_9.jpg" data-lightbox="nature-set" data-title="Photo 6">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_9.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_10.jpg" data-lightbox="nature-set" data-title="Photo 7">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_10.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_11.jpg" data-lightbox="nature-set" data-title="Photo 8">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_11.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_1.jpeg" data-lightbox="nature-set" data-title="Photo 9">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_1.jpeg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_2.jpeg" data-lightbox="nature-set" data-title="Photo 10">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_2.jpeg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_8.jpg" data-lightbox="nature-set" data-title="Photo 11">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_8.jpg" alt="volunteer work" style="width:100%;max-width:300px">
+</a>
+        
+    </div>
+</div>
 
 
 <!-- Lightbox2 JS and CSS -->
