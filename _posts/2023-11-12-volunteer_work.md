@@ -17,8 +17,8 @@ We encounter challenges that call for collective action during these challenging
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
-   <img src="https://ecomplab.com/images/blog/volunteer_work_3.jpg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-    <img src="https://ecomplab.com/images/blog/volunteer_work_4.jpg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+   <a href="https://ecomplab.com/images/blog/volunteer_work_3.jpg" data-lightbox="nature-set" data-title="Nature 1"></a>
+    <a href="https://ecomplab.com/images/blog/volunteer_work_4.jpg" data-lightbox="nature-set" data-title="Nature 1"></a>
     <img src="https://ecomplab.com/images/blog/blog/volunteer_work_5.JPG" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
     <img src="https://ecomplab.com/images/blog/volunteer_work_6.JPG" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">   
         
@@ -54,6 +54,11 @@ We encounter challenges that call for collective action during these challenging
 
 
 <!--- 
+<img src="https://ecomplab.com/images/blog/volunteer_work_3.jpg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_4.jpg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+    <img src="https://ecomplab.com/images/blog/blog/volunteer_work_5.JPG" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
+    <img src="https://ecomplab.com/images/blog/volunteer_work_6.JPG" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">   
+
 <div style="display: flex; justify-content: center;">
     <img src="../images/blog/volunteer_work_3.jpg" style="width: 200px; margin: 10px;">
     <img src="../images/blog/volunteer_work_4.jpg" style="width: 200px; margin: 10px;">
