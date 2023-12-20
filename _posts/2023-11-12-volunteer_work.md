@@ -18,7 +18,7 @@ We encounter challenges that call for collective action during these challenging
     <div class="thumbnails">
         <!-- Single thumbnail representing the gallery -->
         <a href="https://ecomplab.com/images/blog/volunteer_work_6.JPG" data-lightbox="nature-set2" data-title="Open Gallery">
-            <img src="https://ecomplab.com/images/blog/volunteer_work_7.JPG" alt="Nature Thumbnail" style="width:100%; max-width:100%; display:block; margin:auto;">
+            <img src="https://ecomplab.com/images/blog/volunteer_work_6.JPG" alt="Nature Thumbnail" style="width:100%; max-width:100%; display:block; margin:auto;">
         </a>
         <!-- End of single thumbnail -->
     </div>
@@ -29,6 +29,7 @@ We encounter challenges that call for collective action during these challenging
         <a href="https://ecomplab.com/images/blog/volunteer_work_3.jpg" data-lightbox="nature-set2" data-title="Nature 1"></a>
         <a href="https://ecomplab.com/images/blog/volunteer_work_4.jpg" data-lightbox="nature-set2" data-title="Nature 2"></a>
         <a href="https://ecomplab.com/images/blog/volunteer_work_5.JPG" data-lightbox="nature-set2" data-title="Nature 3"></a>
+        <a href="https://ecomplab.com/images/blog/volunteer_work_7.JPG" data-lightbox="nature-set2" data-title="Nature 3"></a>
         <!-- End of gallery images -->
     </div>
 </div>
