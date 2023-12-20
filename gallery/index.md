@@ -93,11 +93,13 @@ Shai hosted the EcoNet2023 workshop (Ecological networks from theory to applicat
 
 {% include section.html %}
 
+Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel.
+
 <div class="scrollable-gallery">
     <div class="thumbnails">
         <!-- Single thumbnail representing the gallery -->
         <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" class="large-thumb" data-lightbox="nature-set2" data-title="Open Gallery">
-            <img src="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" alt="Nature Thumbnail" style="width:100%; max-width:100%; display:block; margin:auto;">
+            <img src="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" alt="Nature Thumbnail" >
         </a>
         <!-- End of single thumbnail -->
     </div>
