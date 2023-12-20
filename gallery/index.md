@@ -1,5 +1,8 @@
 ---
 title: gallery
+nav:
+  order: 5
+  tooltip: Our lab life!
 ---
 # {% include icon.html icon="fa-solid fa-images" %}Gallery
 
@@ -7,7 +10,7 @@ title: gallery
 {% include section.html %}
 
 
-<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. {% include icon.html icon="fa-solid fa-camera fa-rotate-90" %}</span></center>
 
 
 <div class="scrollable-gallery">
