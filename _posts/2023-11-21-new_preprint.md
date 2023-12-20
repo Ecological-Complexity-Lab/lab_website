@@ -1,11 +1,13 @@
 ---
 title: Our preprint “Local and regional processes drive distance decay in structure in a spatial multilayer plant-pollinator network” is now available on EcoEvoRxiv!
 author: shirlyf
-tags: 
+tags:
+  - paper/preprint
+<!--
   - preprint
   - multilayer networks
   - plant-pollinator interactions
-  - biogeography
+  - biogeography -->
 ---
 
 Our latest preprint, published on November 21, 2023, in EcoEvoRxiv, explores the intricate spatial dynamics of plant-pollinator communities across the Canary Islands. Using a unique multilayer network approach, we reveal how community structures evolve with geographical distance on a regional scale. Our findings highlight the important influence of local and regional processes in shaping these patterns.
