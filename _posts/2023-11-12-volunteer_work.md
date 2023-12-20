@@ -77,8 +77,8 @@ We encounter challenges that call for collective action during these challenging
     }
 
     .thumbnails img {
-        width: 30px;
-        height: 50px; /* Adjust the height as needed */
+        width: 50px;
+        height: 30px; /* Adjust the height as needed */
         vertical-align: middle;
     }
 </style>
