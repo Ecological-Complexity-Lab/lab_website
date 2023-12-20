@@ -116,89 +116,6 @@ Shai hosted the EcoNet2023 workshop (Ecological networks from theory to applicat
 </div>
 
 
-## Nature Set
-
-A collection of nature-related photos.
-
-<!-- HTML for Nature Set -->
-
-
-<div class="scrollable-gallery">
-    <div class="thumbnails">
-        
-<!-- Repeat this block for each image in the set -->
-
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-        <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 3">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 4">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_microbes.jpg" data-lightbox="nature-set" data-title="Nature 1">
-    <img src="https://ecomplab.com/images/icon.png" alt="Nature Thumbnail 1" style="width:100%;max-width:300px">
-</a>
-<a href="https://ecomplab.com/images/background_multilayer.jpg" data-lightbox="nature-set" data-title="Nature 2">
-    <img src="https://ecomplab.com/images/team_geut.jpeg" alt="Nature Thumbnail 2" style="width:100%;max-width:300px">
-</a>
-
-        
-    </div>
-</div>
-
 
 <!-- Lightbox2 JS and CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
@@ -227,15 +144,20 @@ A collection of nature-related photos.
 
     /* Styles for large thumbnails */
     .thumbnails .large-thumb a {
-    /* Define specific styles for larger thumbnails */
-            /* Making larger thumbnails stand out more */
+        /* Making larger thumbnails stand out more */
         border: 8px solid #db34ae; /* Adding a border */
         border-radius: 8px; /* Rounded corners for the larger thumbnails */
     }
 
     .thumbnails .large-thumb img {
-    /* Define specific styles for larger thumbnail images */
-        width: 300px; /* Adjust width for larger thumbnails */
-        height: 300px; /* Adjust height for larger thumbnails */
+        /* Define specific styles for larger thumbnail images */
+        /*width: 300px;  Adjust width for larger thumbnails */
+        /*height: 300px;  Adjust height for larger thumbnails */
+         /* Display the image in its original size */
+        width: auto;
+        height: auto;
+        max-width: 70%; /* Ensure the image doesn't exceed its container */
+        max-height: 70%; /* Ensure the image doesn't exceed its container */
+}
     }
 </style>
