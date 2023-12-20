@@ -93,6 +93,27 @@ Shai hosted the EcoNet2023 workshop (Ecological networks from theory to applicat
 
 {% include section.html %}
 
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" class="large-thumb" data-lightbox="nature-set2" data-title="Open Gallery">
+            <img src="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" alt="Nature Thumbnail" style="width:100%; max-width:100%; display:block; margin:auto;">
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023_1.jpeg" data-lightbox="nature-set2" data-title="Nature 1"></a>
+        <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023_2.jpeg" data-lightbox="nature-set2" data-title="Nature 2"></a>
+        <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023_3.jpeg" data-lightbox="nature-set2" data-title="Nature 3"></a>
+        <a href="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023_4.jpeg" data-lightbox="nature-set2" data-title="Nature 3"></a>
+        <!-- End of gallery images -->
+    </div>
+</div>
+
+
 ## Nature Set
 
 A collection of nature-related photos.
@@ -200,5 +221,19 @@ A collection of nature-related photos.
         width: 50px;
         height: 50px; /* Adjust the height as needed */
         vertical-align: middle;
+    }
+
+    /* Styles for large thumbnails */
+    .thumbnails .large-thumb a {
+    /* Define specific styles for larger thumbnails */
+            /* Making larger thumbnails stand out more */
+        border: 2px solid #3498db; /* Adding a border */
+        border-radius: 8px; /* Rounded corners for the larger thumbnails */
+    }
+
+    .thumbnails .large-thumb img {
+    /* Define specific styles for larger thumbnail images */
+        width: 100px; /* Adjust width for larger thumbnails */
+        height: 100px; /* Adjust height for larger thumbnails */
     }
 </style>
