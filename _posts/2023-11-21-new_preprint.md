@@ -2,7 +2,7 @@
 title: Our preprint “Local and regional processes drive distance decay in structure in a spatial multilayer plant-pollinator network” is now available on EcoEvoRxiv!
 author: shirlyf
 tags:
-  - "paper/preprint"
+  - preprint
 <!--
   - preprint
   - multilayer networks
