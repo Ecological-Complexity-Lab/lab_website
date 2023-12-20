@@ -6,8 +6,8 @@ title: gallery
 
 {% include section.html %}
 
-{% include icon.html icon="fa-solid fa-th" %}
-<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel.</span></center>
+
+<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 
 <div class="scrollable-gallery">
@@ -51,6 +51,43 @@ title: gallery
     </div>
 </div>
 
+{% include section.html %}
+
+
+<center><span style="font-size:larger;">Lab retreat over the weekend! (30-31.03.2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" class="large-thumb" data-lightbox="gallery_retreat2023" data-title="retreat2023 Gallery">
+            <img src="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" alt="retreat2023" >
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 1"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_2.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 2"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_3.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 3"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_4.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 4"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_5.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 5"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_6.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 6"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_7.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 7"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_8.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 8"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_9.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 9"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_10.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 10"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_11.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 11"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_12.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 12"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_13.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 13"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_14.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 14"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_15.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 15"></a>
+        <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_16.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 16"></a>
+
+        <!-- End of gallery images -->
+    </div>
+</div>
 
 
 <!-- Lightbox2 JS and CSS -->
