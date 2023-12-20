@@ -229,13 +229,13 @@ A collection of nature-related photos.
     .thumbnails .large-thumb a {
     /* Define specific styles for larger thumbnails */
             /* Making larger thumbnails stand out more */
-        border: 2px solid #3498db; /* Adding a border */
+        border: 8px solid #db34ae; /* Adding a border */
         border-radius: 8px; /* Rounded corners for the larger thumbnails */
     }
 
     .thumbnails .large-thumb img {
     /* Define specific styles for larger thumbnail images */
-        width: 100px; /* Adjust width for larger thumbnails */
-        height: 100px; /* Adjust height for larger thumbnails */
+        width: 300px; /* Adjust width for larger thumbnails */
+        height: 300px; /* Adjust height for larger thumbnails */
     }
 </style>
