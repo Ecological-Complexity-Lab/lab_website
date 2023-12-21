@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 
 
-<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. (Sep 4-7, 2023){% include icon.html icon="fa-solid fa-camera" %}</span></center>
+<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. (Sep 4-7, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 
 <div class="scrollable-gallery">
