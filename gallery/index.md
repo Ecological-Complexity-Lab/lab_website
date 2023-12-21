@@ -46,7 +46,7 @@ nav:
         <img src="https://ecomplab.com/images/blog/ECONET2023/EcoNet2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_1.jpeg" data-lightbox="gallery_LabLife" data-title="Shooting stars, Aug 2023">
-        <img src="https://ecomplab.com/gallery/LabLife/shootingStarsAugust2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+        <img src="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_2.jpeg" data-lightbox="gallery_LabLife" data-title="Shooting stars, Aug 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
