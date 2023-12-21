@@ -54,7 +54,9 @@ nav:
 <a href="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_2.jpeg" data-lightbox="gallery_LabLife" data-title="Shooting stars, Aug 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/shootingStarsAugust2023_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
-
+<a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" data-lightbox="gallery_LabLife" data-title="NetSci, Jul 2023">
+        <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
     </div>
 </div>
 
@@ -145,6 +147,36 @@ nav:
 {% include section.html %}
 
 
+<center><span style="font-size:larger;"> Our NetSci 2023 experience. (Jul 10-14, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" class="large-thumb" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 Gallery">
+            <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="NetSci2023" >
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_2.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 1"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_3.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 2"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_4.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 3"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_5.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 4"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_6.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 5"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_7.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 6"></a>
+    
+        <!-- End of gallery images -->
+    </div>
+</div>
+
+
+
+{% include section.html %}
+
+
 <center><span style="font-size:larger;"> Plasmid Biology workshop, hosted by Shai, Israel 2022. (Dec 13-14, 2022) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
@@ -174,6 +206,7 @@ nav:
         <!-- End of gallery images -->
     </div>
 </div>
+
 
 
 <!-- Lightbox2 JS and CSS -->
