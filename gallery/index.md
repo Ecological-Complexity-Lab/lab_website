@@ -6,6 +6,26 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-images" %}Gallery
 
+{% include section.html %}
+
+
+<center><span style="font-size:larger;"> LAB LIFE AROUND THE CLOCK {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        
+<!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/blog/volunteer_work_8.jpg" data-lightbox="gallery_LabLife" data-title="Volunteer work, Israel - Hamas War, 2023">
+        <img src="https://ecomplab.com/images/blog/volunteer_work_8.jpg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_2.jpeg" data-lightbox="gallery_LabLife" data-title="Volunteer work, Israel - Hamas War, 2023">
+        <img src="https://ecomplab.com/images/blog/volunteer_work_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/volunteer_work_4.jpg" data-lightbox="gallery_LabLife" data-title="Volunteer work, Israel - Hamas War, 2023">
+        <img src="https://ecomplab.com/images/blog/volunteer_work_4.jpg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+    </div>
+</div>
 
 {% include section.html %}
 
