@@ -15,6 +15,9 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/gallery/LabLife/Hanukah_2023.jpeg" data-lightbox="gallery_LabLife" data-title="Happy Hanukah, 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Hanukah_2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/blog/volunteer_work_8.jpg" data-lightbox="gallery_LabLife" data-title="Volunteer work, Israel - Hamas War, 2023">
         <img src="https://ecomplab.com/images/blog/volunteer_work_8.jpg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
@@ -23,6 +26,12 @@ nav:
 </a>
 <a href="https://ecomplab.com/images/blog/volunteer_work_4.jpg" data-lightbox="gallery_LabLife" data-title="Volunteer work, Israel - Hamas War, 2023">
         <img src="https://ecomplab.com/images/blog/volunteer_work_4.jpg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/october2023.jpeg" data-lightbox="gallery_LabLife" data-title="Lab life, October 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/october2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Tino_flight2Italy_Oct2023.jpeg" data-lightbox="gallery_LabLife" data-title="Tino's courageous message for the lab, October 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Tino_flight2Italy_Oct2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
     </div>
 </div>
