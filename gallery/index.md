@@ -79,6 +79,10 @@ nav:
 Farewell to Vicente and wishing him the best. Apr 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/farwell2Vicente_April2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
+<a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" data-lightbox="gallery_LabLife" data-title="
+Lab retreat. March 2023">
+        <img src="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" data-lightbox="gallery_LabLife" data-title="Lunch in world cup times. Nov 2022">
         <img src="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
