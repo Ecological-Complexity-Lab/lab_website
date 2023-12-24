@@ -19,7 +19,7 @@ All ecological systems are complex. How are they structured? How are they create
 
 {% include section.html %}
 
-{% include button.html link="research" text="Research" icon="fa-solid fa-lightbulb" flip=true%} {% include button.html link="team" text="Team" icon="fa-solid fa-users" flip=true%} {% include button.html link="publications" text="Publication" icon="fa-solid fa-microscope" flip=true%}
+{% include button.html link="research" text="Research" icon="fa-solid fa-lightbulb" flip=true%} {% include button.html link="team" text="Team" icon="fa-solid fa-users" flip=true%} {% include button.html link="publications" text="Publication" icon="fa-solid fa-journal-whills" flip=true%}
 
 {% include section.html %}
 
