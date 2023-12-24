@@ -9,7 +9,9 @@ nav:
 
 {% include section.html %}
 
-**We are looking for bright, quantitatively-oriented students and postdocs, who wish to take part in exciting research!**
+### We are looking for bright, quantitatively-oriented students and postdocs, who wish to take part in exciting research!
+
+Students and postdocs with background in quantitative ecology/biology, physics, math, computer science, neuroscience, etc., who are interested in our research directions are welcome to apply. Research in the lab is computational and does not involve field or lab work. But we like working with empiricists! We have several ongoing collaborations. We can collaborate or co-mentor with a PI who has a wet lab or does field work.
 
 # Why join the lab
 
@@ -29,7 +31,9 @@ Work on challenging, fun projects — we will work together to make sure you do 
 - have (at least) some basic experience with programming.
 
 # Funding
-Funding options are available for graduate students and postdocs. Candidates are also encouraged to apply for external funding.
+Funding options are available for graduate students and postdocs. We have open positions with full stipends 🙂 However, candidates are always encouraged to apply for external funding.
 
 # How to apply
 Please send a CV, a 1-page letter of why you are interested in joining and names of 2 referees (for recommendations).
+
+{% include button.html link="contact" text="Contact" icon="fa-solid fa-envelope" flip=true%} 
