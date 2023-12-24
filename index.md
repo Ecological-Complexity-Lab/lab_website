@@ -52,7 +52,7 @@ We characterize the complexity of ecological systems to understand its nature an
 
 {% endcapture %}
 -->
-
+<!--
 {%
   include feature.html
   image="images/main_research.png"
@@ -61,7 +61,7 @@ We characterize the complexity of ecological systems to understand its nature an
   flip=false
   text="We characterize the complexity of ecological systems to understand its nature and consequences. We combine modeling, simulations, data analysis and ecological/evolutionary theory."
 %}
-
+-->
 <!--
 {% capture text %}
 
@@ -77,7 +77,7 @@ We develop tools for analysis of multilayer networks.
 
 {% endcapture %}
 -->
-
+<!--
 {%
   include feature.html
   image="images/main_projects.png"
@@ -86,7 +86,7 @@ We develop tools for analysis of multilayer networks.
   flip=true
   text="We develop tools for analysis of multilayer networks."
 %}
-
+-->
 <!--
 {% capture text %}
 
@@ -102,7 +102,7 @@ Our team is composed of students, post-docs and research associates from multipl
 
 {% endcapture %}
 -->
-
+<!--
 {%
   include feature.html
   image="images/main_group_photo.jpeg"
@@ -111,3 +111,4 @@ Our team is composed of students, post-docs and research associates from multipl
   text="Our team is made up of smart and lovely people all around the globe. Want to join us?"
   flip=false
 %}
+-->
