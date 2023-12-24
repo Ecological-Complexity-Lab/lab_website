@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: What we are up to
