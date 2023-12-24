@@ -60,13 +60,16 @@ nav:
 <a href="https://ecomplab.com/images/gallery/LabLife/sharon_itamar_awarded_2023.jpeg" data-lightbox="gallery_LabLife" data-title="Sharon and Itamar were rewarded for their academic achievements! June 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/sharon_itamar_awarded_2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Shai_trip_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Shai's trip, June 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Shai_trip_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
     </div>
 </div>
 
 {% include section.html %}
 
 
-<center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. (Sep 4-7, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+## <center><span style="font-size:larger;">Shai hosted the EcoNet2023 workshop (Ecological networks from theory to application) at Ben Gurion University, Israel. (Sep 4-7, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 
 <div class="scrollable-gallery">
@@ -113,7 +116,7 @@ nav:
 {% include section.html %}
 
 
-<center><span style="font-size:larger;">Lab retreat over the weekend! (Mar 30-31, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+## <center><span style="font-size:larger;">Lab retreat over the weekend! (Mar 30-31, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
     <div class="thumbnails">
@@ -150,7 +153,7 @@ nav:
 {% include section.html %}
 
 
-<center><span style="font-size:larger;"> Our NetSci 2023 experience. (Jul 10-14, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+## <center><span style="font-size:larger;"> Our NetSci 2023 experience. (Jul 10-14, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
     <div class="thumbnails">
@@ -180,7 +183,7 @@ nav:
 {% include section.html %}
 
 
-<center><span style="font-size:larger;"> Plasmid Biology workshop, hosted by Shai, Israel 2022. (Dec 13-14, 2022) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+## <center><span style="font-size:larger;"> Plasmid Biology workshop, hosted by Shai, Israel 2022. (Dec 13-14, 2022) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
     <div class="thumbnails">
