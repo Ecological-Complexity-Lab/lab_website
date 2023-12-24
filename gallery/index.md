@@ -54,6 +54,9 @@ nav:
 <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" data-lightbox="gallery_LabLife" data-title="NetSci, Jul 2023">
         <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
+<a href="https://ecomplab.com/images/gallery/LabLife/hangingOut_june2023.jpeg" data-lightbox="gallery_LabLife" data-title="Sandy reunion, Tel Aviv, June 2023">
+        <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
     </div>
 </div>
 
