@@ -23,6 +23,14 @@ All ecological systems are complex. How are they structured? How are they create
 
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/home/pic_funds.png"
+  height="300px"
+%}
+
+{% include section.html %}
+
 <!--
 {% capture text %}
 
