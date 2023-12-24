@@ -12,6 +12,7 @@ Students and researchers from around Israel were invited to participate in a [wo
   image="images/gallery/plasmidWorkshop2022/plasmid2022.JPG"
   width="100%"
 %}
+
 <div class="scrollable-gallery">
     <div class="thumbnails">
         
