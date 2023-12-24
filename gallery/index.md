@@ -83,6 +83,10 @@ Farewell to Vicente and wishing him the best. Apr 2023">
 Lab retreat. March 2023">
         <img src="https://ecomplab.com/images/gallery/retreat2023/retreat2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
+<a href="https://ecomplab.com/images/gallery/plasmidWorkshop2022/plasmid2022.JPG" data-lightbox="gallery_LabLife" data-title="
+Plasmid Biology workshop, hosted by Shai, Dec 2022">
+        <img src="https://ecomplab.com/images/gallery/plasmidWorkshop2022/plasmid2022.JPG" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/gallery/LabLife/farewell2Dafna.jpeg" data-lightbox="gallery_LabLife" data-title="
 Dafna successfully finished her master’s degree! Dec 2022">
         <img src="https://ecomplab.com/images/gallery/LabLife/farewell2Dafna.jpeg" alt="LabLife" style="width:100%;max-width:150px">
