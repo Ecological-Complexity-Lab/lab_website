@@ -55,7 +55,10 @@ nav:
         <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/gallery/LabLife/hangingOut_june2023.jpeg" data-lightbox="gallery_LabLife" data-title="Sandy reunion, Tel Aviv, June 2023">
-        <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+        <img src="https://ecomplab.com/images/gallery/LabLife/hangingOut_june2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/sharon_itamar_awarded_2023.jpeg" data-lightbox="gallery_LabLife" data-title="Sharon and Itamar were rewarded for their academic achievements! June 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/sharon_itamar_awarded_2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
     </div>
 </div>
