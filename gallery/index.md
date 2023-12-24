@@ -66,8 +66,14 @@ nav:
 <a href="https://ecomplab.com/images/gallery/LabLife/Maya_graduation_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Maya's graduation glory! June 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/Maya_graduation_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
-<a href="https://ecomplab.com/images/gallery/LabLife/images/gallery/LabLife/NIH_project_meeting_Duke_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Meeting with the NIH project at Duke. May 2023">
-        <img src="https://ecomplab.com/images/gallery/LabLife/images/gallery/LabLife/NIH_project_meeting_Duke_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+<a href="https://ecomplab.com/images/gallery/LabLife/NIH_project_meeting_Duke_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Meeting with the NIH project at Duke. May 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/NIH_project_meeting_Duke_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Darren_visits_April2023.jpeg" data-lightbox="gallery_LabLife" data-title="Dr. Shai hosts Prof. Darren Evans. Apr 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Darren_visits_April2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Darren_visits_April2023_2.jpeg" data-lightbox="gallery_LabLife" data-title="Dr. Shai hosts Prof. Darren Evans. Apr 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Darren_visits_April2023_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" data-lightbox="gallery_LabLife" data-title="Lunch in world cup times. Nov 2022">
         <img src="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" alt="LabLife" style="width:100%;max-width:150px">
