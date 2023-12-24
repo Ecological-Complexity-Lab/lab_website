@@ -9,7 +9,7 @@ nav:
 {% include section.html %}
 
 
-<center><span style="font-size:larger;"> LAB LIFE AROUND THE CLOCK {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+## <center><span style="font-size:larger;"> LAB LIFE AROUND THE CLOCK {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
     <div class="thumbnails">
@@ -62,6 +62,9 @@ nav:
 </a>
 <a href="https://ecomplab.com/images/gallery/LabLife/Shai_trip_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Shai's trip, June 2023">
         <img src="https://ecomplab.com/images/gallery/LabLife/Shai_trip_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Maya_graduation_June2023.jpeg" data-lightbox="gallery_LabLife" data-title="Maya's graduation glory! June 2023">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Maya_graduation_June2023.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
     </div>
 </div>
