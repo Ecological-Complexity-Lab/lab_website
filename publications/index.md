@@ -1,6 +1,5 @@
 ---
 title: Publications
-custom_background: background_dalle.jpg
 nav:
   order: 2
   tooltip: Published works
