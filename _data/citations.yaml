@@ -356,7 +356,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_tradeoff_between_quantity_and_quality.jpg
+  image: images/publications/pic_tradeoff_between_quantity_and_quality_2.jpeg
 - id: doi:10.1111/j.1600-0706.2013.00646.x
   title: "Co\u2010occurrence and phylogenetic distance in communities of mammalian\
     \ ectoparasites: limiting similarity versus environmental filtering"
@@ -375,7 +375,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_coocurrence_and_phylogenetic_distance.jpg
+  image: images/publications/pic_coocurrence_and_phylogenetic_distance_2.jpeg
 - id: doi:10.1017/s0031182013001376
   title: 'Phylogenetic structure of host spectra in Palaearctic fleas: stability versus
     spatial variation in widespread, generalist species'
@@ -392,7 +392,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas_2.gif
   tags:
   - space
 - id: doi:10.1016/j.mambio.2013.10.005
@@ -458,7 +458,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_phylogeny_determines_the_role_food_webs.jpg
+  image: images/publications/pic_phylogeny_determines_the_role_food_webs_2.png
   tags:
   - food webs
 - id: doi:10.1016/j.ijpara.2013.05.001
@@ -496,7 +496,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
+  image: images/publications/pic_temporal_dynamics_host_parasite_network_2.png
   tags:
   - host-parasite interactions
   - time
@@ -533,7 +533,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  image: images/publications/pic_host_body_microcosm.gif
   tags:
   - host-parasite interactions
 - id: doi:10.1644/09-mamm-a-370.1
