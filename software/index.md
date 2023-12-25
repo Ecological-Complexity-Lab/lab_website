@@ -4,6 +4,7 @@ nav:
   order: 4
   tooltip: Software, datasets, and websites
 ---
+<main style="background-image: url('/images/background_dalle.jpg'); background-size: cover; background-repeat: no-repeat;">
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Software and data
 
@@ -14,3 +15,5 @@ nav:
 {% include section.html %}
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
+
+</main>
