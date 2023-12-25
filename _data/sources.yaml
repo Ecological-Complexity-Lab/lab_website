@@ -70,9 +70,9 @@
 - id: doi:10.1111/2041-210X.13569
   type: paper
   image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
-    buttons:
-      - type: website
-        link: https://ecological-complexity-lab.github.io/infomap_ecology_package/index.html
+  buttons:
+    - type: website
+      link: https://ecological-complexity-lab.github.io/infomap_ecology_package/index.html
   tags:
     - software
     - multilayer networks
