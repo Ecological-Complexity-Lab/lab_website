@@ -118,9 +118,9 @@
 - id: doi:10.1038/s41559-017-0101
   type: paper
   image: images/publications/pic_the_multilayer_nature_of_ecological_net.webp
-    tags:
-    - perspecrive
-    - multilayer networks
+  tags:
+  - perspecrive
+  - multilayer networks
     
 - id: doi:10.1890/13-0678.1
   type: paper
