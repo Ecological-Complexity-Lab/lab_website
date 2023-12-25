@@ -3,7 +3,7 @@
   description: EMLN package and guidelines
   image: images/projects/emln_pic.jpg #https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg  
   buttons:
-    type: website
+    - type: website
     link: https://ecological-complexity-lab.github.io/emln_package/
   tags:
     - software
@@ -71,7 +71,7 @@
   type: paper
   image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
     buttons:
-      type: website
+     - type: website
       link: https://ecological-complexity-lab.github.io/infomap_ecology_package/index.html
   tags:
     - software
