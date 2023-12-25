@@ -13,7 +13,7 @@
 
 - title: infomapecology
   group: featured
-  image: images/projects/infomap_pic_2.jpg
+  image: images/projects/infomap_pic_3.png
   link: https://ecological-complexity-lab.github.io/infomap_ecology_package/
   description: A pacakge for detecting communitoes bnased on flow using Infomap
   repo: https://github.com/Ecological-Complexity-Lab/emln
