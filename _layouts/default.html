@@ -3,7 +3,7 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <main>
+    <main style="{% if page.custom_background %}background-image: url('{{ 'images/' | append: page.custom_background | relative_url }}'); background-size: cover; background-repeat: no-repeat;{% endif %}">
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
