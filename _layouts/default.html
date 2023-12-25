@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include head.html %}
-  <body>
+  <body style="{% if page.background_image %}background-image: url('{{ page.background_image }}'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;{% endif %}">
     <div class="site-background"></div> <!-- Background image div -->
     {% include header.html %}
     <main>
