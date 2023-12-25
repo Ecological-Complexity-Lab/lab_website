@@ -8,5 +8,15 @@
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
+    {% if page.background_image %}
+    <style>
+      body.custom-background {
+        background-image: url('{{ page.background_image }}');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+    </style>
+    {% endif %}
   </body>
 </html>
