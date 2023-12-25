@@ -42,6 +42,7 @@
   tags:
   - mutualistic interactions
   - multilayer networks
+  - space
 - id: doi:10.32942/X2161C
   title: Scale-dependent signatures of microbial co-occurrence revealed via multilayer
     network analysis
@@ -79,9 +80,9 @@
   type: paper
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png
   tags:
-  - cancer ecology
+  - cancer
   - multilayer networks
-  - not our typical paper
+  - something different
 - id: doi:10.1016/j.tim.2023.01.007
   title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
   authors:
@@ -96,7 +97,7 @@
   image: images/publications/pic_conceptualizing_microbeplasmid_1.png
   tags:
   - microbial ecology
-  - theory
+  - perspective
 - id: doi:10.1098/rspb.2023.0132
   title: Invasive species modulate the structure and stability of a multilayer mutualistic
     network
@@ -140,7 +141,7 @@
   tags:
   - microbial ecology
   - multilayer networks
-  - modeling dynamics
+  - dynamics
 - id: doi:10.1371/journal.pcbi.1009319
   title: The interplay between vaccination and social distancing strategies affects
     COVID19 population-level outcomes
@@ -161,8 +162,8 @@
   type: paper
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
   tags:
-  - modeling dynamics
-  - not our typical paper
+  - dynamics
+  - something different
   - disease
 - id: doi:10.3389/fevo.2021.633263
   title: Frequency-Dependent Competition Between Strains Imparts Persistence to Perturbations
@@ -182,7 +183,7 @@
   type: paper
   image: https://www.frontiersin.org/files/Articles/633263/fevo-09-633263-HTML-r2/image_m/fevo-09-633263-g001.jpg
   tags:
-  - modeling dynamics
+  - dynamics
   - disease
 - id: doi:10.1111/2041-210X.13569
   title: Identifying flow modules in ecological networks using Infomap
@@ -228,7 +229,7 @@
   image: images/publications/pic_the_network_structure_and_eco_evol_CRISPR.webp
   tags:
   - microbial ecology
-  - modeling dynamics
+  - dynamics
   - host-parasite interactions
 - id: doi:10.3390/cancers12040825
   title: Pan-Cancer Analysis of Mitochondria Chaperone-Client Co-Expression Reveals
@@ -250,6 +251,8 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
+  tags:
+  - cancer
 - id: doi:10.1371/journal.pbio.3000336
   title: Competition for hosts modulates vast antigenic diversity to generate persistent
     strain structure in Plasmodium falciparum
@@ -268,6 +271,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_comp_for_hosts_Plasmodium.jpg
+  tags:
+  - disease
+  - dynamics
+  - multilayer networks
 - id: doi:10.1038/s41467-018-04219-3
   title: Networks of genetic similarity reveal non-neutral processes shape strain
     structure in Plasmodium falciparum
@@ -288,6 +295,8 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
+  tags:
+  - disease
 - id: doi:10.1016/j.jtbi.2017.07.020
   title: Asymmetric disease dynamics in multihost interconnected networks
   authors:
@@ -303,6 +312,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_asymmetric_disease_dynamics.jpeg
+  tags:
+  - disease
+  - dynamics
+  - multilayer networks
 - id: doi:10.1038/s41559-017-0101
   title: The multilayer nature of ecological networks
   authors:
@@ -318,6 +331,9 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_the_multilayer_nature_of_ecological_net.webp
+  tags:
+  - perspecrive
+  - multilayer networks
 - id: ':'
   title: Temporal dynamics of direct reciprocal and indirect effects in a host--parasite
     network
