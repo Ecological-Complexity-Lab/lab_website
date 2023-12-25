@@ -14,7 +14,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   description: EMLN package and guidelines
   image: images/projects/emln_pic.jpg
   buttons:
@@ -77,7 +76,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png
   tags:
   - cancer
@@ -93,7 +91,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: images/publications/pic_conceptualizing_microbeplasmid_1.png
   tags:
   - microbial ecology
@@ -115,7 +112,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: images/publications/pic_invasive_species_modulate_the_structure.jpeg
   tags:
   - mutualistic interactions
@@ -136,7 +132,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: images/publications/pic_multilayer_networks_of_plasmid_genetics.png
   tags:
   - microbial ecology
@@ -159,7 +154,6 @@
   orcid: 0000-0003-0430-5568
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
   tags:
   - dynamics
