@@ -9,7 +9,7 @@ nav:
 
 We are a diverse group of dedicated and passionate researchers excited to explore ecological systems. Our team comprises talented individuals across all academic levels and from multiple countries and backgrounds. Each of us brings a unique perspectives to our research. With interests spanning ecology & evolution, data science, and complex system modeling, our team excels in groundbreaking synergistic research. We also enjoy a rich tapestry of hobbies, including photography, music, outdoor activities, and arts, which enrich our collaborative environment.
 
-{% include button.html link="team/join" text="Join the lab" icon="fa-regular fa-handwave" flip=true%} {% include button.html link="team/collaborators" text="Meet our collaborators" icon="fa-solid fa-handshake" flip=true%}
+{% include button.html link="team/join" text="Join the lab" icon="fa-regular fa-handshake" flip=true%} {% include button.html link="team/collaborators" text="Meet our collaborators" icon="fa-solid fa-handshake" flip=true%}
 
 {% include section.html %}
 
