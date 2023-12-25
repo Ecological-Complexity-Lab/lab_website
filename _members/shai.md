@@ -31,26 +31,30 @@ I am an Assistant Professor at Ben-Gurion University, in Israel. I am interested
 - NSF-BSF Ecology and Evolution of Infectious Disease (EEID) "Market Integration, Land Use, and Pathogen Transmission in Rural Madagascar". With Charlie Nunn (Duke)
 
 # Main Invited talks and Seminars
-- 2023 – The application of ecological multilayer networks to microbial systems. Department of Ecology and Evolution, University of Chicago.
-- 2023 – Mobile genetic elements and bacterial communities as adaptive complex systems. Institute of Physics, Hebrew University of Jerusalem
-- 2021 – Ecological multilayer networks in the microbial world. V symposium on Ecological Networks, Palma de Mallorca, Spain.
-2020 – Ecological multilayer networks: from principles to challenges. (in Spanish). Center for Complexity Science, National Autonomous University of Mexico, Mexico.
-- 2020 – The interplay between immunity, structure and dynamics in host-pathogen systems. EcoFlor, Bilbao, Spain
-- 2018 –  Multilayer networks reveal a non-neutral and temporally-persistent population structure in falciparum malaria, Networks in Disease Ecology Meeting at NetSci2018, Paris, France.
-- 2017 – Merging ecological networks across interaction types: Challenges and opportunities. Working group at the Ecological Society of America annual meeting, Portland, USA.
+- 2023 – The application of ecological multilayer networks to microbial systems. _Department of Ecology and Evolution, University of Chicago_.
+- 2023 – Mobile genetic elements and bacterial communities as adaptive complex systems. _Institute of Physics, Hebrew University of Jerusalem_
+- 2021 – Ecological multilayer networks in the microbial world. _V symposium on Ecological Networks, Palma de Mallorca, Spain_.
+- 2020 – Ecological multilayer networks: from principles to challenges. (in Spanish). _Center for Complexity Science, National Autonomous University of Mexico, Mexico_.
+- 2020 – The interplay between immunity, structure and dynamics in host-pathogen systems. _EcoFlor, Bilbao, Spain_
+- 2018 – Multilayer networks reveal a non-neutral and temporally-persistent population structure in falciparum malaria, _Networks in Disease Ecology Meeting at NetSci2018, Paris, France_.
+- 2017 – Merging ecological networks across interaction types: Challenges and opportunities. _Working group at the Ecological Society of America annual meeting, Portland, USA_.
 
 # Organization of workshops, meetings and conferences
 - 2023 – International ISF workshop EcoNet2023, BGU, Israel. 57 attendees (33 from abroad, including 7 keynote speakers).  https://lifewp.bgu.ac.il/wp/econet2023/ 
 - 2023 – Satellite meeting: Multi-interaction socio-ecological networks at the NetSci conference, Vienna, Austria. https://skefi.github.io/multi-interaction-symposium/ (with Sonia Kefi).
 - 2022 – International Plasmid Biology Workshop, BGU, Israel (30 attendees). https://lifewp.bgu.ac.il/wp/plasmid_workshop/.
-2018 – Satellite meeting: Ecological networks: spandrels, selection, and assembly (30 attendees), at the NetSci conference, Zaragoza, Spain. (with Jacopo Grilli).
+- 2018 – Satellite meeting: Ecological networks: spandrels, selection, and assembly (30 attendees), at the NetSci conference, Zaragoza, Spain. (with Jacopo Grilli).
 
 # Teaching
 
-## Courses
-- Introduction to Ecology
-- Networks in Ecology and Evolution
-- Research workshop
+## Coordination
+- Coordiantor of the biodata undergraduate-level track.
+- Coordinator of the Ashalim-Dkalim faculy-level excellence program
+
+## Courses I regularly teach
+- Introduction to Ecology (undergraduate level)
+- Networks in Biology, Ecology and Evolution (graduate level)
+- Research workshop (undergraduate level)
 
 ## Worksops
 - 2021 - Multilayer networks workshop @ University of the Balearic Islands, Spain. Co-taught with Prof. Carlos Melian.
