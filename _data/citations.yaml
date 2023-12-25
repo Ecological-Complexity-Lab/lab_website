@@ -21,8 +21,8 @@
   - type: website
     link: https://ecological-complexity-lab.github.io/emln_package/
   tags:
-  - R
-  - package
+  - software
+  - multilayer networks
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
 - id: doi:10.32942/X28G7K
   title: Local and regional processes drive distance decay in structure in a spatial
@@ -39,6 +39,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/pic_local_and_regional_processes.png
+  tags:
+  - mutualistic interactions
+  - multilayer networks
 - id: doi:10.32942/X2161C
   title: Scale-dependent signatures of microbial co-occurrence revealed via multilayer
     network analysis
@@ -56,6 +59,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/pic_scale_dependent_signatures.png
+  tags:
+  - microbial ecology
+  - multilayer networks
 - id: doi:10.1038/s41467-023-41906-2
   title: Ecological network analysis reveals cancer-dependent chaperone-client interaction
     structure and robustness
@@ -72,6 +78,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png
+  tags:
+  - cancer ecology
+  - multilayer networks
+  - not our typical paper
 - id: doi:10.1016/j.tim.2023.01.007
   title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
   authors:
@@ -84,6 +94,9 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_conceptualizing_microbeplasmid_1.png
+  tags:
+  - microbial ecology
+  - theory
 - id: doi:10.1098/rspb.2023.0132
   title: Invasive species modulate the structure and stability of a multilayer mutualistic
     network
@@ -103,6 +116,9 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_invasive_species_modulate_the_structure.jpeg
+  tags:
+  - mutualistic interactions
+  - multilayer networks
 - id: doi:10.1038/s41396-023-01373-5
   title: Multilayer networks of plasmid genetic similarity reveal potential pathways
     of gene transmission
@@ -121,6 +137,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_multilayer_networks_of_plasmid_genetics.png
+  tags:
+  - microbial ecology
+  - multilayer networks
+  - modeling dynamics
 - id: doi:10.1371/journal.pcbi.1009319
   title: The interplay between vaccination and social distancing strategies affects
     COVID19 population-level outcomes
@@ -140,6 +160,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
+  tags:
+  - modeling dynamics
+  - not our typical paper
+  - disease
 - id: doi:10.3389/fevo.2021.633263
   title: Frequency-Dependent Competition Between Strains Imparts Persistence to Perturbations
     in a Model of Plasmodium falciparum Malaria Transmission
@@ -157,6 +181,9 @@
   file: sources.yaml
   type: paper
   image: https://www.frontiersin.org/files/Articles/633263/fevo-09-633263-HTML-r2/image_m/fevo-09-633263-g001.jpg
+  tags:
+  - modeling dynamics
+  - disease
 - id: doi:10.1111/2041-210X.13569
   title: Identifying flow modules in ecological networks using Infomap
   authors:
@@ -173,6 +200,13 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
+  buttons:
+  - type: website
+    link: https://ecological-complexity-lab.github.io/infomap_ecology_package/index.html
+  tags:
+  - software
+  - multilayer networks
+  repo: https://github.com/Ecological-Complexity-Lab/infomap_ecology_package
 - id: doi:10.1038/s41559-020-01312-z
   title: The network structure and eco-evolutionary dynamics of CRISPR-induced immune
     diversification
@@ -192,6 +226,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_the_network_structure_and_eco_evol_CRISPR.webp
+  tags:
+  - microbial ecology
+  - modeling dynamics
+  - host-parasite interactions
 - id: doi:10.3390/cancers12040825
   title: Pan-Cancer Analysis of Mitochondria Chaperone-Client Co-Expression Reveals
     Chaperone Functional Partitioning
