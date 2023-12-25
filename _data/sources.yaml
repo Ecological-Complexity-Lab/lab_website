@@ -21,13 +21,14 @@
   tags:
     - microbial ecology
     - multilayer networks
+    - population genetics
     
 - id: doi:10.1038/s41467-023-41906-2
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
   tags:
     - cancer
     - multilayer networks
-    - something different
+    - not our typical paper
     
 - id: doi:10.1016/j.tim.2023.01.007
   image: images/publications/pic_conceptualizing_microbeplasmid_1.png
@@ -52,7 +53,7 @@
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
   tags:
     - dynamics
-    - something different
+    - not our typical paper
     - disease
     
 - id: doi:10.3389/fevo.2021.633263
@@ -86,20 +87,23 @@
   image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
   tags:
     - cancer
+    - not our typical paper
     
 - id: doi:10.1371/journal.pbio.3000336
   type: paper
   image: images/publications/pic_comp_for_hosts_Plasmodium.jpg
   tags:
     - disease
-    - dynamics
+    - time
     - multilayer networks
+    - population genetics
 
 - id: doi:10.1038/s41467-018-04219-3
   type: paper
   image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
   tags:
     - disease
+    - population genetics
       
 - id: doi:10.1016/j.jtbi.2017.07.020
   type: paper
@@ -131,14 +135,21 @@
 - id: doi:10.1017/s0031182013001376
   type: paper
   image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  tags:
+    - space
 
 - id: doi:10.1016/j.ijpara.2013.05.001
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0020751913001434-fx1_lrg.jpg
+  tags:
+  - space
+  - host-parasite interactions
 
 - id: doi:10.1111/1365-2656.12101
   type: paper
   image: images/publications/pic_phylogeny_determines_the_role_food_webs.jpg
+  tags:
+    - food webs
 
 - id: doi:10.1111/j.1600-0706.2013.00646.x
   type: paper
@@ -151,15 +162,25 @@
 - id: doi:10.1111/1365-2656.12090
   type: paper
   image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
+  tags:
+    - host-parasite interactions
+    - time
 
 - id: doi:10.1017/s0031182012001205
   type: paper
   image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  tags:
+    - host-parasite interactions
 
 - id: doi:10.1371/journal.pone.0041487
   type: paper
   image: images/publications/pic_effects_of_anthropogenic_disturbance.jpg
+  tags:
+    - host-parasite interactions
+    - bats
 
 - id: doi:10.1644/09-mamm-a-370.1
   type: paper
   image: images/publications/pic_variability_in_urine_concentration.jpg
+  tags:
+    - bats
