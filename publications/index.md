@@ -15,6 +15,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
+<style>
+.publications-page {
+    background-image: url('https://ecomplab.com/images/background_dalle.jpg');
+    /* Other background properties as needed */
+}
+</style>
+
+
 {% include section.html %}
 
 {% include search-box.html %}
