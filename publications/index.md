@@ -4,23 +4,8 @@ nav:
   order: 2
   tooltip: Published works
 ---
-<style>
-    .page-content {
-        background-image: url('https://ecomplab.com/images/background_dalle.jpg');
-        background-size: cover;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-    }
-</style>
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Publications
-
-<style>
-.publications-page {
-    background-image: url('https://ecomplab.com/images/background_dalle.jpg');
-    /* Other background properties as needed */
-}
-</style>
 
 
 {% include section.html %}
