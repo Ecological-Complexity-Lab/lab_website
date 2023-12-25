@@ -62,6 +62,7 @@
   tags:
   - microbial ecology
   - multilayer networks
+  - population genetics
 - id: doi:10.1038/s41467-023-41906-2
   title: Ecological network analysis reveals cancer-dependent chaperone-client interaction
     structure and robustness
@@ -80,7 +81,7 @@
   tags:
   - cancer
   - multilayer networks
-  - something different
+  - not our typical paper
 - id: doi:10.1016/j.tim.2023.01.007
   title: "Conceptualizing microbe\u2013plasmid communities as complex adaptive systems"
   authors:
@@ -157,7 +158,7 @@
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
   tags:
   - dynamics
-  - something different
+  - not our typical paper
   - disease
 - id: doi:10.3389/fevo.2021.633263
   title: Frequency-Dependent Competition Between Strains Imparts Persistence to Perturbations
@@ -247,6 +248,7 @@
   image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
   tags:
   - cancer
+  - not our typical paper
 - id: doi:10.1371/journal.pbio.3000336
   title: Competition for hosts modulates vast antigenic diversity to generate persistent
     strain structure in Plasmodium falciparum
@@ -267,8 +269,9 @@
   image: images/publications/pic_comp_for_hosts_Plasmodium.jpg
   tags:
   - disease
-  - dynamics
+  - time
   - multilayer networks
+  - population genetics
 - id: doi:10.1038/s41467-018-04219-3
   title: Networks of genetic similarity reveal non-neutral processes shape strain
     structure in Plasmodium falciparum
@@ -291,6 +294,7 @@
   image: images/publications/pic_net_of_genetics_similaruty_Plasmodium_falciparum.webp
   tags:
   - disease
+  - population genetics
 - id: doi:10.1016/j.jtbi.2017.07.020
   title: Asymmetric disease dynamics in multihost interconnected networks
   authors:
@@ -389,6 +393,8 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  tags:
+  - space
 - id: doi:10.1016/j.mambio.2013.10.005
   title: Effects of sewage-water contamination on the immune response of a desert
     bat
@@ -453,6 +459,8 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_phylogeny_determines_the_role_food_webs.jpg
+  tags:
+  - food webs
 - id: doi:10.1016/j.ijpara.2013.05.001
   title: Spatial variation in the phylogenetic structure of flea assemblages across
     geographic ranges of small mammalian hosts in the Palearctic
@@ -469,6 +477,9 @@
   file: sources.yaml
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0020751913001434-fx1_lrg.jpg
+  tags:
+  - space
+  - host-parasite interactions
 - id: doi:10.1111/1365-2656.12090
   title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
     parasite network"
@@ -486,6 +497,9 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
+  tags:
+  - host-parasite interactions
+  - time
 - id: doi:10.1371/journal.pone.0041487
   title: Effects of Anthropogenic Disturbance and Climate on Patterns of Bat Fly Parasitism
   authors:
@@ -502,6 +516,9 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_effects_of_anthropogenic_disturbance.jpg
+  tags:
+  - host-parasite interactions
+  - bats
 - id: doi:10.1017/s0031182012001205
   title: 'Host body microcosm and ectoparasite infracommunities: arthropod ectoparasites
     are not spatially segregated'
@@ -517,6 +534,8 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  tags:
+  - host-parasite interactions
 - id: doi:10.1644/09-mamm-a-370.1
   title: Variability in urine concentration and fecal water content of bats in a tropical
     deciduous forest
@@ -531,3 +550,5 @@
   file: sources.yaml
   type: paper
   image: images/publications/pic_variability_in_urine_concentration.jpg
+  tags:
+  - bats
