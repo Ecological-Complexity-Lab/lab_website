@@ -4,12 +4,14 @@ nav:
   order: 2
   tooltip: Published works
 ---
-
-<div style="background-image: url('https://ecomplab.com/images/background_dalle.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center;">
-    # Your Markdown Content
-    #You can write your markdown content here. It will be displayed with the background image.
-
-
+<style>
+    .page-content {
+        background-image: url('https://ecomplab.com/images/background_dalle.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+</style>
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
@@ -38,4 +40,3 @@ nav:
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
-</div>
