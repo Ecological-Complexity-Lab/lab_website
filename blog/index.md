@@ -4,14 +4,14 @@ nav:
   order: 4
   tooltip: What we are up to
 ---
-<!-- At the top of your publications.md -->
+<!-- At the top of your publications.md 
 <style>
   body {
     background-image: url('/images/background_dalle.jpg');
     background-size: cover;
     background-repeat: no-repeat;
   }
-</style>
+</style>  -->
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
