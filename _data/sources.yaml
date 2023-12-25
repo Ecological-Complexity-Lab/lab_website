@@ -130,11 +130,11 @@
 
 - id: doi:10.1111/1365-2656.12134
   type: paper
-  image: images/publications/pic_tradeoff_between_quantity_and_quality.jpg
+  image: images/publications/pic_tradeoff_between_quantity_and_quality_2.jpeg
 
 - id: doi:10.1017/s0031182013001376
   type: paper
-  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas_2.gif
   tags:
     - space
 
@@ -147,13 +147,13 @@
 
 - id: doi:10.1111/1365-2656.12101
   type: paper
-  image: images/publications/pic_phylogeny_determines_the_role_food_webs.jpg
+  image: images/publications/pic_phylogeny_determines_the_role_food_webs_2.png
   tags:
     - food webs
 
 - id: doi:10.1111/j.1600-0706.2013.00646.x
   type: paper
-  image: images/publications/pic_coocurrence_and_phylogenetic_distance.jpg
+  image: images/publications/pic_coocurrence_and_phylogenetic_distance_2.jpeg
 
 - id: doi:10.1080/15659801.2013.865338
   type: paper
@@ -161,14 +161,14 @@
 
 - id: doi:10.1111/1365-2656.12090
   type: paper
-  image: images/publications/pic_temporal_dynamics_host_parasite_network.jpg
+  image: images/publications/pic_temporal_dynamics_host_parasite_network_2.png
   tags:
     - host-parasite interactions
     - time
 
 - id: doi:10.1017/s0031182012001205
   type: paper
-  image: images/publications/pic_phylogenrtic_structure_of_host_spectra_in_palaearctic_fleas.jpg
+  image: images/publications/pic_host_body_microcosm.gif
   tags:
     - host-parasite interactions
 
