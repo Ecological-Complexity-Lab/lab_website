@@ -4,11 +4,4 @@ main {
   flex-grow: 1;
 }
 
-body {
-  background-image: url("https://ecomplab.com/images/background_dalle.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
 /*# sourceMappingURL=main.css.map */
