@@ -3,51 +3,89 @@
   description: EMLN package and guidelines
   image: images/projects/emln_pic.jpg #https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg  
   buttons:
-    - type: website
-      link: https://ecological-complexity-lab.github.io/emln_package/
+    type: website
+    link: https://ecological-complexity-lab.github.io/emln_package/
   tags:
-    - R
-    - package
+    - software
+    - multilayer networks
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
   
 - id: doi:10.32942/X28G7K
   image: images/publications/pic_local_and_regional_processes.png
-  
+  tags:
+    - mutualistic interactions
+    - multilayer networks
+    
 - id: doi:10.32942/X2161C
   image: images/publications/pic_scale_dependent_signatures.png
-  
+  tags:
+    - microbial ecology
+    - multilayer networks
+    
 - id: doi:10.1038/s41467-023-41906-2
   type: paper
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
-  
+  tags:
+    - cancer ecology
+    - multilayer networks
+    - not our typical paper
+    
 - id: doi:10.1016/j.tim.2023.01.007
   type: paper
   image: images/publications/pic_conceptualizing_microbeplasmid_1.png
-  
+  tags:
+    - microbial ecology
+    - theory
+    
 - id: doi:10.1098/rspb.2023.0132
   type: paper
   image: images/publications/pic_invasive_species_modulate_the_structure.jpeg # https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0132
-
+  tags:
+    - mutualistic interactions
+    - multilayer networks
+    
 - id: doi:10.1038/s41396-023-01373-5
   type: paper
   image: images/publications/pic_multilayer_networks_of_plasmid_genetics.png
-
+  tags:
+    - microbial ecology
+    - multilayer networks
+    - modeling dynamics
+  
 - id: doi:10.1371/journal.pcbi.1009319
   type: paper
   image: images/publications/pic_the_inerplay_between_vaccination_and_COVID19.jpeg
-
+  tags:
+    - modeling dynamics
+    - not our typical paper
+    - disease
+    
 - id: doi:10.3389/fevo.2021.633263
   type: paper
   image: https://www.frontiersin.org/files/Articles/633263/fevo-09-633263-HTML-r2/image_m/fevo-09-633263-g001.jpg #images/publications/pic_frequency_dependent_competition_between_strains.jpeg
-
+  tags:
+    - modeling dynamics
+    - disease
+    
 - id: doi:10.1111/2041-210X.13569
   type: paper
   image: images/publications/pic_identifying_flow_modules_in_ec_net_infomap.jpeg
+    buttons:
+      type: website
+      link: https://ecological-complexity-lab.github.io/infomap_ecology_package/index.html
+  tags:
+    - software
+    - multilayer networks
+  repo: https://github.com/Ecological-Complexity-Lab/infomap_ecology_package
 
 - id: doi:10.1038/s41559-020-01312-z
   type: paper
   image: images/publications/pic_the_network_structure_and_eco_evol_CRISPR.webp
-  
+  tags:
+    - microbial ecology
+    - modeling dynamics
+    - host-parasite interactions
+    
 - id: doi:10.3390/cancers12040825
   type: paper
   image: images/publications/pic_pan_cancer_analysis_of_mitochondria_chaperone.png
