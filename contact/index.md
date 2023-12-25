@@ -23,11 +23,12 @@ Our lab is part of the Department of Life Sciences at Ben-Gurion Univetsity. We 
   link="https://maps.app.goo.gl/SnZrSNTT3u1iKFMXA"
 %}
 
+<!--
 <script>
   document.addEventListener('DOMContentLoaded', (event) => {
     document.querySelector('main').style.backgroundImage = "url('/images/background_dalle.jpg')";
     document.querySelector('main').style.backgroundSize = "cover";
     document.querySelector('main').style.backgroundRepeat = "no-repeat";
   });
-</script>
+</script>  -->
 
