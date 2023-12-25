@@ -3,6 +3,7 @@ title: Contact
 nav:
   order: 6
   tooltip: Email, address, and location
+background_image: /images/background_dalle.jpg
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
