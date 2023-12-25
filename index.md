@@ -5,7 +5,7 @@
 
 # Ecology, Network Science & Data science
 
-All ecological systems are complex. How are they structured? How are they created? How does complexity affects function? Our lab is a hub for studying the complexity underlying ecological systems. 
+All ecological systems are complex. How are they structured? How do they evolve? How does complexity affects ecosystem function? Our lab is a hub for studying the complexity underlying ecological systems. 
 {%
   include figure.html
   image="images/main_group_photo.jpeg"
