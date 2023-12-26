@@ -17,7 +17,7 @@ Our lab is part of the Department of Life Sciences at Ben-Gurion Univetsity. We 
 
 #### {% include icon.html icon="fa-solid fa-phone" %} Lab (+972)8-647-9223
 
-{% include section.html %}
+{% include section.html background="images/background_dalle.jpg" %}
 
 {%
   include figure.html
