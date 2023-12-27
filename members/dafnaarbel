@@ -457,7 +457,7 @@
 
 <header
   class="background"
-  style="--image: url('/images/background_multilayer.jpg')"
+  style="--image: url('/images/background_dalle.jpg')"
   
     data-dark="true"
   
@@ -677,7 +677,7 @@ I am a masters student of biology at BGU. My research concerns spatial multilaye
 
 <footer
   class="background"
-  style="--image: url('/images/background_microbes.jpg')"
+  style="--image: url('/images/background_dalle.jpg')"
   
     data-dark="true"
   
