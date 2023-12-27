@@ -445,8 +445,7 @@
 
 </head>
 
-  <body style="">
-    <div class="site-background"></div> <!-- Background image div -->
+  <body>
     
 
 
@@ -831,6 +830,5 @@ I am a masters student of biology at BGU. My research concerns spatial multilaye
   >
 </footer>
 
-    
   </body>
 </html>
