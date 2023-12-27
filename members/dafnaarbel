@@ -5,6 +5,17 @@
   put your analytics (e.g. Google Analytics) tracking code here
 -->
 
+
+<!-- Begin Web-Stat code v 7.0 -->
+<span id="wts2149070"></span>
+<script>var wts=document.createElement('script');wts.async=true;
+wts.src='https://app.ardalio.com/log7.js';document.head.appendChild(wts);
+wts.onload = function(){ wtslog7(2149070,1); };
+</script><noscript><a href="https://www.web-stat.com">
+<img src="https://app.ardalio.com/7/1/2149070.png" 
+alt="Web-Stat web statistics"></a></noscript>
+<!-- End Web-Stat code v 7.0 -->
+
   <!--
   put your search engine verification (e.g. Google Search Console) tag here
 -->
