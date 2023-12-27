@@ -1,22 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include head.html %}
-  <body style="{% if page.background_image %}background-image: url('{{ page.background_image }}'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;{% endif %}">
-    <div class="site-background"></div> <!-- Background image div -->
+  <body>
     {% include header.html %}
     <main>
       {% include content.html content=content %}
     </main>
     {% include footer.html %}
-    {% if page.background_image %}
-    <style>
-      body.custom-background {
-        background-image: url('{{ page.background_image }}');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-      }
-    </style>
-    {% endif %}
   </body>
 </html>
