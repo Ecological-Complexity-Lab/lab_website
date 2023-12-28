@@ -14,11 +14,12 @@ We are a diverse group of dedicated and passionate researchers excited to explor
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: labmanager" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: msc" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: labmanager" %}
+
 
 
 {% include section.html background="images/background.jpg" dark=true %}
