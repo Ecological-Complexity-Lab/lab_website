@@ -1,6 +1,6 @@
 ---
 name: Ying-Jie Wang
-image: images/team_YJ.png
+image: images/team_YingJie.jpeg
 description: Postdoc
 role: postdoc
 links:
