@@ -12,7 +12,7 @@ links:
 
 I am a post-doctoral researcher at BGU. My primary research interest resides in community ecology and global change ecology. How interacting species respond to a key global change factor or co-occurring global change factors via different tactics (e.g. plasticity, evolution, and evolution of plasticity), and how this affects ecosystem dynamics and functioning, are the key questions that drive most of my research activities. I have worked on both terrestrial and aquatic ecosystems, applying long-term common garden experiments, field observations, statistical analyses, and modeling in my research.
 
-## Professional Experiences
+# Professional Experiences
 
 2023/03 - current	Post-doctoral fellow: Department of Life Sciences, Ben-Gurion University of the Negev 
 
@@ -29,7 +29,7 @@ I am a post-doctoral researcher at BGU. My primary research interest resides in 
 2013/02 - 2013/06	Teaching assistant: Institute of Ecology and Evolutionary Biology, National Taiwan University
 
 
-## Education
+# Education
 
 2017/06 - 2021/09   Unit of Ecology, Evolution and Biodiversity Conservation, Katholieke Universiteit Leuven (KU Leuven), PhD
 
@@ -39,7 +39,7 @@ I am a post-doctoral researcher at BGU. My primary research interest resides in 
 
 Publications (click here for my Google Scholar profile)
 
-## Peer-reviewed Articles
+# Peer-reviewed Articles
 
 Wang, Y. J., Tüzün, N., DeMeester, L., Feuchtmayr, H., Sentis, A., & Stoks, R. (2022). Rapid evolution of unimodal but not of linear thermal performance curves in Daphnia magna. Proceedings of the Royal Society B,  290, 20222289. (doi: 10.1098/rspb.2022.2289)
 
@@ -56,14 +56,14 @@ Wang, Y. J., Stoks, R., Sentis, A., & Tüzün, N. (2020). Support for the climat
 Wang, Y. J., Nakazawa, T., & Ho, C. K. (2017). Warming impact on herbivore population composition affects top-down control by predators. Scientific Reports, 7, 941. (doi: 10.1038/s41598-017-01155-y)
 
 
-## Peer-reviewed Books/Monographs
+# Peer-reviewed Books/Monographs
 
 Wang, Y. J. (2015). Experimental warming effects on the population growth and composition of a crop pest (soybean aphid) and the consequences for pest colonization under biocontrol. Master thesis. National Taiwan University, Taipei. URL: http://ntur.lib.ntu.edu.tw/handle/246246/272635
 
 Wang, Y. J. (2021). Effects of global warming on trophic interactions in ponds: an experimental approach. PhD thesis. KU Leuven, Leuven. Currently only internally accessible from the KU Leuven library and the KU Leuven intranet.
 
 
-## Awards & Grants
+# Awards & Grants
 
 Post-doctoral Fellowship (2023-) from Kreitman School Research Committee of Ben-Gurion University of the Negev, Israel
 
