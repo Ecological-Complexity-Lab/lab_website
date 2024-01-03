@@ -8,6 +8,6 @@ Congratulations to Barry for successfully defending his thesis on January 2, 202
 
 {%
   include figure.html
-  image="lab_website/images/blog/Barry_defense_exam.jpeg"
+  image="images/blog/Barry_defense_exam.jpeg"
   height="300px"
 %}
