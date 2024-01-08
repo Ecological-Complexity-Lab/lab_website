@@ -10,7 +10,6 @@
     - software
 
 
-
 - title: infomapecology
   group: featured
   image: images/projects/infomapeology_multilayer_inter.png
@@ -24,13 +23,13 @@
 
 
   - title: Lotka-Voltera teaching app
-  group: featured
-  image: images/projects/LV.png
-  link: https://ecomplab.com/teaching/
-  description: A small app for students to play with when learning LV model for competition
-  tags:
-    - teaching
-    - dynamics
+    group: featured
+    image: images/projects/LV.png
+    link: https://ecomplab.com/teaching/
+    description: A small app for students to play with when learning LV model for competition
+    tags:
+      - teaching
+      - dynamics
     
 
 
