@@ -42,7 +42,8 @@ I am a post-doctoral researcher at BGU. I am an ecologist broadly interested in 
 
 # PEER-REVIEWED BOOKS
 
-Barrios-García M N, Quintero C, Ballari S A, Sasal Y, Vitali A & Rodríguez-Cabal M A. Impact of introduced herbivores in forested ecosystems in Valenzuela A.E.J., Anderson C.B., Ojeda R.A. y S.A. Ballari, editors. Invasive Exotic Mammals in Argentina. SAREM Series A: Mammalogical Research, Argentina. In press.
+* Barrios-García M N, Quintero C, Ballari S A, Sasal Y, Vitali A & Rodríguez-Cabal M A. Impact of introduced herbivores in forested ecosystems in Valenzuela A.E.J., Anderson C.B., Ojeda R.A. y 
+* S.A. Ballari, editors. Invasive Exotic Mammals in Argentina. SAREM Series A: Mammalogical Research, Argentina. In press.
 
 
 # AWARDS & GRANTS
