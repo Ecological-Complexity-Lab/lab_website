@@ -1,8 +1,8 @@
 ---
 name: Barry Biton
 image: images/team_barrybiton.jpeg
-description: MSc student
-role: msc
+description: Code developer
+role: coder
 links:
   email: barryb@post.bgu.ac.il
 ---
