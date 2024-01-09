@@ -31,13 +31,13 @@ I am a post-doctoral researcher at BGU. I am an ecologist broadly interested in 
 
 # PEER-REVIEWED ARTICLES
 
-Vitali A., Ruiz-Suarez S., Vázquez D., Schleuning M., Rodríguez-Cabal M., Sasal Y., & Pilosof S. (2023). Invasive species modulate the structure and stability of a multilayer mutualistic network. Proceedings of the Royal Society B: Biological Sciences. DOI: 10.1098/rspb.2023.0132  
-Chiuffo M., Moyano J., Policelli N., Torres A., Vitali A., Nunez M., & Rodriguez-Cabal M. (2022). Importance of invasion mechanisms varies with abiotic context and plant invader growth form. Journal of Ecology. DOI: 10.1111/1365-2745.13929  
-Morán-López T., Benadi G., Lara-Romero C., Chacoff N., Vitali A., Pescador D., Lomascolo S.B., Morente-López J., Vázquez D., & Morales J.M. (2022). Flexible diets enable pollinators to cope with changes in plant community composition. Journal of Ecology. DOI:10.1111/1365-2745.13893  
-Vitali A., Vázquez D., Miguel M.F., Sasal Y., & Rodriguez-Cabal M. (2022). A keystone mutualism promotes resistance to invasion. Journal of Animal Ecology. DOI: 10.1111/1365-2656.13597   
-Vitali A., Sasal Y., Vázquez D., Miguel M.F., & Rodriguez-Cabal M. (2021). The disruption of a keystone interaction erodes pollination and seed dispersal networks. Ecology. DOI:10.1002/ecy.3547  
-Motta L.*, Vitali A.*, Amico G.C., García D., & Rodriguez-Cabal M. (2020). Post dispersal seed predation in Patagonia temperate forest depends on habitat patchiness and seed species. Plant Ecology.  DOI:10.1007/s11258-021-01145-1. (* indicates that these authors contributed equally to this work)  
-Rodriguez-Cabal M.A., Barrios-Garcia M.N., Greyson-Gaito C.J., Slinn H.L., Tapella M.P., Vitali A., & Crutsinger G.M. (2019). Non-native ungulates indirectly impact foliar arthropods but not soil function. Biological Invasions. DOI: 10.1007/s10530-019-02030-9  
+* Vitali A., Ruiz-Suarez S., Vázquez D., Schleuning M., Rodríguez-Cabal M., Sasal Y., & Pilosof S. (2023). Invasive species modulate the structure and stability of a multilayer mutualistic network. Proceedings of the Royal Society B: Biological Sciences. DOI: 10.1098/rspb.2023.0132  
+* Chiuffo M., Moyano J., Policelli N., Torres A., Vitali A., Nunez M., & Rodriguez-Cabal M. (2022). Importance of invasion mechanisms varies with abiotic context and plant invader growth form. Journal of Ecology. DOI: 10.1111/1365-2745.13929  
+* Morán-López T., Benadi G., Lara-Romero C., Chacoff N., Vitali A., Pescador D., Lomascolo S.B., Morente-López J., Vázquez D., & Morales J.M. (2022). Flexible diets enable pollinators to cope with changes in plant community composition. Journal of Ecology. DOI:10.1111/1365-2745.13893  
+* Vitali A., Vázquez D., Miguel M.F., Sasal Y., & Rodriguez-Cabal M. (2022). A keystone mutualism promotes resistance to invasion. Journal of Animal Ecology. DOI: 10.1111/1365-2656.13597   
+* Vitali A., Sasal Y., Vázquez D., Miguel M.F., & Rodriguez-Cabal M. (2021). The disruption of a keystone interaction erodes pollination and seed dispersal networks. Ecology. DOI:10.1002/ecy.3547  
+* Motta L.*, Vitali A.*, Amico G.C., García D., & Rodriguez-Cabal M. (2020). Post dispersal seed predation in Patagonia temperate forest depends on habitat patchiness and seed species. Plant Ecology.  DOI:10.1007/s11258-021-01145-1. (* indicates that these authors contributed equally to this work)  
+* Rodriguez-Cabal M.A., Barrios-Garcia M.N., Greyson-Gaito C.J., Slinn H.L., Tapella M.P., Vitali A., & Crutsinger G.M. (2019). Non-native ungulates indirectly impact foliar arthropods but not soil function. Biological Invasions. DOI: 10.1007/s10530-019-02030-9  
 
 
 # PEER-REVIEWED BOOKS
@@ -47,11 +47,11 @@ Barrios-García M N, Quintero C, Ballari S A, Sasal Y, Vitali A & Rodríguez-Cab
 
 # AWARDS & GRANTS
 
-Excellence Fellowship Program for International Postdoctoral Researchers (2023 - 2025).  IASH (The Israel Academy of Sciences and Humanities) - CHE (Israel Council for Higher Education).  
-Fellowship “Fellowship Program for Outstanding Postdoctoral Researchers from Latin America” at Ben-Gurion University of the Negev.  
-Fellowship “PhD Sandwich Program” at Ben-Gurion University of the Negev (2022).  IASH (The Israel Academy of Sciences and Humanities) - CHE (Israel Council for Higher Education).  
-Scholarship “Research Grants – Short-Term Grants” (2021). DAAD  – Deutscher Akademischer Austauschdienst.  
-Rufford Small Grant (2018). The Rufford Foundation, £4956.  
-Full PhD fellowship (2017-2023) - National Council of Science and Technology of Argentina   
-Honorable diploma for high scores (2017) - University of Rosario  
-Scholarship Agricultural Science Foundation (2015) – University of Rosario 
+* Excellence Fellowship Program for International Postdoctoral Researchers (2023 - 2025).  IASH (The Israel Academy of Sciences and Humanities) - CHE (Israel Council for Higher Education).  
+* Fellowship “Fellowship Program for Outstanding Postdoctoral Researchers from Latin America” at Ben-Gurion University of the Negev.  
+* Fellowship “PhD Sandwich Program” at Ben-Gurion University of the Negev (2022).  IASH (The Israel Academy of Sciences and Humanities) - CHE (Israel Council for Higher Education).  
+* Scholarship “Research Grants – Short-Term Grants” (2021). DAAD  – Deutscher Akademischer Austauschdienst.  
+* Rufford Small Grant (2018). The Rufford Foundation, £4956.  
+* Full PhD fellowship (2017-2023) - National Council of Science and Technology of Argentina   
+* Honorable diploma for high scores (2017) - University of Rosario  
+* Scholarship Agricultural Science Foundation (2015) – University of Rosario 
