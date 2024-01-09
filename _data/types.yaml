@@ -24,8 +24,12 @@ undergrad:
 
 labmanager:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Lab manager
 
+coder:
+  icon: fa-solid fa-code
+  description: Programmer
+  
 alumni:
   icon: fa-regular fa-thumbs-up
   description: Past member
