@@ -1,6 +1,6 @@
 ---
 name: Agustin Vitali
-image: images/team_tino.jpeg
+image: images/team_tinio.JPG
 description: Postdoc
 role: postdoc
 links:
