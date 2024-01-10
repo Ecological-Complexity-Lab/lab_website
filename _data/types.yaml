@@ -28,7 +28,7 @@ labmanager:
 
 coder:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Code developer
   
 alumni:
   icon: fa-regular fa-thumbs-up
