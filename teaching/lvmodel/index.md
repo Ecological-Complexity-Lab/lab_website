@@ -1,7 +1,10 @@
 ---
-title: Teaching
+title: Lotka-Voltera competition
 ---
 
-# App for Lotka-Volterra dynamics
+# App for Lotka-Volterra 2-species competition
 
 <iframe src="https://ecomplab.shinyapps.io/lotka-voltera_app/" width="1100" height="1100"></iframe>
+
+## Code
+https://github.com/Ecological-Complexity-Lab/teaching
