@@ -24,7 +24,7 @@
 
 - title: Lotka-Voltera competition (teaching app)
   group: featured
-  image: images/projects/LV.png
+  image: images/projects/LV_competition.png
   link: https://ecomplab.com/teaching/lvmodel_competition/index.html
   description: A small app for students to play with when learning LV model for competition
   tags:
@@ -33,7 +33,7 @@
 
     - title: Lotka-Voltera predator-prey (teaching app)
   group: featured
-  image: images/projects/LV.png
+  image: images/projects/LV_predprey.png
   link: https://ecomplab.com/teaching/lvmodel_predprey/index.html
   description: A small app for students to play with when learning LV model for competition
   tags:
