@@ -22,14 +22,23 @@
     - software
 
 
-- title: Lotka-Voltera teaching app
+- title: Lotka-Voltera competition (teaching app)
   group: featured
   image: images/projects/LV.png
-  link: https://ecomplab.com/teaching/lvmodel/index.html
+  link: https://ecomplab.com/teaching/lvmodel_competition/index.html
   description: A small app for students to play with when learning LV model for competition
   tags:
     - teaching
     - dynamics
-    
+
+    - title: Lotka-Voltera predator-prey (teaching app)
+  group: featured
+  image: images/projects/LV.png
+  link: https://ecomplab.com/teaching/lvmodel_predprey/index.html
+  description: A small app for students to play with when learning LV model for competition
+  tags:
+    - teaching
+    - dynamics
+
 
 
