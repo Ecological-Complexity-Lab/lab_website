@@ -31,11 +31,11 @@
     - teaching
     - dynamics
 
-    - title: Lotka-Voltera predator-prey (teaching app)
+- title: Lotka-Voltera predator-prey (teaching app)
   group: featured
   image: images/projects/LV_predprey.png
   link: https://ecomplab.com/teaching/lvmodel_predprey/index.html
-  description: A small app for students to play with when learning LV model for competition
+  description: A small app for students to play with when learning LV model for predaor-prey dynamics
   tags:
     - teaching
     - dynamics
