@@ -2,7 +2,7 @@
 title: Lotka-Voltera competition
 ---
 
-# App for Lotka-Volterra 2-species competition
+# Lotka-Volterra 2-species competition
 
 <iframe src="https://ecomplab.shinyapps.io/lotka-voltera_app/" width="1100" height="1100"></iframe>
 
