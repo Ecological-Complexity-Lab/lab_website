@@ -15,6 +15,18 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_1.jpeg" data-lightbox="gallery_LabLife" data-title=" Productive collaboration trip, Liverpool, Feb2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_2.jpeg" data-lightbox="gallery_LabLife" data-title=" Productive collaboration trip, Liverpool, Feb2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_4.jpeg" data-lightbox="gallery_LabLife" data-title=" Productive collaboration trip, Liverpool, Feb2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_4.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_5.jpeg" data-lightbox="gallery_LabLife" data-title=" Productive collaboration trip, Liverpool, Feb2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/Liverpool_Feb2024_5.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/gallery/LabLife/movieNight_Feb2024.jpeg" data-lightbox="gallery_LabLife" data-title=" Round for movie night with popcorn, Feb2024">
         <img src="https://ecomplab.com/images/gallery/LabLife/movieNight_Feb2024.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
