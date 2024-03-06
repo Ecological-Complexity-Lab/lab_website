@@ -537,19 +537,19 @@
     
       
         <a
-          href="/blog/"
-          data-tooltip="What we are up to"
+          href="/team/join/"
+          data-tooltip="Join us!"
         >
-          News
+          Join
         </a>
       
     
       
         <a
-          href="/team/join/"
-          data-tooltip="Join us!"
+          href="/blog/"
+          data-tooltip="What we are up to"
         >
-          Join
+          News
         </a>
       
     
