@@ -1,6 +1,6 @@
 ---
 name: Shiri Ezra
-image: images/team_shiriezra.jpg
+image: images/team_ShiriEzra.jpg
 description: BSc student
 role: undergrad
 links:
