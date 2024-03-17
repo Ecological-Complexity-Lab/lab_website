@@ -9,7 +9,7 @@ All ecological systems are complex. How are they structured? How do they evolve?
 
 {%
   include figure.html
-  image="images/main_group_photo.jpeg"
+  image="images/main_group_photo_13032024.jpeg"
   link="team"
   width="400px"
 %}
