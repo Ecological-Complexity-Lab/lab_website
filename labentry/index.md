@@ -21,11 +21,11 @@ We’re happy to have you here! In the lab we use a set of tools to streamline o
 
 We have created a [GitHub repository with examples of the computational tools we use](https://github.com/Ecological-Complexity-Lab/lab_toolbox).
 
-## Creating Accounts:
+## Creating Accounts
 
 Keybase, GitHub, Paperpile, and Google docs and Calendar all require accounts, and the lab has groups/repositories/etc in each that you need to be invited to. Using your BGU account is recommended.
 
-## Program and Application Details and Tutorials:
+## Program and Application Details and Tutorials
 
 ### Keybase:
 [Keybase](https://keybase.io/) has direct messages and channels for different topics. Use it to chat with lab members or to post questions, files, code or whatever you need in the relevant channels. You need an invitation to join our team.
