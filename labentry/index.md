@@ -9,13 +9,13 @@ nav:
 
 We’re happy to have you here! In the lab we use a set of tools to streamline our work and collaborate. In order to help you get started, here are the main programs.
 
-- We communicate using Keybase. We have a lab calendar on google calendar.
+- We communicate using **Keybase**. We have a lab calendar on google calendar.
 - Programming:
- - We usually program in R, using RStudio. We also use Python and Julia.
- - We use GitHub for version control and collaborating on code.
- - We use Markdown, specifically R notebooks to document our code, analysis, and results, all in one file.
-- We read papers and manage our references using Paperpile.
-- We writre papers in Latex.
+ - We usually program in **R**, using RStudio. We also use **Python** and **Julia**.
+ - We use **GitHub** for version control and collaborating on code.
+ - We use Markdown, specifically **R notebooks** to document our code, analysis, and results, all in one file.
+- We read papers and manage our references using **Paperpile**.
+- We write papers in **Latex**.
 
 ## Lab toolbox
 
