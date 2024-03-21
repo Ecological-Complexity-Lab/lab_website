@@ -1,7 +1,7 @@
 ---
 title: Lab Intro
 nav:
-  order: 1
+  order: 7
   tooltip: Getting started in the lab
 ---
 
