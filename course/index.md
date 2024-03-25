@@ -9,7 +9,7 @@ nav:
     image="images/BGU.jpg"
     width="200px"
   %}
-## BGU course
+##
 **Course name:** Analysis of ecological-biological networks
  
 **Course number:** 205-2-1609
