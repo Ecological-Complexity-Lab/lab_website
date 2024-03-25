@@ -1,5 +1,5 @@
 ---
-title: Course
+title: Network_Course
 nav:
   order: 4
   tooltip: Analysis of ecological-biological networks
