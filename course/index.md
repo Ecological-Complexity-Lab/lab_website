@@ -4,7 +4,7 @@ nav:
   order: 6
   tooltip: Analysis of ecological-biological networks
 ---
-
+## BGU course
 **Course name:** Analysis of ecological-biological networks
  
 **Course number:** 205-2-1609
@@ -13,7 +13,7 @@ nav:
  
 **Course Structure:** Lecture: 2   Exercise:  2 Total # of Points: 3
  
-**__Course description__**
+**Course description**
 
 Biological systems, and specifically ecological systems, contain multiple entities that interconnect to form networks. These include gene interaction networks, food webs, plant-pollinator networks, metapopulations and networks of disease transmission. How these networks are structured is crucial for the dynamics and functioning of biological systems. This course will introduce the theory and methods for working with biological networks. Though primarily motivated by ecology, the theory and methodology we will cover is also relevant for other fields in biology, such as neuroscience, systems biology and epidemiology. Students will be actively involved in classes via paper discussions. Therefore, there is a limit of 12 students. The course, class discussions and presentations will be given in English. For the final project, students are encouraged to use their own research data. **Course material and weekly meeting topics may vary from what is currently written in the syllabus at the instructor's discretion during the semester.**
   
