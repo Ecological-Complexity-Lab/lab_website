@@ -12,7 +12,7 @@ nav:
 
 ***
 
-{% include figure.html image="images/publications/pic_local_and_regional_processes.png" width="200px" %} 
+<!-- {% include figure.html image="images/publications/pic_local_and_regional_processes.png" width="200px" %} -->
 
 **Course name:** Analysis of ecological-biological networks
  
@@ -21,6 +21,12 @@ nav:
 **Lecturer's name:** Shai Pilosof, pilos@post.bgu.ac.il
  
 **Course Structure:** Lecture: 2   Exercise:  2 Total # of Points: 3
+
+{%
+  include figure.html
+  image="images/publications/pic_local_and_regional_processes.png"
+  height="300px"
+%}
 
 <span style="text-decoration: underline;">**Course description**</span> 
 
