@@ -12,6 +12,8 @@ nav:
 
 ***
 
+{% capture content %} {% include figure.html image="images/publications/pic_local_and_regional_processes.png" width="200px" %} {% endcapture %}​{% include float.html content=content flip=true %}
+
 **Course name:** Analysis of ecological-biological networks
  
 **Course number:** 205-2-1609
