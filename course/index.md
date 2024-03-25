@@ -1,7 +1,7 @@
 ---
 title: Course
 nav:
-  order: 6
+  order: 4
   tooltip: Analysis of ecological-biological networks
 ---
 ## BGU course
@@ -12,8 +12,8 @@ nav:
 **Lecturer's name:** Shai Pilosof, pilos@post.bgu.ac.il
  
 **Course Structure:** Lecture: 2   Exercise:  2 Total # of Points: 3
- 
-**Course description**
+
+<span style="text-decoration: underline;">**Course description**</span> 
 
 Biological systems, and specifically ecological systems, contain multiple entities that interconnect to form networks. These include gene interaction networks, food webs, plant-pollinator networks, metapopulations and networks of disease transmission. How these networks are structured is crucial for the dynamics and functioning of biological systems. This course will introduce the theory and methods for working with biological networks. Though primarily motivated by ecology, the theory and methodology we will cover is also relevant for other fields in biology, such as neuroscience, systems biology and epidemiology. Students will be actively involved in classes via paper discussions. Therefore, there is a limit of 12 students. The course, class discussions and presentations will be given in English. For the final project, students are encouraged to use their own research data. **Course material and weekly meeting topics may vary from what is currently written in the syllabus at the instructor's discretion during the semester.**
   
