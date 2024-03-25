@@ -14,7 +14,7 @@ nav:
 
 <!-- {% include figure.html image="images/publications/pic_local_and_regional_processes.png" width="200px" %} -->
 
-<div style="float: right; margin-left: 10px;">
+<div style="float: right; margin-left: 10px; padding: 10px; border: 1px solid #ccc;">
   {% include figure.html
   image="images/publications/pic_local_and_regional_processes.png"
   height="300px" %}
