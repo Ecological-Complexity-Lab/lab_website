@@ -4,6 +4,11 @@ nav:
   order: 4
   tooltip: Analysis of ecological-biological networks
 ---
+{%
+    include figure.html
+    image="images/BGU.jpg"
+    width="200px"
+  %}
 ## BGU course
 **Course name:** Analysis of ecological-biological networks
  
