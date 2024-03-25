@@ -10,6 +10,8 @@ nav:
     width="200px"
   %}
 
+***
+
 **Course name:** Analysis of ecological-biological networks
  
 **Course number:** 205-2-1609
