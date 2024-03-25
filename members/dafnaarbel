@@ -537,19 +537,19 @@
     
       
         <a
-          href="/software/"
-          data-tooltip="Software, datasets, and websites"
+          href="/network_course/"
+          data-tooltip="Analysis of ecological-biological networks"
         >
-          Software
+          Network_Course
         </a>
       
     
       
         <a
-          href="/course/"
-          data-tooltip="Analysis of ecological-biological networks"
+          href="/software/"
+          data-tooltip="Software, datasets, and websites"
         >
-          Network_Course
+          Software
         </a>
       
     
