@@ -1,9 +1,10 @@
-<!-- ---
+---
 title: Lab Intro
-nav:
+nav_exclude: true
+--- 
+<!-- nav:
   order: 7
-  tooltip: Getting started in the lab
----  -->
+  tooltip: Getting started in the lab -->
 
 # Welcome to the lab!
 
