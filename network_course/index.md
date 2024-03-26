@@ -1,10 +1,12 @@
 ---
 title: Network_Course
+nav_exclude: true
+---
+<!-- 
 nav:
   order: 4
   tooltip: Analysis of ecological-biological networks
----
-
+  -->
 
 ***
 
