@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Lab Intro
 nav:
   order: 7
   tooltip: Getting started in the lab
----
+---  -->
 
 # Welcome to the lab!
 
