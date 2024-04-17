@@ -42,7 +42,7 @@
 
 - title: Stability Game
   group: featured
-  image: images/projects/stabilitygame.png
+  image: images/projects/stabilitygame1.png
   link: https://ecomplab.com/stabilitygame/
   description: Distribute 30 interactions as you like to find a robustness score as high as possible.
   tags:
