@@ -41,6 +41,9 @@ Biological systems, and specifically ecological systems, contain multiple entiti
 
 **The course is dynamic and adapted to students' needs as much as possible. Course material and weekly meeting topics may vary from what is currently written in the syllabus at the instructor's discretion during the semester.**
 
+# Teaching
+The course is given entirely in English, in a frontal way (no zoom or hybrid classes).
+
 # Course Topics (may change)
 * Introduction to networks and complex systems
 * Network structure
@@ -69,4 +72,9 @@ The only prerequisite is knowledge in programming (preferably in R, which is the
 2. Exercises are **not for submission** but are recommended for hands-on experience. Exercises are written in R. Students who would like to program in another language are welcomed to do so **independently**.
 3. Recommended (not necessary) prerequisite courses: Introduction to Ecology, linear algebra.
 4. The course will be given in English and all the assignments will be in English too.
+
+# Example references
+- Shapiro JT, Zorea A, Kav AB, Ontiveros VJ, Mizrahi I, Pilosof S. Multilayer networks of plasmid genetic similarity reveal potential pathways of gene transmission. ISME J. 2023; 1–11. [doi:10.1038/s41396-023-01373-5](https://doi.org/10.1038/s41396-023-01373-5)
+- Galai G, He X, Rotblat B, Pilosof S. Ecological network analysis reveals cancer-dependent chaperone-client interaction structure and robustness. Nat Commun. 2023;14: 1–11. [doi:10.1038/s41467-023-41906-2](https://doi.org/10.1038/s41467-023-41906-2)
+- Complexity explained. Available: [https://complexityexplained.github.io](https://complexityexplained.github.io)
 
