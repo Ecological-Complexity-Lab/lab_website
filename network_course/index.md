@@ -57,7 +57,7 @@ Provide students with:
 3. Skills: programming and analysis of network data, advanced paper reading, presenting research, scientific writing.
 
 # Prerequisits
-The only prerequisite is knowledge in programming (preferably in R, which is the language we will use). The course is general but examples and some theory are more focused on ecology. An introduction to ecology course is recommended, but not required. Knowledge in linear algebra is recommended, but not required.
+The only prerequisite is knowledge in programming (preferably in R, which is the language we will use). The course is general, as is the discipline of network science. Therefore, it is suitable for stuents who are interested in multiple aspects of biology. However, examples and some theory are focused on ecology. An introduction to ecology course is recommended, but not required. Knowledge in linear algebra is recommended, but not required.
 
 # Course requirements and grading
 * Compulsory attendance to lectures
