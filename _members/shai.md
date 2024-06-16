@@ -1,6 +1,6 @@
 ---
 name: Shai Pilosof
-image: images/team_shai16062024.jpeg
+image: images/team_shai_16062024.jpeg
 role: pi
 aliases:
   - Shai Pilosof
