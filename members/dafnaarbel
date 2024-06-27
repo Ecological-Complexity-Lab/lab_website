@@ -528,6 +528,15 @@
     
       
         <a
+          href="/software/"
+          data-tooltip="Software, datasets, and websites"
+        >
+          Software
+        </a>
+      
+    
+      
+        <a
           href="/team/join/"
           data-tooltip="Join us!"
         >
@@ -541,15 +550,6 @@
           data-tooltip="What we are up to"
         >
           News
-        </a>
-      
-    
-      
-        <a
-          href="/software/"
-          data-tooltip="Software, datasets, and websites"
-        >
-          Software
         </a>
       
     
