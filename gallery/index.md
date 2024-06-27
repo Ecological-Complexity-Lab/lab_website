@@ -8,13 +8,18 @@ nav:
 
 {% include section.html %}
 
-
 ## <center><span style="font-size:larger;"> LAB LIFE AROUND THE CLOCK {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/gallery/LabLife/MitraniSeminar_June2024_YingJie_4.jpeg" data-lightbox="gallery_LabLife" data-title="Mitrani Seminar, BGU. June 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/MitraniSeminar_June2024_YingJie_4.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/MitraniSeminar_June2024_YingJie_5.jpeg" data-lightbox="gallery_LabLife" data-title="Mitrani Seminar, BGU. June 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/MitraniSeminar_June2024_YingJie_5.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_3062024.jpeg" data-lightbox="gallery_LabLife" data-title="Complete team. June 2024">
         <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_3062024.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
