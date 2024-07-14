@@ -31,10 +31,13 @@ Special thanks to Prof. Darren Evans for his warm hospitality and showing Shai t
 <a href="https://ecomplab.com/images/blog/Newcastle_July2024_5.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 4">
         <img src="https://ecomplab.com/images/blog/Newcastle_July2024_5.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
 </a>
-<a href="https://ecomplab.com/images/blog/Newcastle_July2024_6.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 5">
+<a href="https://ecomplab.com/images/blog/Newcastle_July2024_7.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 5">
+        <img src="https://ecomplab.com/images/blog/Newcastle_July2024_7.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/Newcastle_July2024_6.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 6">
         <img src="https://ecomplab.com/images/blog/Newcastle_July2024_6.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
 </a>
-<a href="https://ecomplab.com/images/blog/Newcastle_July2024_2.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 6">
+<a href="https://ecomplab.com/images/blog/Newcastle_July2024_2.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 7">
         <img src="https://ecomplab.com/images/blog/Newcastle_July2024_2.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
 </a>
     </div>
