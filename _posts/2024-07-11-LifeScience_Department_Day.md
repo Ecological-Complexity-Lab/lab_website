@@ -4,7 +4,7 @@ author: shirlyf
 tags: students, social
 ---
 
-On July 11, 2024, the Life Science Department celebrated its annual Department Day. Shiri and Itamar, two undergraduate students from Shai's lab, presented their research posters, reflecting their hard work over the year. Well Done!
+On July 11, 2024, the Life Science Department celebrated its annual Department Day. Shiri and Itamar, two undergraduate students from Shai's lab, presented their research posters, reflecting their hard work over the year. Additionally, Itamar was honored for his outstanding achievements this year. Congratulations to both Shiri and Itamar for their well-deserved successes! Well Done!
 
 {%
   include figure.html
@@ -26,7 +26,10 @@ On July 11, 2024, the Life Science Department celebrated its annual Department D
 <a href="https://ecomplab.com/images/blog/DepartmentDay_2024_4.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 3">
         <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_4.jpeg" alt="gallery_DepartmentDay_July2024" style="width:100%;max-width:150px">
 </a>
-<a href="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 4">
+<a href="https://ecomplab.com/images/blog/DepartmentDay_2024_5.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 4">
+        <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_5.jpeg" alt="gallery_DepartmentDay_July2024" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 5">
         <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" alt="gallery_DepartmentDay_July2024" style="width:100%;max-width:150px">
 </a>
     </div>
