@@ -14,6 +14,27 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Life Science Department Day, July 2024">
+        <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/DepartmentDay_2024_5.jpeg" data-lightbox="gallery_LabLife" data-title="Life Science Department Day, July 2024">
+        <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_5.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/HappyBirthdayMatan_July2024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Celebrating Matan's Birthday at Noa's place. July 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/HappyBirthdayMatan_July2024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/HappyBirthdayMatan_July2024.jpeg" data-lightbox="gallery_LabLife" data-title="Happy Birthday, Matan! July 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/HappyBirthdayMatan_July2024.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/gallery/LabLife/FridayDinner_Yuval_06072024.jpeg" data-lightbox="gallery_LabLife" data-title="Friday Dinner at Yuval's. July 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/FridayDinner_Yuval_06072024.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/Newcastle_July2024_1.jpeg" data-lightbox="gallery_LabLife" data-title="Shai's Visit to Newcastle University, July 2024">
+        <img src="https://ecomplab.com/images/blog/Newcastle_July2024_1.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/blog/Newcastle_July2024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Shai's Visit to Newcastle University, July 2024">
+        <img src="https://ecomplab.com/images/blog/Newcastle_July2024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/blog/Timoteo_10724_5.png" data-lightbox="gallery_LabLife" data-title="Guest lecture by Sergio Timoteo, Zoom. July 2024">
         <img src="https://ecomplab.com/images/blog/Timoteo_10724_5.png" alt="LabLife" style="width:100%;max-width:150px">
 </a>
