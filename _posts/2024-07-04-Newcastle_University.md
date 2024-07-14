@@ -26,7 +26,7 @@ Special thanks to Prof. Darren Evans for his warm hospitality and showing Shai t
         <img src="https://ecomplab.com/images/blog/Newcastle_July2024_3.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/blog/Newcastle_July2024_4.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 3">
-        <img src="https://ecomplab.com/images/blog/cNewcastle_July2024_4.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
+        <img src="https://ecomplab.com/images/blog/Newcastle_July2024_4.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/blog/Newcastle_July2024_5.jpeg" data-lightbox="gallery_Newcastle_July2024" data-title="Shai's Visit to Newcastle University, July 2024 - 4">
         <img src="https://ecomplab.com/images/blog/Newcastle_July2024_5.jpeg" alt="gallery_Newcastle_July2024" style="width:100%;max-width:150px">
