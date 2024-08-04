@@ -14,6 +14,18 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/LabLife/Noa_Workshop_28072024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Noa at the Ecology Workshop, July 2024">
+        <img src="https://ecomplab.com/images/LabLife/Noa_Workshop_28072024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/LabLife/LazerTag_24072024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Laser Tag night, July 2024">
+        <img src="https://ecomplab.com/images/LabLife/LazerTag_24072024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/LabLife/lab_meet_09062024.jpeg" data-lightbox="gallery_LabLife" data-title="Lab Meeting, Noa prepares for the workshop, July 2024">
+        <img src="https://ecomplab.com/images/LabLife/lab_meet_09062024.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
+<a href="https://ecomplab.com/images/LabLife/lab_meet_09062024_4.jpeg" data-lightbox="gallery_LabLife" data-title="Lab Meeting, Noa prepares for the workshop, July 2024">
+        <img src="https://ecomplab.com/images/LabLife/lab_meet_09062024_4.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Life Science Department Day, July 2024">
         <img src="https://ecomplab.com/images/blog/DepartmentDay_2024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
