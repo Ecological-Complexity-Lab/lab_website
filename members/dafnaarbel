@@ -537,19 +537,19 @@
     
       
         <a
-          href="/software/"
-          data-tooltip="Software, datasets, and websites"
+          href="/blog/"
+          data-tooltip="What we are up to"
         >
-          Software
+          News
         </a>
       
     
       
         <a
-          href="/blog/"
-          data-tooltip="What we are up to"
+          href="/software/"
+          data-tooltip="Software, datasets, and websites"
         >
-          News
+          Software
         </a>
       
     
