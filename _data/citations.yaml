@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.32942/X2JS75
+  title: Inductive link prediction boosts data availability and enables cross-community
+    link prediction in ecological networks
+  authors:
+  - Barry Biton
+  - Rami Puzis
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2024-08-02'
+  link: https://doi.org/gt5zq8
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-024-47272-x
   title: Plasmids in the human gut reveal neutral dispersal and recombination that
     is overpowered by inflammatory diseases
@@ -243,6 +256,20 @@
   - microbial ecology
   - dynamics
   - host-parasite interactions
+- id: doi:10.1101/2020.04.14.040519
+  title: Identifying flow modules in ecological networks using Infomap
+  authors:
+  - Carmel Farage
+  - Daniel Edler
+  - "Anna Ekl\xF6f"
+  - Martin Rosvall
+  - Shai Pilosof
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-14'
+  link: https://doi.org/gk3njw
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/cancers12040825
   title: Pan-Cancer Analysis of Mitochondria Chaperone-Client Co-Expression Reveals
     Chaperone Functional Partitioning
@@ -312,6 +339,24 @@
   tags:
   - disease
   - population genetics
+- id: doi:10.1101/197954
+  title: Networks of genetic similarity reveal non-neutral processes shape strain
+    structure in<i>Plasmodium falciparum</i>
+  authors:
+  - Qixin He
+  - Shai Pilosof
+  - Kathryn E. Tiedje
+  - "Shazia Ruybal-Pes\xE1ntez"
+  - Yael Artzy-Randrup
+  - Edward B. Baskerville
+  - Karen P. Day
+  - Mercedes Pascual
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-03'
+  link: https://doi.org/gkxcg4
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jtbi.2017.07.020
   title: Asymmetric disease dynamics in multihost interconnected networks
   authors:
