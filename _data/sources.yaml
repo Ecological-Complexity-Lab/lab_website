@@ -5,7 +5,15 @@
     - link prediction
     - machine learning
     - ecological networks
-    
+
+- id: doi:10.1038/s41467-024-47272-x
+  type: paper
+  image: images/publications/pic_plasmids_in_the_human_gut.jpeg
+  tags:
+     - plasmid
+     - inflammatory diseases
+     - human gut
+  
 - id: doi:10.1111/2041-210X.14225
   description: EMLN package and guidelines
   image: images/projects/emln_pic.jpg #https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg  
