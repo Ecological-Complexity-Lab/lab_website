@@ -10,9 +10,9 @@
   type: paper
   image: images/publications/pic_plasmids_in_the_human_gut.jpeg
   tags:
-     - plasmid
-     - inflammatory diseases
-     - human gut
+    - plasmid
+    - inflammatory diseases
+    - human gut
   
 - id: doi:10.1111/2041-210X.14225
   description: EMLN package and guidelines
