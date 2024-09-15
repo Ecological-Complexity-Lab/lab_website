@@ -4,7 +4,7 @@ author: shirlyf
 tags: students, collaborations
 ---
 
-Our postdoctoral researche, Ying Jie, is visiting the Centre for Advanced Studies of Blanes (CEAB) in Spain, where she’s working with Dr. David Alonso on improving the stochastic model for microbe-plasmid dynamics. We hope she has a successful and enjoyable time in Spain! 
+Our postdoctoral researcher, Ying Jie, is visiting the Centre for Advanced Studies of Blanes (CEAB) in Spain, where she’s working with Dr. David Alonso on improving the stochastic model for microbe-plasmid dynamics. We hope she has a successful and enjoyable time in Spain! 
 
 {%
   include figure.html
