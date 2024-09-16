@@ -1,3 +1,18 @@
+
+- id: doi:10.1111/1365-2656.14174
+  image: images/publications/pic_local_and_regional_processes.png
+  tags:
+    - mutualistic interactions
+    - multilayer networks
+    - space
+    
+- id: doi:10.1111/ecog.07430
+  image: images/publications/pic_scale_dependent_signatures.png
+  tags:
+    - microbial ecology
+    - multilayer networks
+    - population genetics
+    
 - id: doi:10.32942/X2JS75
   type: preprint
   image: images/publications/pic_inductive_link_prediction_in_ecological_net.png
@@ -24,20 +39,6 @@
     - software
     - multilayer networks
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
-  
-- id: doi:10.32942/X28G7K
-  image: images/publications/pic_local_and_regional_processes.png
-  tags:
-    - mutualistic interactions
-    - multilayer networks
-    - space
-    
-- id: doi:10.32942/X2161C
-  image: images/publications/pic_scale_dependent_signatures.png
-  tags:
-    - microbial ecology
-    - multilayer networks
-    - population genetics
     
 - id: doi:10.1038/s41467-023-41906-2
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
