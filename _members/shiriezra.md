@@ -2,7 +2,7 @@
 name: Shiri Ezra
 image: images/team_ShiriEzra.jpg
 description: BSc student
-role: undergrad
+role: alumni
 links:
   email: shiriezr@post.bgu.ac.il
 ---
