@@ -537,19 +537,19 @@
     
       
         <a
-          href="/team/join/"
-          data-tooltip="Join us!"
+          href="/software/"
+          data-tooltip="Software, datasets, and websites"
         >
-          Join
+          Software
         </a>
       
     
       
         <a
-          href="/software/"
-          data-tooltip="Software, datasets, and websites"
+          href="/team/join/"
+          data-tooltip="Join us!"
         >
-          Software
+          Join
         </a>
       
     
