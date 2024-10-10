@@ -30,7 +30,7 @@ I am a post-doctoral researcher at BGU. I am an ecologist broadly interested in 
 
 
 # PEER-REVIEWED ARTICLES
-
+* Vitali, A., Goldstein, M., Markfeld, M., & Pilosof, S. (2024). Local and regional processes drive distance decay in structure in a spatial multilayer plant‐pollinator network. Journal of Animal Ecology. DOI: 10.1111/1365-2656.14174
 * Vitali A., Ruiz-Suarez S., Vázquez D., Schleuning M., Rodríguez-Cabal M., Sasal Y., & Pilosof S. (2023). Invasive species modulate the structure and stability of a multilayer mutualistic network. Proceedings of the Royal Society B: Biological Sciences. DOI: 10.1098/rspb.2023.0132  
 * Chiuffo M., Moyano J., Policelli N., Torres A., Vitali A., Nunez M., & Rodriguez-Cabal M. (2022). Importance of invasion mechanisms varies with abiotic context and plant invader growth form. Journal of Ecology. DOI: 10.1111/1365-2745.13929  
 * Morán-López T., Benadi G., Lara-Romero C., Chacoff N., Vitali A., Pescador D., Lomascolo S.B., Morente-López J., Vázquez D., & Morales J.M. (2022). Flexible diets enable pollinators to cope with changes in plant community composition. Journal of Ecology. DOI:10.1111/1365-2745.13893  
