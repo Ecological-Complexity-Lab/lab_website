@@ -41,6 +41,9 @@
     
 - id: doi:10.1038/s41467-023-41906-2
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
+  buttons:
+    - type: podcast
+      link: publications/mitochap-podcast.wav
   tags:
     - cancer
     - multilayer networks
