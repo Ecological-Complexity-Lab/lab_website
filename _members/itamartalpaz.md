@@ -1,8 +1,8 @@
 ---
 name: Itamar Talpaz
 image: images/team_itamartalpaz.png
-description: BSc student
-role: undergrad
+description: MSc student
+role: msc
 links:
   email: talpazi@post.bgu.ac.il
 ---

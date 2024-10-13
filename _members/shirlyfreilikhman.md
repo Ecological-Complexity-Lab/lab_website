@@ -1,7 +1,7 @@
 ---
 name: Shirly Freilikhman
-image: images/team_shirlyfreilikhman.jpeg
-role: labmanager
+image: images/alumni/team_shirlyfreilikhman.jpeg
+role: alumni
 description: Lab manager
 group: current
 links:
