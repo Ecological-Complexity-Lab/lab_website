@@ -82,6 +82,11 @@ search:
   text: Search
   tooltip: Search
 
+podcast:
+  icon: fa-solid fa-podcast
+  text: Podcast
+  tooltip: Podcast
+
 # social media
 
 orcid:
