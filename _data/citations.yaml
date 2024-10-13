@@ -148,6 +148,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png
+  buttons:
+  - type: podcast
+    link: publications/mitochap-podcast.wav
   tags:
   - cancer
   - multilayer networks
