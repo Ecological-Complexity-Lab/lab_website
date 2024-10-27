@@ -11,7 +11,7 @@ We appreciate the continued teamwork and look forward to see the project further
 
 {%
   include figure.html
-  image="images/blog/padova_oct2024_1.jpeg"
+  image="images/blog/padova_oct2024_1.jpg"
   width="100%"
 %}
 
@@ -27,7 +27,7 @@ We appreciate the continued teamwork and look forward to see the project further
         <img src="https://ecomplab.com/images/blog/padova_oct2024_2.jpg" alt="gallery_padova_oct2024" style="width:100%;max-width:150px">
 </a>
 <a href="https://ecomplab.com/images/blog/padova_oct2024_3.jpg" data-lightbox="gallery_padova_oct2024" data-title="HFSP collaboration meeting in Padova, October 2024 - 3">
-        <img src="https://ecomplab.com/images/blog/YingJie_in_Spain_1.jpg" alt="gallery_padova_oct2024" style="width:100%;max-width:150px">
+        <img src="https://ecomplab.com/images/blog/padova_oct2024_3.jpg" alt="gallery_padova_oct2024" style="width:100%;max-width:150px">
 </a>
     </div>
 </div>
