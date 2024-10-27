@@ -34,19 +34,6 @@
   - mutualistic interactions
   - multilayer networks
   - space
-- id: doi:10.21203/rs.3.rs-4748885/v1
-  title: Inductive link prediction boosts data availability and enables cross-community
-    link prediction in ecological networks
-  authors:
-  - Shai Pilosof
-  - Rami Puzis
-  - Barry Biton
-  publisher: Springer Science and Business Media LLC
-  date: '2024-09-30'
-  link: https://doi.org/g7bpmr
-  orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/ecog.07430
   title: "Regional processes shape the structure of rumen microbial co\u2010occurrence\
     \ networks"
