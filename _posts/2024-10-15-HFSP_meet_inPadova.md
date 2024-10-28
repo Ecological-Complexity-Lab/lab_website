@@ -4,7 +4,7 @@ author: geutg
 tags: collaborations, students
 ---
 
-In early October Shai and Ying-Jie traveled to Padova, Italy, to meet with our HFSP collaborators [Jammy](https://ecomplab.com/members/james_hall.html) and [Manlio](https://ecomplab.com/members/manlio_de_domenico.html). 
+In early October Shai and Ying-Jie traveled to Padova, Italy, to meet with our HFSP collaborators [Dr. James Hall](https://ecomplab.com/members/james_hall.html) and [Dr. Manlio De Domenico](https://ecomplab.com/members/manlio_de_domenico.html). 
 In the meeting each party shared their progress so far, as well as having meaningful discussions for advancing the project, all while making sure to enjoy a good drink and meal togather!
 We appreciate the continued teamwork and look forward to see the project further develop.
 
