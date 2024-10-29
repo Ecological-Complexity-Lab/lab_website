@@ -1,3 +1,9 @@
+- id: doi:10.32942/X2HC9G
+  image: images/publications/pic_amazonian_lake_meta_population.jpg
+  tags:
+    - metapopulation network
+    - food security
+
 - id: doi:10.1111/1365-2656.14174
   image: images/publications/pic_local_and_regional_processes.png
   tags:
