@@ -16,7 +16,7 @@ phd:
 
 msc:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: MSc Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
