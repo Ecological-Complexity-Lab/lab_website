@@ -14,6 +14,8 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" data-lightbox="gallery_LabLife" data-title="Complete team. December 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" alt="LabLife" style="width:100%;max-width:150px">
 <a href="https://ecomplab.com/images/gallery/LabLife/Noa_Workshop_28072024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Noa at the Ecology Workshop, July 2024">
         <img src="https://ecomplab.com/images/gallery/LabLife/Noa_Workshop_28072024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
@@ -256,6 +258,34 @@ Dafna successfully finished her master’s degree! Dec 2022">
 {% include section.html %}
 
 
+## <center><span style="font-size:larger;"> Our NetSci 2023 experience. (Jul 10-14, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" class="large-thumb" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 Gallery">
+            <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="NetSci2023" >
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_2.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 1"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_3.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 2"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_4.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 3"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_5.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 4"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_6.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 5"></a>
+        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_7.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 6"></a>
+    
+        <!-- End of gallery images -->
+    </div>
+</div>
+
+{% include section.html %}
+
+
 ## <center><span style="font-size:larger;">Lab retreat over the weekend! (Mar 30-31, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
 
 <div class="scrollable-gallery">
@@ -286,34 +316,6 @@ Dafna successfully finished her master’s degree! Dec 2022">
         <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_15.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 14"></a>
         <a href="https://ecomplab.com/images/gallery/retreat2023/retreat2023_16.jpeg" data-lightbox="gallery_retreat2023" data-title="retreat2023 - 15"></a>
 
-        <!-- End of gallery images -->
-    </div>
-</div>
-
-{% include section.html %}
-
-
-## <center><span style="font-size:larger;"> Our NetSci 2023 experience. (Jul 10-14, 2023) {% include icon.html icon="fa-solid fa-camera" %}</span></center>
-
-<div class="scrollable-gallery">
-    <div class="thumbnails">
-        <!-- Single thumbnail representing the gallery -->
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" class="large-thumb" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 Gallery">
-            <img src="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_1.jpeg" alt="NetSci2023" >
-        </a>
-        <!-- End of single thumbnail -->
-    </div>
-    
-    <!-- Gallery content hidden initially -->
-    <div style="display: none;">
-        <!-- Gallery images -->
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_2.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 1"></a>
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_3.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 2"></a>
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_4.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 3"></a>
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_5.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 4"></a>
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_6.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 5"></a>
-        <a href="https://ecomplab.com/images/gallery/NetSci2023/NetSci2023_7.jpeg" data-lightbox="gallery_NetSci2023" data-title="NetSci2023 - 6"></a>
-    
         <!-- End of gallery images -->
     </div>
 </div>
