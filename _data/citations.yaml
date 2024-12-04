@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/ecog.07430
+  title: "Regional processes shape the structure of rumen microbial co\u2010occurrence\
+    \ networks"
+  authors:
+  - Geut Galai
+  - Dafna Arbel
+  - Keren Klass
+  - Ido Grinshpan
+  - Itzhak Mizrahi
+  - Shai Pilosof
+  publisher: Ecography
+  date: '2024-09-05'
+  link: https://doi.org/gvdmwj
+  orcid: 0000-0003-0430-5568
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/pic_scale_dependent_signatures.png
+  tags:
+  - microbial ecology
+  - multilayer networks
+  - population genetics
 - id: doi:10.32942/X2HC9G
   title: Demography-based management of a lake meta-population network boosts food
     security in Amazonian fisheries
@@ -38,27 +59,6 @@
   - mutualistic interactions
   - multilayer networks
   - space
-- id: doi:10.1111/ecog.07430
-  title: "Regional processes shape the structure of rumen microbial co\u2010occurrence\
-    \ networks"
-  authors:
-  - Geut Galai
-  - Dafna Arbel
-  - Keren Klass
-  - Ido Grinshpan
-  - Itzhak Mizrahi
-  - Shai Pilosof
-  publisher: Ecography
-  date: '2024-09-05'
-  link: https://doi.org/gvdmwj
-  orcid: 0000-0003-0430-5568
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/pic_scale_dependent_signatures.png
-  tags:
-  - microbial ecology
-  - multilayer networks
-  - population genetics
 - id: doi:10.32942/X2JS75
   title: Inductive link prediction boosts data availability and enables cross-community
     link prediction in ecological networks
