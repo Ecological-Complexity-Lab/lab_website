@@ -14,8 +14,6 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
-<a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" data-lightbox="gallery_LabLife" data-title="Complete team. December 2024">
-        <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" alt="LabLife" style="width:100%;max-width:150px">
 <a href="https://ecomplab.com/images/gallery/LabLife/Noa_Workshop_28072024_2.jpeg" data-lightbox="gallery_LabLife" data-title="Noa at the Ecology Workshop, July 2024">
         <img src="https://ecomplab.com/images/gallery/LabLife/Noa_Workshop_28072024_2.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
