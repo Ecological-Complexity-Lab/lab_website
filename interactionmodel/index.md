@@ -6,6 +6,6 @@ nav_exclude: true
 <iframe
 	src="https://barrybit-eco-ilp.hf.space"
 	frameborder="0"
-	width="850"
-	height="450"
+	width="2200"
+	height="1000"
 ></iframe
