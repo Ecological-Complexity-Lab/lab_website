@@ -50,10 +50,11 @@
 
 - title: Species interaction model
   group: featured
-  image: images/projects/stabilitygame3.png
+  image: images/projects/LIME.png
   link: https://ecomplab.com/interactionmodel/
   description: A pre-trained model to predict links in ecological networks.
   tags:
-    - networks
+    - network structure
     - machine_learning
+    
 
