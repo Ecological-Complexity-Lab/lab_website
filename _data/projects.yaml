@@ -48,3 +48,12 @@
   tags:
     - teaching
 
+- title: Species interaction model
+  group: featured
+  image: images/projects/stabilitygame3.png
+  link: https://ecomplab.com/interactionmodel/
+  description: A pre-trained model to predict links in ecological networks.
+  tags:
+    - networks
+    - machine_learning
+
