@@ -6,7 +6,7 @@
   repo: https://github.com/Ecological-Complexity-Lab/emln
   tags:
     - multilayer
-    - R
+    - R package
     - software
 
 
@@ -18,7 +18,7 @@
   repo: https://github.com/Ecological-Complexity-Lab/emln
   tags:
     - multilayer
-    - R
+    - R package
     - software
 
 
@@ -51,10 +51,11 @@
 - title: Species interaction model
   group: featured
   image: images/projects/LIME.png
-  link: https://ecomplab.com/interactionmodel/
+  link: https://ecomplab.com/lime/
   description: A pre-trained model to predict links in ecological networks.
   tags:
     - network structure
-    - machine_learning
+    - machine learning
+    - software
     
 
