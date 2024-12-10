@@ -46,9 +46,10 @@
   link: https://ecomplab.com/stabilitygame/
   description: Distribute 30 interactions as you like to find a robustness score as high as possible.
   tags:
+    - network structure
     - teaching
 
-- title: Species interaction model
+- title: Lare Interaction Model in Ecology (LIME) v0.1
   group: featured
   image: images/projects/LIME.png
   link: https://ecomplab.com/lime/
