@@ -1,0 +1,116 @@
+/* General layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #app-container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+  }
+  
+  /* Left sidebar (sliders) */
+  #controls {
+    width: 20%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
+  }
+  
+  #sliders {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  #controls button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Right side (plots) */
+  #plots {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #top-plots {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+  }
+  
+  #timePlot, #phasePlot {
+    width: 45%;
+    height: 400px;
+  }
+  
+  #isoclinePlot {
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Slider and scale */
+  .slider-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .slider-container input[type="range"] {
+    width: 100%;
+  }
+  
+  .slider-scale {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: black; /* Ensure contrast */
+    margin-top: 5px;
+  }
+  
+  /* Species-specific styling */
+.species1 {
+    color: red;
+  }
+  
+  .species2 {
+    color: blue;
+  }
+  
+  .neutral {
+    color: black;
+  }
+  
+  /* Slider ticks */
+  .slider-scale.species1 span {
+    color: red;
+  }
+  
+  .slider-scale.species2 span {
+    color: blue;
+  }
+  
+  .slider-scale.neutral span {
+    color: black;
+  }
+  
+  /* Slider tracks */
+  input[type="range"].species1 {
+    accent-color: red; /* For browsers that support it */
+  }
+  
+  input[type="range"].species2 {
+    accent-color: blue; /* For browsers that support it */
+  }
+  
+  input[type="range"].neutral {
+    accent-color: black;
+  }
