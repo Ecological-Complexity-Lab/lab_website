@@ -14,6 +14,9 @@ nav:
     <div class="thumbnails">
         
 <!-- Repeat this block for each image in the set -->
+<a href="https://ecomplab.com/images/gallery/LabLife/lab_tzrif_dec24.jpeg" data-lightbox="gallery_LabLife" data-title="Lab meeting in the Tsrif, December 2024">
+        <img src="https://ecomplab.com/images/gallery/LabLife/lab_tzrif_dec24.jpeg" alt="LabLife" style="width:100%;max-width:150px">
+</a>
 <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" data-lightbox="gallery_LabLife" data-title="Complete team. December 2024">
         <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" alt="LabLife" style="width:100%;max-width:150px">
 </a>
@@ -207,6 +210,42 @@ Dafna successfully finished her master’s degree! Dec 2022">
 <a href="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" data-lightbox="gallery_LabLife" data-title="Lunch in world cup times. Nov 2022">
         <img src="https://ecomplab.com/images/gallery/LabLife/lunch_world_cup_Nov2022.jpeg" alt="LabLife" style="width:100%;max-width:150px">
 </a>
+    </div>
+</div>
+
+{% include section.html %}
+
+## <center><span style="font-size:larger;">Our BES 2024 experience and visiting Jamie Hall. Liverpool, UK (DEC 9-14, 2024){% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_15.jpeg" class="large-thumb" data-lightbox="gallery_BES2024" data-title="BES2024 Gallery">
+            <img src="https://ecomplab.com/images/gallery/BES24/BES24_15.jpeg" alt="BES2024" >
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_1.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 1"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_2.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 2"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_3.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 3"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_4.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 4"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_5.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 5"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_6.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 6"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_7.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 7"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_8.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 8"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_9.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 9"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_10.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 10"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_11.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 11"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_12.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 12"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_13.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 13"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_14.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 14"></a>
+        <a href="https://ecomplab.com/images/gallery/BES24/BES24_15.jpeg" data-lightbox="gallery_BES2024" data-title="BES2024 - 15"></a>
+        <!-- End of gallery images -->
     </div>
 </div>
 
