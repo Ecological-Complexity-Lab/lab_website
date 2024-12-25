@@ -17,7 +17,8 @@ I am an Assistant Professor at Ben-Gurion University, in Israel. I am interested
 **A few CV elements:**
 
 # Positions
-- 2019 — present, Senior Lecturer (assistant professor), Ben-Gurion University, Israel
+- 2024 — present, Associate professor, Ben-Gurion University, Israel
+- 2019 — 2024, Assistant professor, Ben-Gurion University, Israel
 - 2015 — 2019, James S. McDonnell Foundation & Fulbright postdoctoral scholar, University of Chicago.
 
 # Education
