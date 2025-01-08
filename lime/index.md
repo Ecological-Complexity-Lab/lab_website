@@ -18,6 +18,6 @@ The LIME (Large Interaction Model in Ecology) model leverages inductive learning
   }
 </style>
 <iframe
-    src="https://barrybit-eco-ilp.hf.space"
+    src="https://ecomplab-eco-ilp.hf.space"
     frameborder="0"
 ></iframe>
