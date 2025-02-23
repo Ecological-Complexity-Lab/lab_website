@@ -12,6 +12,10 @@ links:
 
 I am a post-doctoral researcher at BGU. My primary research interest resides in community ecology and global change ecology. How interacting species respond to a key global change factor or co-occurring global change factors via different tactics (e.g. plasticity, evolution, and evolution of plasticity), and how this affects ecosystem dynamics and functioning, are the key questions that drive most of my research activities. I have worked on both terrestrial and aquatic ecosystems, applying long-term common garden experiments, field observations, statistical analyses, and modeling in my research.
 
+## A little about my research:
+The interplay between multilayer ecological interactions can shape community dynamics in complex ecosystems, yet its role remains poorly understood. Focusing on microbe-plasmid communities, I investigate how multilayer network structures influence eco-evolutionary feedback, host coexistence, and plasmid persistence under varying perturbations. By identifying key mechanisms and developing predictive theories, my work sheds light on the causes and consequences of multilayer network structures, particularly their impact on community dynamics and evolutionary potential.
+
+
 # Professional Experiences
 
 2023/03 - current	Post-doctoral fellow: Department of Life Sciences, Ben-Gurion University of the Negev 
