@@ -2,7 +2,7 @@
 title: PhD Open Position
 ---
 
-# {% include icon.html icon="fa-regular fa-handshake" %} PhD Position in Urban Ecological Data Analysis and Predictive Modelling
+# PhD Position in Urban Ecological Data Analysis and Predictive Modelling
 
 {% include section.html %}
 
