@@ -9,7 +9,10 @@ nav:
 
 {% include section.html %}
 
-{% include button.html link="PhD_position_1" text="PhD position" icon="fa-solid fa-envelope" flip=true%}
+# Open positions
+
+ - PhD position: [Urban Ecological Data Analysis and Modeling](https://ecomplab.com/team/join/positions/phd.html)
+ - Undergrad position: [Prediction of bacterial antibiotic resistance](https://ecomplab.com/team/join/)
 
 ### We are looking for bright, quantitatively-oriented students and postdocs, who wish to take part in exciting research!
 
