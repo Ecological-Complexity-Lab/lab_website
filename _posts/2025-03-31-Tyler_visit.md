@@ -6,7 +6,7 @@ tags:
   - students
 ---
 
-[Tyler Barrett](https://www.tyler-barrett.com/) (Ph.D. Candidate, Dept. of Evolutionary Anthropology, Duke University, NC USA), came to our lab in israel for a month long visit over March, as part of our NSF-BSF-funded collaboration project. 
+[Tyler Barrett](https://www.tyler-barrett.com/) (Ph.D. Candidate, Dept. of Evolutionary Anthropology, Duke University, NC USA), came to our lab in Israel for a month long visit over March, as part of our NSF-BSF-funded collaboration project. 
 Barry and Tyler led intense discussions and worked hard to expand on Tyler's model for link predictions in networks of human movement for understanding their effect on disease spreading. It was a productive month and we are looking forward to the results.
 
 {%
