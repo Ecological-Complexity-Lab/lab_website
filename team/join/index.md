@@ -9,6 +9,11 @@ nav:
 
 {% include section.html %}
 
+# Open positions
+
+ - PhD position: [Urban Ecological Data Analysis and Modeling](https://ecomplab.com/team/join/positions/phd_mar25.html)
+ - Undergrad position: [Prediction of bacterial antibiotic resistance](https://ecomplab.com/team/join/positions/undergrad_mar25.html)
+
 ### We are looking for bright, quantitatively-oriented students and postdocs, who wish to take part in exciting research!
 
 Students and postdocs with background in quantitative ecology/biology, physics, math, computer science, neuroscience, etc., who are interested in our research directions are welcome to apply. Research in the lab is computational and does not involve field or lab work. But we like working with empiricists! We have several ongoing collaborations. We can collaborate or co-mentor with a PI who has a wet lab or does field work.
