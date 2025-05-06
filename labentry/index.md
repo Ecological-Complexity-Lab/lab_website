@@ -10,13 +10,13 @@ nav_exclude: true
 
 We’re happy to have you here! In the lab we use a set of tools to streamline our work and collaborate. In order to help you get started, here are the main programs.
 
-- We communicate using **Keybase**. We have a lab calendar on google calendar.
-- Programming:
- - We usually program in **R**, using RStudio. We also use **Python** and **Julia**.
- - We use **GitHub** for version control and collaborating on code.
- - We use Markdown, specifically **R notebooks** to document our code, analysis, and results, all in one file.
-- We read papers and manage our references using **Paperpile**.
-- We write papers in **Latex**.
+* We communicate using **Keybase**. We have a lab calendar on google calendar.
+* Programming:
+  - We usually program in **R**, using RStudio. We also use **Python** and **Julia**.
+  - We use **GitHub** for version control and collaborating on code.
+  - We use Markdown, specifically **R notebooks** to document our code, analysis, and results, all in one file.
+* We read papers and manage our references using **Paperpile**.
+* We write papers in **Latex**.
 
 ## Lab toolbox
 
@@ -32,7 +32,7 @@ Keybase, GitHub, Paperpile, and Google docs and Calendar all require accounts, a
 [Keybase](https://keybase.io/) has direct messages and channels for different topics. Use it to chat with lab members or to post questions, files, code or whatever you need in the relevant channels. You need an invitation to join our team.
 
 ### GitHub:
-[GitHub](https://github.com/) is a platform for code version control and collaboration, it stores the code in a shared place, and provides version control. See [here](https://guides.github.com/) for a tutorial. Also there is a short exercise to get you started [here](https://github.com/Ecological-Complexity-Lab/data_science_tutorials).  To use GitHub open a student account, which should be a PRO account and ask Geut/Shirly to add you to our [lab’s GitHub organization](https://github.com/Ecological-Complexity-Lab).
+[GitHub](https://github.com/) is a platform for code version control and collaboration, it stores the code in a shared place, and provides version control. See [here](https://guides.github.com/) for a tutorial. Also there is a short exercise to get you started [here](https://github.com/Ecological-Complexity-Lab/data_science_tutorials).  To use GitHub open a student account, which should be a PRO account and ask Geut to add you to our [lab’s GitHub organization](https://github.com/Ecological-Complexity-Lab).
 
 ### R:
 Our lab’s primary programming language! [Here](https://datacarpentry.org/R-ecology-lesson//00-before-we-start.html) is a great place to get started with both R and RStudio. Here is another useful tutorial, and there are plenty of others online. We mainly use R because this is the common language among ecologists. You are welcome to use other languages if you need.
