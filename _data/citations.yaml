@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.32942/X2PP94
+  title: Differential assembly of core and non-core host-microbe network structures
+    along a land-use change gradient
+  authors:
+  - Matan Markfeld
+  - Georgia Titcomb
+  - Toky Maheriniaina Randriamoria
+  - Garima Sehgal
+  - Nuzha Baksh
+  - Ashley Kerrigan
+  - Voahangy Soarimalala
+  - Charles L. Nunn
+  - Shai Pilosof
+  publisher: ''
+  date: '2025-05-12'
+  link: https://doi.org/g9h63f
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.32942/X2F33T
   title: Indirect effects dominate ecosystem service losses in response to agricultural
     intensification
