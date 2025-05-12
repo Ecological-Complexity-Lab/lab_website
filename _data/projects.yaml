@@ -1,3 +1,14 @@
+- title: Lare Interaction Model in Ecology (LIME) v0.1
+  group: featured
+  image: images/projects/LIME.png
+  link: https://ecomplab.com/lime/
+  description: A pre-trained model to predict links in ecological networks.
+  tags:
+    - network structure
+    - machine learning
+    - software
+
+    
 - title: EMLN website
   group: featured
   image: images/projects/emln_software_2.jpg
@@ -49,14 +60,6 @@
     - network structure
     - teaching
 
-- title: Lare Interaction Model in Ecology (LIME) v0.1
-  group: featured
-  image: images/projects/LIME.png
-  link: https://ecomplab.com/lime/
-  description: A pre-trained model to predict links in ecological networks.
-  tags:
-    - network structure
-    - machine learning
-    - software
+
     
 
