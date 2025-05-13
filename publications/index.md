@@ -18,9 +18,9 @@ nav:
 
 ## Highlighted
 
+{% include citation.html lookup="Inductive link prediction boosts data availability" style="rich" %}
 {% include citation.html lookup="EMLN" style="rich" %}
 {% include citation.html lookup="Conceptualizing" style="rich" %}
-{% include citation.html lookup="CRISPR" style="rich" %}
 {% include citation.html lookup="The multilayer nature of ecological networks" style="rich" %}
 
 {% include section.html %}

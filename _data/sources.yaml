@@ -1,4 +1,18 @@
 
+- id: doi:10.32942/X2PP94
+  type: preprint
+  image: images/publications/pic_madagascar_rats_microbiome.png
+  tags:
+    - microbial ecology
+    - land-use change
+
+- id: doi:10.32942/X2F33T
+  type: preprint
+  image: images/publications/pic_indirect_effects_on_es.png
+  tags:
+    - ecosystem services
+    - food security
+
 - id: doi:10.32942/X2HC9G
   image: images/publications/pic_amazonian_lake_meta_population.jpg
   tags:
