@@ -21,8 +21,12 @@
     
 - id: doi:10.32942/X2JS75
   type: preprint
-  image: images/publications/pic_inductive_link_prediction_in_ecological_net.png
+  image: images/projects/LIME.png
+  buttons:
+    - type: website
+      link: https://huggingface.co/spaces/ecomplab/eco_ILP
   tags:
+    - software
     - link prediction
     - machine learning
     - ecological networks
