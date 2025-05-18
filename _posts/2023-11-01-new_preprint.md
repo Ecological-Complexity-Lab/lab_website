@@ -1,5 +1,5 @@
 ---
-title: Our new research, “Scale-dependent signatures of microbial co-occurrence revealed via multilayer network analysis,” is now available on EcoEvoRxiv!
+title: Our new research, “Scale-dependent signatures of microbial co-occurrence revealed via multilayer network analysis”, is now available on EcoEvoRxiv!
 author: shirlyf
 tags: paper/preprint
   
