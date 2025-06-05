@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41559-025-02715-6
+  title: Inductive link prediction facilitates the discovery of missing links and
+    enables cross-community inference in ecological networks
+  authors:
+  - Barry Biton
+  - Rami Puzis
+  - Shai Pilosof
+  publisher: Nature Ecology &amp; Evolution
+  date: '2025-06-04'
+  link: https://doi.org/g9nbqp
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.05.31.657151
+  title: Species interactions determine plasmid persistence in a 3-member bacterial
+    community
+  authors:
+  - Kaitlin A Schaal
+  - Ying-Jie Wang
+  - Johannes Nauta
+  - Shai A Pilosof
+  - Manlio De Domenico
+  - James PJ Hall
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-03'
+  link: https://doi.org/g9nbqq
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.32942/X2PP94
   title: Differential assembly of core and non-core host-microbe network structures
     along a land-use change gradient
@@ -105,6 +134,19 @@
   - mutualistic interactions
   - multilayer networks
   - space
+- id: doi:10.21203/rs.3.rs-4748885/v1
+  title: Inductive link prediction boosts data availability and enables cross-community
+    link prediction in ecological networks
+  authors:
+  - Shai Pilosof
+  - Rami Puzis
+  - Barry Biton
+  publisher: Springer Science and Business Media LLC
+  date: '2024-09-30'
+  link: https://doi.org/g7bpmr
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.32942/X2JS75
   title: Inductive link prediction boosts data availability and enables cross-community
     link prediction in ecological networks
