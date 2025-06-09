@@ -14,10 +14,14 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/pic_ILP.jpeg
+  image: images/projects/LIME.png
+  buttons:
+  - type: website
+    link: https://huggingface.co/spaces/ecomplab/eco_ILP
   tags:
-  - machine learning
+  - software
   - link prediction
+  - machine learning
   - ecological networks
 - id: doi:10.1101/2025.05.31.657151
   title: Species interactions determine plasmid persistence in a 3-member bacterial
@@ -663,28 +667,6 @@
   image: images/publications/pic_variability_in_urine_concentration.jpg
   tags:
   - bats
-- id: doi:10.32942/X2JS75
-  title: Inductive link prediction boosts data availability and enables cross-community
-    link prediction in ecological networks
-  authors:
-  - Barry Biton
-  - Rami Puzis
-  - Shai Pilosof
-  publisher: California Digital Library (CDL)
-  date: '2024-08-02'
-  link: https://doi.org/gt5zq8
-  type: preprint
-  image: images/projects/LIME.png
-  buttons:
-  - type: website
-    link: https://huggingface.co/spaces/ecomplab/eco_ILP
-  tags:
-  - software
-  - link prediction
-  - machine learning
-  - ecological networks
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/1365-2656.12090
   title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
     parasite network"
