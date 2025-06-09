@@ -1,5 +1,5 @@
 ---
-title: Shiri and Itamar  on Life Science Department Day
+title: Shiri and Itamar on Life Science Department Day
 author: shirlyf
 tags: students, social
 ---
