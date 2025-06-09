@@ -1,9 +1,14 @@
+
 - id: doi:10.1038/s41559-025-02715-6
   type: paper
-  image: images/publications/pic_ILP.jpeg
+  image: images/projects/LIME.png
+  buttons:
+    - type: website
+      link: https://huggingface.co/spaces/ecomplab/eco_ILP
   tags:
-    - machine learning
+    - software
     - link prediction
+    - machine learning
     - ecological networks
 
 - id: doi:10.1101/2025.05.31.657151
@@ -46,18 +51,6 @@
     - microbial ecology
     - multilayer networks
     - population genetics
-    
-- id: doi:10.32942/X2JS75
-  type: preprint
-  image: images/projects/LIME.png
-  buttons:
-    - type: website
-      link: https://huggingface.co/spaces/ecomplab/eco_ILP
-  tags:
-    - software
-    - link prediction
-    - machine learning
-    - ecological networks
 
 - id: doi:10.1038/s41467-024-47272-x
   type: paper
