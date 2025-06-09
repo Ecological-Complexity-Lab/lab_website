@@ -11,8 +11,14 @@
   date: '2025-06-04'
   link: https://doi.org/g9nbqp
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_ILP.jpeg
+  tags:
+  - machine learning
+  - link prediction
+  - ecological networks
 - id: doi:10.1101/2025.05.31.657151
   title: Species interactions determine plasmid persistence in a 3-member bacterial
     community
@@ -27,8 +33,13 @@
   date: '2025-06-03'
   link: https://doi.org/g9nbqq
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: images/publications/pic_plasmid_persistence.png
+  tags:
+  - microbial ecology
+  - plasmid
 - id: doi:10.32942/X2PP94
   title: Differential assembly of core and non-core host-microbe network structures
     along a land-use change gradient
