@@ -5,7 +5,7 @@ tags: students, conference
 ---
 
 Today, the Goldman Sonnenfeldt School of Sustainability and Climate Change hosted a conference in BGU. This was a multi-disciplinary conference allowing research students in the field to share their work.
-Kesem and Itamar, two of our Phd students, presented their research. Kesem presented a poster, while Itamar gave a talk. Their engagment reflecting their hard work and sharing their findings with colleagues. 
+Kesem and Itamar, two of our Phd students, presented their research. Kesem presented a [poster](https://ecomplab.com/images/blog/pdfs/Kesem_Canary_poster.pdf), while Itamar gave a talk. Their engagment reflecting their hard work and sharing their findings with colleagues. 
 
 {%
   include figure.html
