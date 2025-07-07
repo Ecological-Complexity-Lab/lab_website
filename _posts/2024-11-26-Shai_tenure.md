@@ -5,7 +5,7 @@ tags: social
 ---
 
 Congratulations to Shai! 
-After years of hard work, this week Shai got his rank of Associate Professo, as well as a tenure.
+After years of hard work, this week Shai got his rank of Associate Professor, as well as a tenure.
 Here's to many more years of productive research and learning! 
 
 {%
