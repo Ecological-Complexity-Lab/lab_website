@@ -448,6 +448,31 @@ Dafna successfully finished her master’s degree! Dec 2022">
 </div>
 
 
+{% include section.html %}
+
+
+## <center><span style="font-size:larger;"> Lab members, through the ages. {% include icon.html icon="fa-solid fa-camera" %}</span></center>
+
+<div class="scrollable-gallery">
+    <div class="thumbnails">
+        <!-- Single thumbnail representing the gallery -->
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" class="large-thumb" data-lightbox="gallery_lab_photos" data-title="December 2024">
+            <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" alt="lab_team" >
+        </a>
+        <!-- End of single thumbnail -->
+    </div>
+    
+    <!-- Gallery content hidden initially -->
+    <div style="display: none;">
+        <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_3062024.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2024"></a>
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_june23.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2023"></a>
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_june22.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2022"></a>
+
+        <!-- End of gallery images -->
+    </div>
+</div>
+
 
 <!-- Lightbox2 JS and CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
