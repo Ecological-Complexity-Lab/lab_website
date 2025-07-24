@@ -5,10 +5,20 @@ description: MSc student
 role: msc
 links:
   email: yuval.bloch2@gmail.com
+  website: https://yuvalbloch.com/  
 ---
 
-I am a master’s student in biology at BGU; I did my bachelor’s degree in computer science. My research interests are complex system modeling But, as I am new to biology and ecology, I am thrilled about the opportunity to explore new areas. I like to travel in my free time, and I am Engaged in many different types of art, from sawing to dancing.
+After earning my B.Sc. in Computer Science from the Open University, I became captivated by the elegance of complex systems theory and the non-linear modeling of life. This fascination inspired me to pursue an M.Sc. in the Department of Life Sciences, where I joined the EcoComplexity Lab. The search for harmony between order and chaos—a theme central to these theories—has since shaped not only my academic and professional path but also my artistic interest in my free time.
 
-### A little about my research:
-Land use changes are major drivers of the global spread of tick-borne diseases, yet their underlying mechanisms remain poorly understood and are studied mainly in developed countries. My research examines how agricultural practices and land management strategies influence human exposure to disease-carrying ticks in remote northern Madagascar. By integrating ecological data with advanced computational simulations, I aim to identify key factors shaping tick exposure and, consequently, the risk of tick-borne disease outbreaks. These insights can guide sustainable land management strategies to reduce disease risk and improve public health in resource-limited tropical regions.
+## Research
 
+Rapid land-use change presents a growing set of risks, particularly as it expands the interface between human and natural environments. One critical consequence is the rising incidence of vector-borne zoonotic diseases. Yet, much of the existing research on these dynamics centers on developed regions, leaving the complex and distinct land-use patterns of underdeveloped areas largely unexplored.
+
+In many such regions, land use is shaped by highly dynamic practices, such as shifting cultivation and agroforestry. My research addresses this gap by focusing on tick-borne diseases in Madagascar’s Sava region. Drawing on empirical data, I develop models that simulate both tick population dynamics and their interactions with evolving land-use configurations. Additionally, I project future land-use scenarios under different economic trajectories, allowing for a deeper understanding of how global forces—such as fluctuations in vanilla prices—can influence local disease dynamics.
+
+## Experience
+
+- **2020–2023** – B.Sc. in Computer Science, Open University
+- **2021–2022** – Teaching Assistant in Physics, Virtual High School
+- **2023–Present** – M.Sc. student, Ben-Gurion University of the Negev
+- **2023–2025** – Teaching Assistant in Statistics and Python
