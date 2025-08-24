@@ -27,7 +27,7 @@ nav:
  
 **Course Structure:** Lecture: 2 hours   Exercise:  2 hours  Total # of Points: 3
 
-**Course schedule:** Sunday to Thursday 23-27/2/2025, 8:00-17:00, and 12/3/2025 8:00-16:00 **Sde Boker campus**.
+**Course schedule:** Sunday to Thursday 23-27/2/2026, 8:00-17:00, and 12/3/2026 8:00-16:00 **Sde Boker campus**.
 
 **Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes). Students will be actively engaged through paper discussions, and because of the interactive format, enrollment is limited to 10 students. All classes, discussions, and presentations will be conducted in English, and students are encouraged to use their own research data for the final project.
 
@@ -87,7 +87,7 @@ The goal of a project is to provide you with real-life experience on how to use 
 - Literature review of a thematic subject. 
 
 **Final report:**
-The goal of the final report is for you to practice and improive scientific writing. The final report will be 1500-2000 words with up to 3 figures. Reviews will be max 2500 words and 3 figures. Submit the final report by email to me. The final report is due on 21/3/2025.
+The goal of the final report is for you to practice and improive scientific writing. The final report will be 1500-2000 words with up to 3 figures. Reviews will be max 2500 words and 3 figures. Submit the final report by email to me. The final report is due on 21/3/2026.
 
 ### Presentations 
 Presentations are on 12/3/205. Project presentations are in a conference style:
