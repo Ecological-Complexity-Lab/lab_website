@@ -27,7 +27,10 @@ nav:
  
 **Course Structure:** Lecture: 2 hours   Exercise:  2 hours  Total # of Points: 3
 
+**Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes).
+
 **Course schedule:** Sunday to Thursday 23-27/2/2025, 8:00-17:00, and 12/3/2025 8:00-16:00 **Sde Boker campus**.
+
 
 <!-- {%
   include figure.html
@@ -41,10 +44,13 @@ Biological systems, and specifically ecological systems, contain multiple entiti
 
 **The course is dynamic and adapted to students' needs as much as possible. Course material may vary from what is currently written in the syllabus at the instructor's discretion.**
 
-# Teaching
-The course is given entirely in English, in person (no zoom or hybrid classes).
+# Course goals
+Provide students with:
+1. An understanding of the (ecological) theory underlying the structure and dynamics of complex systems.
+2. Tools to perform network analysis on a variety of network types.
+3. Skills: programming and analysis of network data, advanced paper reading, presenting research, scientific writing.
 
-# Course Topics (may change)
+# Main course Topics
 * Introduction to networks and complex systems
 * Network structure
 * Community detection
@@ -53,12 +59,6 @@ The course is given entirely in English, in person (no zoom or hybrid classes).
 * Multilayer networks
 * Network dynamics
   
-# Course goals
-Provide students with:
-1. An understanding of the (ecological) theory underlying the structure and dynamics of complex systems.
-2. Tools to perform network analysis on a variety of network types.
-3. Skills: programming and analysis of network data, advanced paper reading, presenting research, scientific writing.
-
 # Prerequisits
 The only prerequisite is knowledge in programming (preferably in R, which is the language we will use). The course is general, as is the discipline of network science. Therefore, it is suitable for stuents who are interested in multiple aspects of biology. However, examples and some theory are focused on ecology. An introduction to ecology course is recommended, but not required. Knowledge in linear algebra is recommended, but not required.
 
@@ -67,14 +67,44 @@ The only prerequisite is knowledge in programming (preferably in R, which is the
 * Compulsory attendance to exercises
 * Grade components: Final report (in English) 50%, presentation of project 20%, paper discussion 20%, active participation 10%.
 
+
+## Details on course assignments:
+### Labs
+Labs are not for submission BUT it is difficult to understand the material without hands-on analysis. Recommendation: apply the labs to your own data whenever possible. Lab topics are not completely compatible with class topics.
+
+**To do the labs you must have R + RStudio installed on your laptop. Please come ready, already to the first class.**
+
+### Projects
+The goal of a project is to provide you with real-life experience on how to use network in research. You are encouraged to select a project that will advance your own research.
+
+**Project types:**
+
+- Analysis. The analysis cannot be one that you have already done in your research. It can, however, be a new analysis that will advance your research. **Hence, students are encouraged to use their own research data to advance their research.** Alternatively, the project can be based on data available online.
+- Theoretical development.
+- Literature review of a thematic subject. 
+
+**Final report:**
+The goal of the final report is for you to practice and improive scientific writing. The final report will be 1500-2000 words with up to 3 figures. Reviews will be max 2500 words and 3 figures. Submit the final report by email to me. The final report is due on 21/3/2025.
+
+### Presentations 
+Presentations are on 12/3/205. Project presentations are in a conference style:
+
+- 7 min + 5min questions and suggestions
+- Background + questions
+- Methods
+- Results. It is ok if the results are not completely final. You can improve the project towards your final report, based on comments you will receive on your presentation.
+- Discussion
+
+### Paper discussions
+
+- Paper discussion can be led by 2-3 students.
+- **The student(s) leading** the discussion should present the paper: Background, goal, methods, main results. They should also be able to explain the figures. The student(s) will ask leading questions to initiate discussion among the class about a particular result / method / criticism, etc.
+- **The students who are not leading**: For each paper discussion, students should have had an overview reading of the paper in a way that would allow them to participate in the discussion actively. Each student should come prepared with 2 insightful comments/criticism/questions for the discussion. 
+
+
 # Academic and general requirements
 1. The exercises are computational and students are required to bring a laptop.
 2. Exercises are **not for submission** but are recommended for hands-on experience. Exercises are written in R. Students who would like to program in another language are welcomed to do so **independently**.
 3. Recommended (not necessary) prerequisite courses: Introduction to Ecology, linear algebra.
 4. The course will be given in English and all the assignments will be in English too.
-
-# Example references
-- Shapiro JT, Zorea A, Kav AB, Ontiveros VJ, Mizrahi I, Pilosof S. Multilayer networks of plasmid genetic similarity reveal potential pathways of gene transmission. ISME J. 2023; 1–11. [doi:10.1038/s41396-023-01373-5](https://doi.org/10.1038/s41396-023-01373-5)
-- Galai G, He X, Rotblat B, Pilosof S. Ecological network analysis reveals cancer-dependent chaperone-client interaction structure and robustness. Nat Commun. 2023;14: 1–11. [doi:10.1038/s41467-023-41906-2](https://doi.org/10.1038/s41467-023-41906-2)
-- Complexity explained. Available: [https://complexityexplained.github.io](https://complexityexplained.github.io)
 
