@@ -27,9 +27,9 @@ nav:
  
 **Course Structure:** Lecture: 2 hours   Exercise:  2 hours  Total # of Points: 3
 
-**Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes).
-
 **Course schedule:** Sunday to Thursday 23-27/2/2025, 8:00-17:00, and 12/3/2025 8:00-16:00 **Sde Boker campus**.
+
+**Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes). Students will be actively engaged through paper discussions, and because of the interactive format, enrollment is limited to 10 students. All classes, discussions, and presentations will be conducted in English, and students are encouraged to use their own research data for the final project.
 
 
 <!-- {%
@@ -40,7 +40,7 @@ nav:
 
 # Course description
 
-Biological systems, and specifically ecological systems, contain multiple entities that interconnect to form networks. These include gene interaction networks, food webs, plant-pollinator networks, metapopulations and networks of disease transmission. How these networks are structured is crucial for the dynamics and functioning of biological systems. This course will introduce the theory and methods for working with biological networks. Though primarily motivated by ecology, the theory and methodology we will cover is also relevant for other fields in biology, such as neuroscience, systems biology and epidemiology. Students will be actively involved in classes via paper discussions. Therefore, there is a limit of 12 students. The course, class discussions and presentations will be given in English. For the final project, students are encouraged to use their own research data.
+Biological systems, and specifically ecological systems, consist of multiple interconnected entities that form networks such as gene interaction networks, food webs, plant–pollinator networks, metapopulations, and disease transmission networks. Understanding how these networks are structured is crucial for understanding the dynamics and functioning of biological systems. This course introduces the theory and methods for analyzing biological networks, with a primary emphasis on ecology but with applications extending to neuroscience, systems biology, and epidemiology. While examples and theory are drawn from ecology, the course is general in scope, reflecting the broad relevance of network science across biology.
 
 **The course is dynamic and adapted to students' needs as much as possible. Course material may vary from what is currently written in the syllabus at the instructor's discretion.**
 
@@ -59,8 +59,11 @@ Provide students with:
 * Multilayer networks
 * Network dynamics
   
-# Prerequisits
-The only prerequisite is knowledge in programming (preferably in R, which is the language we will use). The course is general, as is the discipline of network science. Therefore, it is suitable for stuents who are interested in multiple aspects of biology. However, examples and some theory are focused on ecology. An introduction to ecology course is recommended, but not required. Knowledge in linear algebra is recommended, but not required.
+# Academic and general requirements and prerequisits
+1. The only prerequisite is prior knowledge in programming. **LLM-knowledge in programming does not count!** Exercises are written in R. Students who wish to program in another language may do so **independently**.
+2. An introduction to ecology course is recommended, but not required.
+3. Knowledge in linear algebra is recommended, but not required.
+4. The exercises are computational, and students are required to bring a laptop.
 
 # Course requirements and grading
 * Compulsory attendance to lectures
@@ -100,11 +103,3 @@ Presentations are on 12/3/205. Project presentations are in a conference style:
 - Paper discussion can be led by 2-3 students.
 - **The student(s) leading** the discussion should present the paper: Background, goal, methods, main results. They should also be able to explain the figures. The student(s) will ask leading questions to initiate discussion among the class about a particular result / method / criticism, etc.
 - **The students who are not leading**: For each paper discussion, students should have had an overview reading of the paper in a way that would allow them to participate in the discussion actively. Each student should come prepared with 2 insightful comments/criticism/questions for the discussion. 
-
-
-# Academic and general requirements
-1. The exercises are computational and students are required to bring a laptop.
-2. Exercises are **not for submission** but are recommended for hands-on experience. Exercises are written in R. Students who would like to program in another language are welcomed to do so **independently**.
-3. Recommended (not necessary) prerequisite courses: Introduction to Ecology, linear algebra.
-4. The course will be given in English and all the assignments will be in English too.
-
