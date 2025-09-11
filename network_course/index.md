@@ -27,7 +27,7 @@ nav:
  
 **Course Structure:** Lecture: 2 hours   Exercise:  2 hours  Total # of Points: 3
 
-**Course schedule:** Sunday to Thursday 23-27/2/2026, 8:00-17:00, and 12/3/2026 8:00-16:00 **Sde Boker campus**.
+**Course schedule:** Sunday to Thursday 22-26/2/2026, 8:00-17:00, and 12/3/2026 8:00-16:00 **Sde Boker campus**.
 
 **Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes). Students will be actively engaged through paper discussions, and because of the interactive format, enrollment is limited to 10 students. All classes, discussions, and presentations will be conducted in English, and students are encouraged to use their own research data for the final project.
 
@@ -61,9 +61,10 @@ Provide students with:
   
 # Academic and general requirements and prerequisits
 1. The only prerequisite is prior knowledge in programming. **LLM-knowledge in programming does not count!** Exercises are written in R. Students who wish to program in another language may do so **independently**.
-2. An introduction to ecology course is recommended, but not required.
-3. Knowledge in linear algebra is recommended, but not required.
-4. The exercises are computational, and students are required to bring a laptop.
+2. Students are required to arrive at the first class with R + RStudio installed, and knowledge how to use them. see: https://datacarpentry.github.io/R-ecology-lesson-alternative/
+3. An introduction to ecology course is recommended, but not required.
+4. Knowledge in linear algebra is recommended, but not required.
+5. The exercises are computational, and students are required to bring a laptop.
 
 # Course requirements and grading
 * Compulsory attendance to lectures
