@@ -29,6 +29,11 @@ Ecological networks are almost always incomplete: many species interactions rema
 
 **Keywords:** Link prediction; Machine learning; Species interactions; Ecological forecasting; Network inference
 
+Key publications:
+- [Inductive link prediction facilitates the discovery of missing links and enables cross-community inference in ecological networks](https://www.nature.com/articles/s41559-025-02715-6)
+- [Physiological and Environmental Factors Predict Protozoan Infection Profiles in Rats](https://doi.org/10.32942/X2MP9H)
+
+
 ## Structure and dynamics of ecological multilayer networks
 
 {% capture content %}
@@ -49,6 +54,12 @@ The study of networks has been a fundamental component of population and communi
 
 **Keywords**: Multilayer networks; Community ecology; Spatial–temporal dynamics; Social–ecological systems; Network methodology
 ​
+Key publications:
+- [Conceptualizing microbe–plasmid communities as complex adaptive systems](http://www.cell.com/article/S0966842X23000252/fulltext
+)
+- [Multilayer networks of plasmid genetic similarity reveal potential pathways of gene transmission](https://www.nature.com/articles/s41396-023-01373-5	https://www.overleaf.com/project/6356558f59529acc46781011)
+- [Local knowledge enhances the sustainability of interconnected fisheries](https://ecoevorxiv.org/repository/view/7829/)
+  
 {% include section.html %}
 
 ## The complexity of infectious interactions
