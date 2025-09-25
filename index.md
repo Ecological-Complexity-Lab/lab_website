@@ -5,7 +5,12 @@
 
 # Ecology, Network Science & Data science
 
-All ecological systems are complex. How are they structured? How do they evolve? How does complexity affect ecosystem function? Our lab is a hub for studying the complexity underlying ecological systems. Our research combines modeling, simulations, data analysis and ecological theory in a variety of ecosystems. Lying on the interface between biology and network science, our work is by definition multidisciplinary. This provides excellent opportunities for students to work on interesting and challenging topics while gaining a broad set of skills to conduct research both in academia and outside. We believe in making honest, open science in a way that is engaging, collaborative and emphasizes good working-relations.
+All ecological systems are complex. How are they structured? How do they evolve? How does complexity affect ecosystem function? Our lab is a hub for studying the complexity underlying ecological systems. Our research combines modeling, simulations, data analysis and ecological theory in a variety of ecosystems. **Our multidisciplinary work lies on the interface between biology and network science, providing excellent opportunities for students to work on interesting and challenging topics while gaining a broad set of skills to conduct research both in academia and outside.** 
+
+**We believe in making honest, open science in a way that is engaging, collaborative and emphasizes good working-relations.**
+
+
+Check out the new portal we developed for the Network Ecology community: [networkecology.net](https://networkecology.net)! 
 
 {%
   include figure.html
