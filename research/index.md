@@ -14,7 +14,7 @@ _We strive to characterize the complexity of ecological systems and understand i
 {% capture content %}
   {%
     include figure.html
-    image="images/research_disease.jpg"
+    image="images/research_lp.jpg"
     width="200px"
   %}
 {% endcapture %}
