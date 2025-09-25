@@ -83,9 +83,8 @@ In nature, infectious agents—from parasites in wildlife to microbes and their 
 
 **Keywords:** Disease ecology; Microbial ecology; Epidemiology; Host–parasite networks; Plasmids
 
-- [Conceptualizing microbe–plasmid communities as complex adaptive systems](http://www.cell.com/article/S0966842X23000252/fulltext
-)
-- [Multilayer networks of plasmid genetic similarity reveal potential pathways of gene transmission](https://www.nature.com/articles/s41396-023-01373-5	https://www.overleaf.com/project/6356558f59529acc46781011)
+- [Conceptualizing microbe–plasmid communities as complex adaptive systems](http://www.cell.com/article/S0966842X23000252/fulltext)
+- [Multilayer networks of plasmid genetic similarity reveal potential pathways of gene transmission](https://www.nature.com/articles/s41396-023-01373-5)
 
 
 {% include section.html %}
