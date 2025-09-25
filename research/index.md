@@ -9,6 +9,26 @@ _We strive to characterize the complexity of ecological systems and understand i
 
 {% include section.html %}
 
+## From description to prediction in ecosystems
+
+{% capture content %}
+  {%
+    include figure.html
+    image="images/research_disease.jpg"
+    width="200px"
+  %}
+{% endcapture %}
+​
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+​
+Ecological networks are almost always incomplete: many species interactions remain unobserved because sampling is limited, costly, or biased. This hampers our ability to understand community structure and to forecast how networks respond to environmental change. To address this, we develop and test statistical and machine-learning approaches to predict missing interactions. Beyond improving datasets, link prediction provides quantitative information on the relative importance of the factors underlying ecological interactions, and enables forecasting the response of communities to environmental change.
+
+**Keywords:** Link prediction; Machine learning; Species interactions; Ecological forecasting; Network inference
+
 ## Structure and dynamics of ecological multilayer networks
 
 {% capture content %}
@@ -26,10 +46,12 @@ _We strive to characterize the complexity of ecological systems and understand i
 %}
 ​
 The study of networks has been a fundamental component of population and community ecology but ecological networks have been typically studied in isolation – that is, they involve a single type of interaction or represent a particular community that it is not connected to others. Recent advances in the field of multilayer networks in network science, together with an increase in the availability of adequate ecological data, now provide an exciting opportunity for ecologists to move beyond studies of isolated networks. In our research, we use ecological multilayer networks to investigate the variation across interconnected ecological networks such as those interconnected in space, time, or involving several interaction types. We also use this framework to study socio-ecological networks in which human activities are directly connected to ecological nodes. In addition, we develop methodology to facilitate and advance the analysis of ecological multilayer networks.
+
+**Keywords**: Multilayer networks; Community ecology; Spatial–temporal dynamics; Social–ecological systems; Network methodology
 ​
 {% include section.html %}
 
-## Ecology of microbes and mobile genetic elements
+## The complexity of infectious interactions
 
 {% capture content %}
   {%
@@ -45,27 +67,11 @@ The study of networks has been a fundamental component of population and communi
   flip=true
 %}
 
-​Microbes play a profound role in ecosystem functions, but mobile genetic elements such as phages and plasmids largely shape microbial populations. Studying the mechanisms that drive the eco-evolutionary dynamics of microbe and MGE communities is necessary to understand, anticipate, and modify microbes’ effects on ecosystems. Nevertheless, existing studies ignore the vast diversity and non-random structure of these communities. We combine modeling, data analysis, and theory from ecological/evolutionary and multilayer networks to study how the ecological and evolutionary processes dynamically shape the diversity and interaction networks of microbial and MGE communities at multiple levels of organization (e.g., phage-bacteria interactions). 
+In nature, infectious agents—from parasites in wildlife to microbes and their mobile genetic elements—spread across multiple hosts and environments, creating intricate webs of direct and indirect effects. Capturing these dynamics in epidemiological or ecological models is challenging because multihost–multiparasite systems are nonlinear and their higher-level outcomes cannot be easily inferred from pairwise interactions alone. We study these systems through the lens of network science, focusing on how ecological and evolutionary processes structure host–parasite and microbe–phage/plasmid interactions across scales, from individuals to communities. This approach allows us to link infection networks at the species level with transmission processes at the individual level, while also addressing how external drivers such as land-use change alter infection risk and spread. By integrating modeling, theory, and data, we aim to uncover general principles of infectious network organization and their consequences for the dynamics of infectious agents.
+
+**Keywords:** Disease ecology; Microbial ecology; Epidemiology; Host–parasite networks; Phage–plasmid interactions
 
 {% include section.html %}
-
-## Disease ecology
-
-{% capture content %}
-  {%
-    include figure.html
-    image="images/research_disease.jpg"
-    width="200px"
-  %}
-{% endcapture %}
-​
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-​
-In nature, multiple parasite species spread across multiple host species, creating a web of direct and indirect effects on transmission dynamics. Considering multihost-multiparasite interactions in epidemiological models is a non-trivial task because of model complexities and the nonlinearity involved in predicting higher-level interactions from lower-level ones. Another challenge is to link the ecological interactions at the species level with disease transmission at the individual level. We study the structure of host-parasite networks and aim to develop epidemiological models that can explain their structure. We also aim to understand how land use change affects the spread and risk of pathogens.
 
 
 {%
