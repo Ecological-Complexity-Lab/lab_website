@@ -27,7 +27,7 @@ nav:
  
 **Course Structure:** Lecture: 2 hours   Exercise:  2 hours  Total # of Points: 3
 
-**Course schedule:** Sunday to Thursday 22-26/2/2026, 8:00-17:00, and 12/3/2026 8:00-16:00 **Sde Boker campus**.
+**Course schedule:** Sunday to Thursday 15-19/2/2026, 8:00-17:00, and 12/3/2026 8:00-16:00 **Sde Boker campus**.
 
 **Teaching method:** The course is given entirely in English, in person (no zoom or hybrid classes). Students will be actively engaged through paper discussions, and because of the interactive format, enrollment is limited to 10 students. All classes, discussions, and presentations will be conducted in English, and students are encouraged to use their own research data for the final project.
 
