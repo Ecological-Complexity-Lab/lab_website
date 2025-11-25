@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.11.20.689463
+  title: 'Structure knows best: predicting ecological interactions across space through
+    pairwise integration of latent network patterns'
+  authors:
+  - Kesem Abramov
+  - Barry Biton
+  - Geut Galai
+  - Rami Puzis
+  - Shai Pilosof
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-11-20'
+  link: https://doi.org/hbb8ks
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ele.70255
+  title: "Differential Assembly of Core and Non\u2010Core Host\u2010Microbe Network\
+    \ Structures Along a Land\u2010Use Change Gradient"
+  authors:
+  - Matan Markfeld
+  - Georgia Titcomb
+  - Toky Maheriniaina Randriamoria
+  - Garima Sehgal
+  - Nuzha Baksh
+  - Ashley Kerrigan
+  - Voahangy Soarimalala
+  - Charles L. Nunn
+  - Shai Pilosof
+  publisher: Ecology Letters
+  date: '2025-11-01'
+  link: https://doi.org/hbbm68
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.09.08.674846
   title: The structure of pairwise competition is responsible for sudden regime shifts
     in a microbe-plasmid model
