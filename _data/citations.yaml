@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/1365-2664.70213
+  title: Local knowledge enhances the sustainability of interconnected fisheries
+  authors:
+  - Carine Emer
+  - Miguel Lurgi
+  - "S\xE9rgio Tim\xF3teo"
+  - "Jo\xE3o Vitor Campos\u2010Silva"
+  - Shai Pilosof
+  publisher: Journal of Applied Ecology
+  date: '2025-12-01'
+  link: https://doi.org/hbdtx4
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.11.20.689463
   title: 'Structure knows best: predicting ecological interactions across space through
     pairwise integration of latent network patterns'
@@ -130,30 +144,6 @@
   tags:
   - microbial ecology
   - plasmid
-- id: doi:10.32942/X2PP94
-  title: Differential assembly of core and non-core host-microbe network structures
-    along a land-use change gradient
-  authors:
-  - Matan Markfeld
-  - Georgia Titcomb
-  - Toky Randriamoria
-  - Garima Sehgal
-  - Nuzha Baksh
-  - Ashley Kerrigan
-  - Voahangy Soarimalala
-  - Charles Nunn
-  - Shai Pilosof
-  publisher: California Digital Library (CDL)
-  date: '2025-05-12'
-  link: https://doi.org/g9h63f
-  orcid: 0000-0003-0430-5568
-  plugin: sources.py
-  file: sources.yaml
-  type: preprint
-  image: images/publications/pic_madagascar_rats_microbiome.png
-  tags:
-  - microbial ecology
-  - land-use change
 - id: doi:10.32942/X2F33T
   title: Indirect effects dominate ecosystem service losses in response to agricultural
     intensification
@@ -753,6 +743,29 @@
   image: images/publications/pic_variability_in_urine_concentration.jpg
   tags:
   - bats
+- id: doi:10.32942/X2PP94
+  title: Differential assembly of core and non-core host-microbe network structures
+    along a land-use change gradient
+  authors:
+  - Matan Markfeld
+  - Georgia Titcomb
+  - Toky Randriamoria
+  - Garima Sehgal
+  - Nuzha Baksh
+  - Ashley Kerrigan
+  - Voahangy Soarimalala
+  - Charles Nunn
+  - Shai Pilosof
+  publisher: California Digital Library (CDL)
+  date: '2025-05-12'
+  link: https://doi.org/g9h63f
+  type: preprint
+  image: images/publications/pic_madagascar_rats_microbiome.png
+  tags:
+  - microbial ecology
+  - land-use change
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1365-2656.12090
   title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
     parasite network"
