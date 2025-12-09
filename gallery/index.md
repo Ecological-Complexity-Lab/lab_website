@@ -456,8 +456,8 @@ Dafna successfully finished her master’s degree! Dec 2022">
 <div class="scrollable-gallery">
     <div class="thumbnails">
         <!-- Single thumbnail representing the gallery -->
-        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" class="large-thumb" data-lightbox="gallery_lab_photos" data-title="December 2024">
-            <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" alt="lab_team" >
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_08122025.jpeg" class="large-thumb" data-lightbox="gallery_lab_photos" data-title="December 2025">
+            <img src="https://ecomplab.com/images/gallery/LabLife/lab_picture_08122025.jpeg" alt="lab_team" >
         </a>
         <!-- End of single thumbnail -->
     </div>
@@ -465,6 +465,7 @@ Dafna successfully finished her master’s degree! Dec 2022">
     <!-- Gallery content hidden initially -->
     <div style="display: none;">
         <!-- Gallery images -->
+        <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_04122024.png" data-lightbox="gallery_lab_photos" data-title="December 2024"></a>
         <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_3062024.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2024"></a>
         <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_june23.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2023"></a>
         <a href="https://ecomplab.com/images/gallery/LabLife/lab_picture_june22.jpeg" data-lightbox="gallery_lab_photos" data-title="June 2022"></a>
