@@ -12,8 +12,13 @@
   date: '2025-12-01'
   link: https://doi.org/hbdtx4
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_amazonian_lake_meta_population.jpg
+  tags:
+  - metapopulation network
+  - food security
 - id: doi:10.1101/2025.11.20.689463
   title: 'Structure knows best: predicting ecological interactions across space through
     pairwise integration of latent network patterns'
@@ -27,8 +32,14 @@
   date: '2025-11-20'
   link: https://doi.org/hbb8ks
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: images/publications/pic_spatial_lp_canary_islands.jpg
+  tags:
+  - link prediction
+  - ecological networks
+  - plant-pollinator interactions
 - id: doi:10.1111/ele.70255
   title: "Differential Assembly of Core and Non\u2010Core Host\u2010Microbe Network\
     \ Structures Along a Land\u2010Use Change Gradient"
@@ -46,8 +57,13 @@
   date: '2025-11-01'
   link: https://doi.org/hbbm68
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/pic_madagascar_rats_microbiome.png
+  tags:
+  - microbial ecology
+  - land-use change
 - id: doi:10.1101/2025.09.08.674846
   title: The structure of pairwise competition is responsible for sudden regime shifts
     in a microbe-plasmid model
@@ -62,8 +78,15 @@
   date: '2025-09-12'
   link: https://doi.org/g939kz
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: images/publications/pic_plasmid_dynamics.jpg
+  tags:
+  - microbial ecology
+  - plasmid
+  - dynamics
+  - simulation
 - id: doi:10.32942/X2MP9H
   title: "Infection profiles in a wild rat\u2013protozoan network are shaped by host\
     \ traits and environmental factors"
@@ -81,8 +104,15 @@
   date: '2025-08-18'
   link: https://doi.org/g9x3pp
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: images/publications/pic_infection_profiles.png
+  tags:
+  - microbial ecology
+  - ecological networks
+  - host-parasite interactions
+  - land-use change
 - id: doi:10.1101/2025.06.17.660120
   title: Metabolite correlation networks reveal complex phenotypes of adaptation-driving
     mutations
@@ -98,8 +128,13 @@
   date: '2025-06-20'
   link: https://doi.org/g9q3gx
   orcid: 0000-0003-0430-5568
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: images/publications/pic_metabolite_network.jpg
+  tags:
+  - microbial ecology
+  - Metabolites
 - id: doi:10.1038/s41559-025-02715-6
   title: Inductive link prediction facilitates the discovery of missing links and
     enables cross-community inference in ecological networks
@@ -200,12 +235,8 @@
   date: '2024-10-08'
   link: https://doi.org/g7wqkx
   orcid: 0000-0003-0430-5568
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/pic_amazonian_lake_meta_population.jpg
-  tags:
-  - metapopulation network
-  - food security
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/1365-2656.14174
   title: "Local and regional processes drive distance decay in structure in a spatial\
     \ multilayer plant\u2010pollinator network"
@@ -249,8 +280,8 @@
   - inflammatory diseases
   - human gut
 - id: doi:10.1111/2041-210X.14225
-  title: Practical guidelines and the <scp>EMLN</scp> R package for handling ecological
-    multilayer networks
+  title: "Practical guidelines and the\n                    <scp>EMLN</scp>\n    \
+    \                R package for handling ecological multilayer networks"
   authors:
   - Noa Frydman
   - Shirly Freilikhman
@@ -743,29 +774,6 @@
   image: images/publications/pic_variability_in_urine_concentration.jpg
   tags:
   - bats
-- id: doi:10.32942/X2PP94
-  title: Differential assembly of core and non-core host-microbe network structures
-    along a land-use change gradient
-  authors:
-  - Matan Markfeld
-  - Georgia Titcomb
-  - Toky Randriamoria
-  - Garima Sehgal
-  - Nuzha Baksh
-  - Ashley Kerrigan
-  - Voahangy Soarimalala
-  - Charles Nunn
-  - Shai Pilosof
-  publisher: California Digital Library (CDL)
-  date: '2025-05-12'
-  link: https://doi.org/g9h63f
-  type: preprint
-  image: images/publications/pic_madagascar_rats_microbiome.png
-  tags:
-  - microbial ecology
-  - land-use change
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/1365-2656.12090
   title: "Temporal dynamics of direct reciprocal and indirect effects in a host\u2013\
     parasite network"
