@@ -1,4 +1,51 @@
 
+- id: doi:10.1111/1365-2664.70213
+  type: paper
+  image: images/publications/pic_amazonian_lake_meta_population.jpg
+  tags:
+    - metapopulation network
+    - food security
+
+- id: doi:10.1101/2025.11.20.689463
+  type: preprint
+  image: images/publications/pic_spatial_lp_canary_islands.jpg
+  tags:
+    - link prediction
+    - ecological networks
+    - plant-pollinator interactions
+
+- id: doi:10.1111/ele.70255
+  type: paper
+  image: images/publications/pic_madagascar_rats_microbiome.png
+  tags:
+    - microbial ecology
+    - land-use change
+
+- id: doi:10.1101/2025.09.08.674846
+  type: preprint
+  image: images/publications/pic_plasmid_dynamics.jpg
+  tags:
+    - microbial ecology
+    - plasmid
+    - dynamics
+    - simulation
+
+- id: doi:10.32942/X2MP9H
+  type: preprint
+  image: images/publications/pic_infection_profiles.png
+  tags:
+    - microbial ecology
+    - ecological networks
+    - host-parasite interactions
+    - land-use change
+
+- id: doi:10.1101/2025.06.17.660120
+  type: preprint
+  image: images/publications/pic_metabolite_network.jpg
+  tags:
+    - microbial ecology
+    - Metabolites
+
 - id: doi:10.1038/s41559-025-02715-6
   type: paper
   image: images/projects/LIME.png
@@ -18,24 +65,11 @@
     - microbial ecology
     - plasmid
 
-- id: doi:10.32942/X2PP94
-  type: preprint
-  image: images/publications/pic_madagascar_rats_microbiome.png
-  tags:
-    - microbial ecology
-    - land-use change
-
 - id: doi:10.32942/X2F33T
   type: preprint
   image: images/publications/pic_indirect_effects_on_es.png
   tags:
     - ecosystem services
-    - food security
-
-- id: doi:10.32942/X2HC9G
-  image: images/publications/pic_amazonian_lake_meta_population.jpg
-  tags:
-    - metapopulation network
     - food security
 
 - id: doi:10.1111/1365-2656.14174
