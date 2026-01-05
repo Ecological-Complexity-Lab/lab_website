@@ -14,7 +14,7 @@ Check out the new portal we developed for the Network Ecology community: [networ
 
 {%
   include figure.html
-  image="images/gallery/LabLife/lab_picture_3062024.jpeg"
+  image="images/gallery/LabLife/lab_picture_08122025.jpeg"
   link="team"
   width="400px"
 %}
