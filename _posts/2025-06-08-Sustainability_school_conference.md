@@ -18,11 +18,11 @@ Kesem and Itamar, two of our Phd students, presented their research. Kesem prese
         
 <!-- Repeat this block for each image in the set -->
 
-<a href="https://ecomplab.com/images/blog/kesem_and_itamar_conference_1.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 1">
-        <img src="https://ecomplab.com/images/blog/kesem_and_itamar_conference_1.jpeg" alt="gallery_DepartmentDay_July2024" style="width:100%;max-width:150px">
+<a href="https://ecomplab.com/images/blog/kesem_and_itamar_conference_1.jpeg" data-lightbox="Sustainability_conference_June2025" data-title="Sustainability Conference, June 2025 - 1">
+        <img src="https://ecomplab.com/images/blog/kesem_and_itamar_conference_1.jpeg" alt="Sustainability_conference_June2025" style="width:100%;max-width:150px">
 </a>
-<a href="https://ecomplab.com/images/blog/kesem_and_itamar_conference_2.jpeg" data-lightbox="gallery_DepartmentDay_July2024" data-title="Life Science Department Day, July 2024  - 2">
-        <img src="https://ecomplab.com/images/blog/kesem_and_itamar_conference_2.jpeg" alt="gallery_DepartmentDay_July2024" style="width:100%;max-width:150px">
+<a href="https://ecomplab.com/images/blog/kesem_and_itamar_conference_2.jpeg" data-lightbox="Sustainability_conference_June2025" data-title="Sustainability Conference, June 2025 - 2">
+        <img src="https://ecomplab.com/images/blog/kesem_and_itamar_conference_2.jpeg" alt="Sustainability_conference_June2025" style="width:100%;max-width:150px">
 </a>
     </div>
 </div>
