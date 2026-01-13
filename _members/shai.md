@@ -12,7 +12,7 @@ links:
   twitter: shaipilo
 ---
 
-I am an Assistant Professor at Ben-Gurion University, in Israel. I am interested in the application of network theory to ecological systems, specifically in the fields of disease and community ecology. Apart from research I enjoy photography and traveling, and being with my family.
+I am an Associate Professor at Ben-Gurion University, in Israel. I am interested in the application of network theory to ecological systems, specifically in the fields of disease and community ecology. Apart from research I enjoy photography and traveling, and being with my family.
 
 **A few CV elements:**
 
