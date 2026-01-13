@@ -6,7 +6,7 @@ tags: students, conference
 
 Today, Most of the lab took part in the [62nd Conference](https://israelzoosociety.adssc.org/kenes-61/) 
 of The Zoological Society of Israel, which was hosted in Sde Boker.
-Matan, Kesem and Itamar, three of our Phd students, gave talkes, 
+Matan, Kesem and Itamar, three of our Phd students, gave talks, 
 while, Yuval one of our Master's students presented a poster. 
 Even Shir, our other Master's student and Noam, one of our undergraduate student joined the team, despite not presenting, 
 Their engagment reflecting their hard work while taking part in the science community, and eagerness to share their findings when presenting. 
