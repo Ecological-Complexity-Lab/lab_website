@@ -51,11 +51,11 @@
     - teaching
     - dynamics
 
-- title: Stability Game
+- title: Robustness Game
   group: featured
   image: images/projects/stabilitygame3.png
-  link: https://ecomplab.com/stabilitygame/
-  description: Distribute 30 interactions as you like to find a robustness score as high as possible.
+  link: https://ecomplab.com/robustnessgame/
+  description: Save the bees and plants by building the most robust network that you can!.
   tags:
     - network structure
     - teaching
