@@ -1,8 +1,8 @@
 ---
 name: Noa Mizrahi
-image: images/team_noa.jpeg
+image: images/alumni/team_noa.jpeg
 description: MSc student
-role: msc
+role: alumni
 links:
   email: noamizr@post.bgu.ac.il
 ---
