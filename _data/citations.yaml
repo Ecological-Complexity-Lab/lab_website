@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1098/rsif.2025.1193
+  title: "The structure of pairwise competition drives sudden regime shifts in a microbe\u2013\
+    plasmid model"
+  authors:
+  - Ying-Jie Wang
+  - "Alberto Meg\xEDas"
+  - Jose A. Capitan
+  - Leonardo Aguirre
+  - Shai Pilosof
+  - David Alonso
+  publisher: Journal of the Royal Society Interface
+  date: '2026-06-10'
+  link: https://doi.org/hb7pqf
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1014339
+  title: The interplay between ecological networks drives host-plasmid community dynamics
+  authors:
+  - Ying-Jie Wang
+  - Kaitlin A. Schaal
+  - Johannes Nauta
+  - Armun Liaghat
+  - Manlio De Domenico
+  - James P. J. Hall
+  - Shai Pilosof
+  publisher: PLOS Computational Biology
+  date: '2026-05-26'
+  link: https://doi.org/hb563c
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/ismeco/ycag026
   title: "Host traits and environmental factors shape infection heterogeneity in wild\
     \ rat\u2013protozoa networks"
@@ -9,12 +41,12 @@
   - Barry Biton
   - Toky Maheriniaina Randriamoria
   - Voahangy Soarimalala
-  - Steven M Goodman
+  - Steven Michael Goodman
   - Charles L Nunn
   - Georgia Titcomb
   - Shai Pilosof
   publisher: ISME Communications
-  date: '2026-02-10'
+  date: '2026-01-01'
   link: https://doi.org/hbnznr
   orcid: 0000-0003-0430-5568
   plugin: orcid.py
@@ -38,6 +70,18 @@
   tags:
   - metapopulation network
   - food security
+- id: doi:10.48550/ARXIV.2605.09597
+  title: Interactively visualizing biological multilayer networks using MiRA
+  authors:
+  - Shir Miryam Nehoray
+  - Yuval Bloch
+  - Shai Pilosof
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hb5fwz
+  orcid: 0000-0003-0430-5568
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.11.20.689463
   title: 'Structure knows best: predicting ecological interactions across space through
     pairwise integration of latent network patterns'
@@ -93,7 +137,7 @@
   - Leonardo Aguirre
   - Shai Pilosof
   - David Alonso
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-09-12'
   link: https://doi.org/g939kz
   orcid: 0000-0003-0430-5568
@@ -187,7 +231,7 @@
   - Manlio De Domenico
   - Shai Pilosof
   - James P. J. Hall
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-03'
   link: https://doi.org/g9nbqq
   orcid: 0000-0003-0430-5568
