@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-24T10:19:48+00:00</updated><id>/feed.xml</id><title type="html">Ecological Complexity Lab</title><subtitle>Elucidating the complexity of ecological systems</subtitle><entry><title type="html">We took Part in The 62nd Zoological Society of Israel Conference in Sde Boker</title><link href="/2025/12/21/zoology_conference_SB.html" rel="alternate" type="text/html" title="We took Part in The 62nd Zoological Society of Israel Conference in Sde Boker" /><published>2025-12-21T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/12/21/zoology_conference_SB</id><content type="html" xml:base="/2025/12/21/zoology_conference_SB.html"><![CDATA[<p>Today, Most of the lab took part in the <a href="https://israelzoosociety.adssc.org/kenes-61/">62nd Conference</a> 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-15T08:18:28+00:00</updated><id>/feed.xml</id><title type="html">Ecological Complexity Lab</title><subtitle>Elucidating the complexity of ecological systems</subtitle><entry><title type="html">Our new research, “Host traits and environmental factors shape infection heterogeneity in wild rat–protozoa networks”, is now available on ISME Communications!</title><link href="/2026/02/10/pub_paper.html" rel="alternate" type="text/html" title="Our new research, “Host traits and environmental factors shape infection heterogeneity in wild rat–protozoa networks”, is now available on ISME Communications!" /><published>2026-02-10T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2026/02/10/pub_paper</id><content type="html" xml:base="/2026/02/10/pub_paper.html"><![CDATA[<p>The study, previously available as a preprint, is now published following peer-review in ISME Communications!</p>
+
+<p>In this study, our students Matan, Itamar, and Barry, together with collaborators, show that individual hosts differ in consistent and predictable ways in their protozoan parasite infection profiles. Using stochastic block modeling and machine learning on black rats sampled across Madagascar, they identify three distinct infection profiles that reflect different roles in parasite transmission. Host traits — particularly body mass and gut microbiome composition — were substantially more informative than environmental factors in predicting these profiles, contributing 40% more to predictions. These results highlight infection profiles as a powerful lens for understanding host-parasite dynamics and improving spillover risk prediction at human–animal interfaces.</p>
+
+<p>Read the full paper here: <a href="https://doi.org/10.1093/ismeco/ycag026">ISME Communications</a></p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/publications/pic_infection_profiles.png" style="
+        width: auto;
+        max-height: 300px;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[The study, previously available as a preprint, is now published following peer-review in ISME Communications!]]></summary></entry><entry><title type="html">We took Part in The 62nd Zoological Society of Israel Conference in Sde Boker</title><link href="/2025/12/21/zoology_conference_SB.html" rel="alternate" type="text/html" title="We took Part in The 62nd Zoological Society of Israel Conference in Sde Boker" /><published>2025-12-21T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/12/21/zoology_conference_SB</id><content type="html" xml:base="/2025/12/21/zoology_conference_SB.html"><![CDATA[<p>Today, Most of the lab took part in the <a href="https://israelzoosociety.adssc.org/kenes-61/">62nd Conference</a> 
 of The Zoological Society of Israel, which was hosted in Sde Boker.
 Matan, Kesem and Itamar, three of our Phd students, gave talks, 
 while, Yuval one of our Master’s students presented a poster. 
@@ -58,7 +72,7 @@ Their engagment reflecting their hard work while taking part in the science comm
         height: 50px; /* Adjust the height as needed */
         vertical-align: middle;
     }
-</style>]]></content><author><name>geutg</name></author><category term="students," /><category term="conference" /><summary type="html"><![CDATA[Today, Most of the lab took part in the 62nd Conference of The Zoological Society of Israel, which was hosted in Sde Boker. Matan, Kesem and Itamar, three of our Phd students, gave talks, while, Yuval one of our Master’s students presented a poster. Even Shir, our other Master’s student and Noam, one of our undergraduate student joined the team, despite not presenting, Their engagment reflecting their hard work while taking part in the science community, and eagerness to share their findings when presenting.]]></summary></entry><entry><title type="html">Our new research, “Local knowledge enhances the sustainability of interconnected fisheries”, is now available on Journal of Applied Ecology!</title><link href="/2025/12/01/pub_paper.html" rel="alternate" type="text/html" title="Our new research, “Local knowledge enhances the sustainability of interconnected fisheries”, is now available on Journal of Applied Ecology!" /><published>2025-12-01T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/12/01/pub_paper</id><content type="html" xml:base="/2025/12/01/pub_paper.html"><![CDATA[<!--
+</style>]]></content><author><name>geutg</name></author><category term="students," /><category term="conference" /><summary type="html"><![CDATA[Today, Most of the lab took part in the 62nd Conference of The Zoological Society of Israel, which was hosted in Sde Boker. Matan, Kesem and Itamar, three of our Phd students, gave talks, while, Yuval one of our Master’s students presented a poster. Even Shir, our other Master’s student and Noam, one of our undergraduate student joined the team, despite not presenting, Their engagment reflecting their hard work while taking part in the science community, and eagerness to share their findings when presenting.]]></summary></entry><entry><title type="html">Our new research, “Local knowledge enhances the sustainability of interconnected fisheries”, is now available on Journal of Applied Ecology!</title><link href="/2025/12/01/pub_paper.html" rel="alternate" type="text/html" title="Our new research, “Local knowledge enhances the sustainability of interconnected fisheries”, is now available on Journal of Applied Ecology!" /><published>2025-12-01T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/12/01/pub_paper</id><content type="html" xml:base="/2025/12/01/pub_paper.html"><![CDATA[<!--
   - paper
   - ecological networks
   - sustainability
@@ -76,7 +90,7 @@ Their engagment reflecting their hard work while taking part in the science comm
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “Structure knows best - predicting ecological interactions across space through pairwise integration of latent network patterns”, is now available on EcoEvoRxiv!</title><link href="/2025/11/20/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “Structure knows best - predicting ecological interactions across space through pairwise integration of latent network patterns”, is now available on EcoEvoRxiv!" /><published>2025-11-20T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/11/20/new_preprint</id><content type="html" xml:base="/2025/11/20/new_preprint.html"><![CDATA[<!--
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “Structure knows best - predicting ecological interactions across space through pairwise integration of latent network patterns”, is now available on EcoEvoRxiv!</title><link href="/2025/11/20/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “Structure knows best - predicting ecological interactions across space through pairwise integration of latent network patterns”, is now available on EcoEvoRxiv!" /><published>2025-11-20T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/11/20/new_preprint</id><content type="html" xml:base="/2025/11/20/new_preprint.html"><![CDATA[<!--
   - preprint
   - ecological networks
   - plant-pollinator
@@ -94,7 +108,7 @@ Their engagment reflecting their hard work while taking part in the science comm
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “Differential Assembly of Core and Non-Core Host-Microbe Network Structures Along a Land-Use Change Gradient”, is now available on Ecology Letters!</title><link href="/2025/11/01/pub_paper.html" rel="alternate" type="text/html" title="Our new research, “Differential Assembly of Core and Non-Core Host-Microbe Network Structures Along a Land-Use Change Gradient”, is now available on Ecology Letters!" /><published>2025-11-01T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/11/01/pub_paper</id><content type="html" xml:base="/2025/11/01/pub_paper.html"><![CDATA[<!--
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “Differential Assembly of Core and Non-Core Host-Microbe Network Structures Along a Land-Use Change Gradient”, is now available on Ecology Letters!</title><link href="/2025/11/01/pub_paper.html" rel="alternate" type="text/html" title="Our new research, “Differential Assembly of Core and Non-Core Host-Microbe Network Structures Along a Land-Use Change Gradient”, is now available on Ecology Letters!" /><published>2025-11-01T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/11/01/pub_paper</id><content type="html" xml:base="/2025/11/01/pub_paper.html"><![CDATA[<!--
   - paper
   - ecological networks
   - sustainability
@@ -114,7 +128,7 @@ Their engagment reflecting their hard work while taking part in the science comm
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “The structure of pairwise competition is responsible for sudden regime shifts in a microbe-plasmid model”, is now available on EcoEvoRxiv!</title><link href="/2025/09/12/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “The structure of pairwise competition is responsible for sudden regime shifts in a microbe-plasmid model”, is now available on EcoEvoRxiv!" /><published>2025-09-12T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/09/12/new_preprint</id><content type="html" xml:base="/2025/09/12/new_preprint.html"><![CDATA[<!--
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Our new research, “The structure of pairwise competition is responsible for sudden regime shifts in a microbe-plasmid model”, is now available on EcoEvoRxiv!</title><link href="/2025/09/12/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “The structure of pairwise competition is responsible for sudden regime shifts in a microbe-plasmid model”, is now available on EcoEvoRxiv!" /><published>2025-09-12T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/09/12/new_preprint</id><content type="html" xml:base="/2025/09/12/new_preprint.html"><![CDATA[<!--
   - preprint
   - population dynamics
   - plasmids
@@ -133,7 +147,7 @@ Their engagment reflecting their hard work while taking part in the science comm
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Perticipating in the VII Symposium on EcoNets 2025 in Newcastle!</title><link href="/2025/09/06/EcoNet2025.html" rel="alternate" type="text/html" title="Perticipating in the VII Symposium on EcoNets 2025 in Newcastle!" /><published>2025-09-06T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/09/06/EcoNet2025</id><content type="html" xml:base="/2025/09/06/EcoNet2025.html"><![CDATA[<p>In September 2025, our lab had the opportunity to participate in <a href="https://www.ncl.ac.uk/nes/news/events/event-items/econet2025/">EcoNets 2025</a>. The symposium hosted by the School of Natural and Environmental Sciences at Newcastle University, UK. Our lab made its mark with the excellent talks delivered by Shai, and poster presented by Matan. \</p>
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Perticipating in the VII Symposium on EcoNets 2025 in Newcastle!</title><link href="/2025/09/06/EcoNet2025.html" rel="alternate" type="text/html" title="Perticipating in the VII Symposium on EcoNets 2025 in Newcastle!" /><published>2025-09-06T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/09/06/EcoNet2025</id><content type="html" xml:base="/2025/09/06/EcoNet2025.html"><![CDATA[<p>In September 2025, our lab had the opportunity to participate in <a href="https://www.ncl.ac.uk/nes/news/events/event-items/econet2025/">EcoNets 2025</a>. The symposium hosted by the School of Natural and Environmental Sciences at Newcastle University, UK. Our lab made its mark with the excellent talks delivered by Shai, and poster presented by Matan. \</p>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
@@ -185,7 +199,7 @@ Their engagment reflecting their hard work while taking part in the science comm
         height: 50px; /* Adjust the height as needed */
         vertical-align: middle;
     }
-</style>]]></content><author><name>geutg</name></author><category term="conference" /><summary type="html"><![CDATA[In September 2025, our lab had the opportunity to participate in EcoNets 2025. The symposium hosted by the School of Natural and Environmental Sciences at Newcastle University, UK. Our lab made its mark with the excellent talks delivered by Shai, and poster presented by Matan. \]]></summary></entry><entry><title type="html">Our new research, “Infection profiles in a wild rat-protozoan network are shaped by host traits and environmental factors”, is now available on EcoEvoRxiv!</title><link href="/2025/08/18/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “Infection profiles in a wild rat-protozoan network are shaped by host traits and environmental factors”, is now available on EcoEvoRxiv!" /><published>2025-08-18T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/08/18/new_preprint</id><content type="html" xml:base="/2025/08/18/new_preprint.html"><![CDATA[<!--
+</style>]]></content><author><name>geutg</name></author><category term="conference" /><summary type="html"><![CDATA[In September 2025, our lab had the opportunity to participate in EcoNets 2025. The symposium hosted by the School of Natural and Environmental Sciences at Newcastle University, UK. Our lab made its mark with the excellent talks delivered by Shai, and poster presented by Matan. \]]></summary></entry><entry><title type="html">Our new research, “Infection profiles in a wild rat-protozoan network are shaped by host traits and environmental factors”, is now available on EcoEvoRxiv!</title><link href="/2025/08/18/new_preprint.html" rel="alternate" type="text/html" title="Our new research, “Infection profiles in a wild rat-protozoan network are shaped by host traits and environmental factors”, is now available on EcoEvoRxiv!" /><published>2025-08-18T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/08/18/new_preprint</id><content type="html" xml:base="/2025/08/18/new_preprint.html"><![CDATA[<!--
   - preprint
   - ecological networks
   - host-parasite
@@ -203,7 +217,7 @@ Their engagment reflecting their hard work while taking part in the science comm
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Proud moments - Shai and Barry won best deparmet paper!</title><link href="/2025/07/21/best_paper_reward.html" rel="alternate" type="text/html" title="Proud moments - Shai and Barry won best deparmet paper!" /><published>2025-07-21T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/07/21/best_paper_reward</id><content type="html" xml:base="/2025/07/21/best_paper_reward.html"><![CDATA[<p>Bravo, Shai and Barry! 
+</figure>]]></content><author><name>geutg</name></author><category term="paper/preprint" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Proud moments - Shai and Barry won best deparmet paper!</title><link href="/2025/07/21/best_paper_reward.html" rel="alternate" type="text/html" title="Proud moments - Shai and Barry won best deparmet paper!" /><published>2025-07-21T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/07/21/best_paper_reward</id><content type="html" xml:base="/2025/07/21/best_paper_reward.html"><![CDATA[<p>Bravo, Shai and Barry! 
 In the latest academoc staff meeting, their newly published paper “Inductive link prediction facilitates the discovery of missing links and enables cross-community inference in ecological networks” was awarded the best published paper in 2025! 
 Keep up the incredible work!</p>
 
@@ -215,7 +229,7 @@ Keep up the incredible work!</p>
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="students" /><summary type="html"><![CDATA[Bravo, Shai and Barry! In the latest academoc staff meeting, their newly published paper “Inductive link prediction facilitates the discovery of missing links and enables cross-community inference in ecological networks” was awarded the best published paper in 2025! Keep up the incredible work!]]></summary></entry><entry><title type="html">Shai Won the ISF Grant!</title><link href="/2025/07/17/ISF_granted.html" rel="alternate" type="text/html" title="Shai Won the ISF Grant!" /><published>2025-07-17T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/07/17/ISF_granted</id><content type="html" xml:base="/2025/07/17/ISF_granted.html"><![CDATA[<p>Shai won the ISF grand, for the second time!
+</figure>]]></content><author><name>geutg</name></author><category term="students" /><summary type="html"><![CDATA[Bravo, Shai and Barry! In the latest academoc staff meeting, their newly published paper “Inductive link prediction facilitates the discovery of missing links and enables cross-community inference in ecological networks” was awarded the best published paper in 2025! Keep up the incredible work!]]></summary></entry><entry><title type="html">Shai Won the ISF Grant!</title><link href="/2025/07/17/ISF_granted.html" rel="alternate" type="text/html" title="Shai Won the ISF Grant!" /><published>2025-07-17T00:00:00+00:00</published><updated>2026-06-15T08:15:45+00:00</updated><id>/2025/07/17/ISF_granted</id><content type="html" xml:base="/2025/07/17/ISF_granted.html"><![CDATA[<p>Shai won the ISF grand, for the second time!
 The research detailed in the grand is focused on link prediction and is titled “Beyond observations: predicting species interactions across variable spatial-temporal scales and environments”.</p>
 
 <p>Congratulations to Shai, we look forward to see the research this grant brings to fruition!</p>
@@ -228,56 +242,4 @@ The research detailed in the grand is focused on link prediction and is titled �
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>geutg</name></author><category term="social" /><summary type="html"><![CDATA[Shai won the ISF grand, for the second time! The research detailed in the grand is focused on link prediction and is titled “Beyond observations: predicting species interactions across variable spatial-temporal scales and environments”.]]></summary></entry><entry><title type="html">Shir on Life Science Department Day</title><link href="/2025/07/02/LifeScience_Department_Day.html" rel="alternate" type="text/html" title="Shir on Life Science Department Day" /><published>2025-07-02T00:00:00+00:00</published><updated>2026-03-24T10:17:28+00:00</updated><id>/2025/07/02/LifeScience_Department_Day</id><content type="html" xml:base="/2025/07/02/LifeScience_Department_Day.html"><![CDATA[<p>On July 2nd, 2025, the Life Science Department celebrated its annual Department Day. Shir, our undergraduate student, presented her research posters, reflecting their hard work over the passing year. Congratulations, Shiri, this is well-deserved! Well Done!</p>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/blog/DepartmentDay_2025_1.jpeg" style="
-        width: 100%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-</figure>
-
-<div class="scrollable-gallery">
-    <div class="thumbnails">
-        
-<!-- Repeat this block for each image in the set -->
-
-<a href="https://ecomplab.com/images/blog/DepartmentDay_2025_1.jpeg" data-lightbox="gallery_DepartmentDay_July2025" data-title="Life Science Department Day, July 2025  - 1">
-        <img src="https://ecomplab.com/images/blog/DepartmentDay_2025_1.jpeg" alt="gallery_DepartmentDay_July2025" style="width:100%;max-width:150px" />
-</a>
-<a href="https://ecomplab.com/images/blog/DepartmentDay_2025_2.jpeg" data-lightbox="gallery_DepartmentDay_July2025" data-title="Life Science Department Day, July 2025  - 2">
-        <img src="https://ecomplab.com/images/blog/DepartmentDay_2025_2.jpeg" alt="gallery_DepartmentDay_July2025" style="width:100%;max-width:150px" />
-</a>
-<a href="https://ecomplab.com/images/blog/DepartmentDay_2025_3.jpeg" data-lightbox="gallery_DepartmentDay_July2025" data-title="Life Science Department Day, July 2025  - 3">
-        <img src="https://ecomplab.com/images/blog/DepartmentDay_2025_3.jpeg" alt="gallery_DepartmentDay_July2025" style="width:100%;max-width:150px" />
-</a>
-    </div>
-</div>
-
-<!-- Lightbox2 JS and CSS -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox-plus-jquery.min.js"></script>
-
-<!-- Additional CSS for Scrollable Gallery -->
-<style>
-    .scrollable-gallery {
-        overflow-x: auto;
-        white-space: nowrap;
-        padding: 10px 0;
-    }
-
-    .thumbnails a {
-        display: inline-block;
-        margin-right: 10px;
-    }
-
-    .thumbnails img {
-        width: 50px;
-        height: 50px; /* Adjust the height as needed */
-        vertical-align: middle;
-    }
-</style>]]></content><author><name>geutg</name></author><category term="students," /><category term="social" /><summary type="html"><![CDATA[On July 2nd, 2025, the Life Science Department celebrated its annual Department Day. Shir, our undergraduate student, presented her research posters, reflecting their hard work over the passing year. Congratulations, Shiri, this is well-deserved! Well Done!]]></summary></entry></feed>
+</figure>]]></content><author><name>geutg</name></author><category term="social" /><summary type="html"><![CDATA[Shai won the ISF grand, for the second time! The research detailed in the grand is focused on link prediction and is titled “Beyond observations: predicting species interactions across variable spatial-temporal scales and environments”.]]></summary></entry></feed>
