@@ -1,3 +1,15 @@
+- title: MiRA
+  group: featured
+  image: images/projects/mira.png
+  link: https://mira.ecomplab.com
+  description: Interactive App for  Multilayer Networks Visualization 
+  repo: https://github.com/Ecological-Complexity-Lab/MiRA
+  tags:
+    - multilayer
+    - visualization
+    - software
+    - network structure
+    
 - title: Lare Interaction Model in Ecology (LIME) v0.1
   group: featured
   image: images/projects/LIME.png
@@ -12,7 +24,7 @@
 - title: EMLN website
   group: featured
   image: images/projects/emln_software_2.jpg
-  link: https://ecological-complexity-lab.github.io/emln_package/index.html
+  link: https://emln.ecomplab.com
   description: Practical guidelines and the EMLN R package for handling ecological multilayer networks
   repo: https://github.com/Ecological-Complexity-Lab/emln
   tags:
@@ -24,7 +36,7 @@
 - title: infomapecology
   group: featured
   image: images/projects/infomapeology_multilayer_inter.png
-  link: https://ecological-complexity-lab.github.io/infomap_ecology_package/
+  link: https://infomapecology.ecomplab.com
   description: A pacakge for detecting communitoes bnased on flow using Infomap
   repo: https://github.com/Ecological-Complexity-Lab/emln
   tags:
