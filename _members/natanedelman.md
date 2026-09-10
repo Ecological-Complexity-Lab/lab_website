@@ -1,8 +1,8 @@
 ---
 name: Natan Edelman
-image: images/team_natanedelman.jpg
+image: images/alumni/team_natanedelman.jpg
 description: BSc student
-role: undergrad
+role: alumni
 links:
   email: nataned@post.bgu.ac.il
 ---
