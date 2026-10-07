@@ -18,10 +18,10 @@ nav:
 
 ## Highlighted
 
+{% include citation.html lookup="Predicting ecological interactions across space" style="rich" %}
+{% include citation.html lookup="MiRA" style="rich" %}
 {% include citation.html lookup="Inductive link prediction facilitates" style="rich" %}
 {% include citation.html lookup="EMLN" style="rich" %}
-{% include citation.html lookup="Conceptualizing" style="rich" %}
-{% include citation.html lookup="The multilayer nature of ecological networks" style="rich" %}
 
 {% include section.html %}
 

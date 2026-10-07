@@ -1,3 +1,71 @@
+- id: doi:10.32942/X24D68
+  type: preprint
+  image: images/publications/pic_madagascar_parasites.png
+  tags:
+    - host-parasite interactions
+    - land-use change
+    - disease
+
+- id: doi:10.1038/s41467-026-77850-0
+  type: paper
+  image: images/publications/pic_metabolite_network.jpg
+  tags:
+    - microbial ecology
+    - Metabolites
+
+- id: doi:10.32942/X2JD60
+  type: preprint
+  image: images/publications/pic_lp_validation_framework.png
+  tags:
+    - link prediction
+    - ecological networks
+
+- id: doi:10.1111/2041-210x.70357
+  type: paper
+  image: images/publications/pic_spatial_lp_canary_islands.jpg
+  tags:
+    - link prediction
+    - ecological networks
+    - plant-pollinator interactions
+    - Spatial ecology
+
+- id: doi:10.1098/rsif.2025.1193
+  type: paper
+  image: images/publications/pic_plasmid_dynamics.jpg
+  tags:
+    - microbial ecology
+    - plasmid
+    - dynamics
+    - simulation
+
+- id: doi:10.1371/journal.pcbi.1014339
+  type: paper
+  image: images/publications/pic_plasmid_community.png
+  tags:
+    - host-parasite interactions
+    - plasmid
+    - simulation
+    - microbial ecology
+
+
+- id: doi:10.48550/ARXIV.2605.09597
+  type: preprint
+  image: images/projects/mira.png
+  buttons:
+    - type: website
+      link: https://mira.ecomplab.com/
+  tags:
+    - multilayer networks
+    - software
+
+- id: doi:10.1093/ismeco/ycag026
+  type: paper
+  image: images/publications/pic_infection_profiles.png
+  tags:
+    - microbial ecology
+    - ecological networks
+    - host-parasite interactions
+    - land-use change
 
 - id: doi:10.1111/1365-2664.70213
   type: paper
@@ -6,29 +74,12 @@
     - metapopulation network
     - food security
 
-- id: doi:10.1101/2025.11.20.689463
-  type: preprint
-  image: images/publications/pic_spatial_lp_canary_islands.jpg
-  tags:
-    - link prediction
-    - ecological networks
-    - plant-pollinator interactions
-
 - id: doi:10.1111/ele.70255
   type: paper
   image: images/publications/pic_madagascar_rats_microbiome.png
   tags:
     - microbial ecology
     - land-use change
-
-- id: doi:10.1101/2025.09.08.674846
-  type: preprint
-  image: images/publications/pic_plasmid_dynamics.jpg
-  tags:
-    - microbial ecology
-    - plasmid
-    - dynamics
-    - simulation
 
 - id: doi:10.32942/X2MP9H
   type: preprint
@@ -38,13 +89,6 @@
     - ecological networks
     - host-parasite interactions
     - land-use change
-
-- id: doi:10.1101/2025.06.17.660120
-  type: preprint
-  image: images/publications/pic_metabolite_network.jpg
-  tags:
-    - microbial ecology
-    - Metabolites
 
 - id: doi:10.1038/s41559-025-02715-6
   type: paper
@@ -95,6 +139,7 @@
     - human gut
   
 - id: doi:10.1111/2041-210X.14225
+  type: paper
   description: EMLN package and guidelines
   image: images/projects/emln_pic.jpg #https://besjournals.onlinelibrary.wiley.com/cms/asset/d12add0e-b1fd-4727-9d4d-affcbc5e65c8/mee314225-fig-0001-m.jpg  
   buttons:
@@ -106,6 +151,7 @@
   repo: https://github.com/Ecological-Complexity-Lab/emln_package
     
 - id: doi:10.1038/s41467-023-41906-2
+  type: paper
   image: images/publications/pic_ecological_network_analysis_reveals_cancer.png # https://www.nature.com/articles/s41467-023-41906-2/figures/1
   buttons:
     - type: podcast
