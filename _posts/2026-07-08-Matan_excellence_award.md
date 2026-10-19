@@ -11,5 +11,5 @@ We are incredibly proud of you, Matan. Well deserved!
 {%
   include figure.html
   image="images/blog/Matan_award_July2026.jpg"
-  height="300px"
+  height="400px"
 %}
