@@ -1,8 +1,8 @@
 ---
 name: Noam Guetta
-image: images/team_noamguetta.jpeg
+image: images/alumni/team_noamguetta.jpeg
 description: BSc student
-role: undergrad
+role: alumni
 links:
   email: guettano@post.bgu.ac.il
 ---
